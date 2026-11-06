@@ -1,0 +1,444 @@
+{
+  "district": {
+    "id": "vijayanagara",
+    "name": "Vijayanagara",
+    "nameKannada": "ವಿಜಯನಗರ",
+    "division": "Kalaburagi",
+    "headquarters": "Hospet",
+    "lat": 15.2689,
+    "lng": 76.3909,
+    "taluks": [
+      "Hospet",
+      "Hagaribommanahalli",
+      "Harapanahalli",
+      "Hoovina Hadagali",
+      "Kudligi",
+      "Kotturu"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Karnataka's 31st district, home to the world-renowned UNESCO World Heritage site of Hampi, the grand Tungabhadra Dam, Virupaksha temple, stone chariot, and majestic boulder-strewn landscapes.",
+    "descriptionKannada": "ಕರ್ನಾಟಕದ ೩೧ನೇ ಜಿಲ್ಲೆ, ಜಗತ್ಪ್ರಸಿದ್ಧ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ ಹಂಪಿ, ತುಂಗಭದ್ರಾ ಜಲಾಶಯ, ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, ಕಲ್ಲಿನ ರಥ ಮತ್ತು ಭವ್ಯ ಬಂಡೆಗಲ್ಲುಗಳ ಭೂದೃಶ್ಯಗಳ ತವರು."
+  },
+  "destinations": [
+    {
+      "id": "gov_hampi_1793907106024",
+      "name": "hampi",
+      "nameKannada": "hampi",
+      "place_type": "temple",
+      "category": [
+        "heritage"
+      ],
+      "lat": 12.272,
+      "lng": 76.67,
+      "googleMapsUrl": "https://maps.app.goo.gl/kaPDMjzyAMTEy1r66?g_st=aw",
+      "district": "Vijayanagara",
+      "taluk": "hosapete",
+      "description": "Official tourist destination under Dept of Tourism, Karnataka.",
+      "image": "https://mdolylwrywladyepnqii.supabase.co/storage/v1/object/public/destination-images/1793907098514-s07uk00.jpeg",
+      "imageAttribution": {
+        "source": "Karnataka Tourism Verified Directory",
+        "author": "Department of Tourism, Government of Karnataka",
+        "license": "Official State Publication"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://mdolylwrywladyepnqii.supabase.co/storage/v1/object/public/destination-images/1793907098514-s07uk00.jpeg",
+          "caption": "Morning view of hampi",
+          "attribution": "Karnataka Tourism"
+        },
+        "afternoon": {
+          "url": "https://mdolylwrywladyepnqii.supabase.co/storage/v1/object/public/destination-images/1793907098514-s07uk00.jpeg",
+          "caption": "Daytime visitor view of hampi",
+          "attribution": "Karnataka Tourism"
+        },
+        "evening": {
+          "url": "https://mdolylwrywladyepnqii.supabase.co/storage/v1/object/public/destination-images/1793907098514-s07uk00.jpeg",
+          "caption": "Sunset light over hampi",
+          "attribution": "Karnataka Tourism"
+        },
+        "night": {
+          "url": "https://mdolylwrywladyepnqii.supabase.co/storage/v1/object/public/destination-images/1793907098514-s07uk00.jpeg",
+          "caption": "Night view of hampi",
+          "attribution": "Karnataka Tourism",
+          "isOpenAtNight": false,
+          "nightNotes": "Site closes at sunset (6:00 PM) for safety and conservation."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=GJ4sKt93Uto",
+        "videoId": "GJ4sKt93Uto",
+        "title": "Karnataka Tourism Official Video Guide"
+      },
+      "isPublished": true,
+      "entryFeeINR": 0,
+      "openingHours": "08:00 - 18:00",
+      "contact": "1800-425-4425",
+      "official_website": "https://karnatakatourism.org",
+      "accessibility": "Wheelchair ramps and accessible restrooms available",
+      "parking": true,
+      "services": [
+        "Parking",
+        "Restrooms",
+        "Drinking Water",
+        "Guide Assistance"
+      ],
+      "offbeat": false,
+      "verification_status": "verified",
+      "verifiedDate": "2026-11-05",
+      "source": "Dept of Tourism, Govt of Karnataka (Official Admin)",
+      "source_url": "https://karnatakatourism.org",
+      "location": {
+        "latitude": 12.272,
+        "longitude": 76.67
+      },
+      "location_verified": true,
+      "village": "hosapete",
+      "gramPanchayat": "hosapete Administration",
+      "subcategory": "temple",
+      "historicalSignificance": "Official tourist destination under Dept of Tourism, Karnataka.",
+      "culturalImportance": "Cultural destination in Vijayanagara celebrated with regional festivals.",
+      "bestSeason": "October to March",
+      "distanceFromNearestTown": "Within Vijayanagara district",
+      "nearestBusStation": "hosapete KSRTC Bus Stand",
+      "nearestRailwayStation": "Nearest rail junction serving Vijayanagara",
+      "roadAccessibility": "Paved all-weather road; accessible by car and bus",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Follow posted visitor signage and respect sacred or archaeological surroundings.",
+      "permissionRequirements": "No prior permission required; open to visitors",
+      "tourismInformationSource": "Karnataka State Gazetteer / Department of Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Recognized tourist destination in Vijayanagara circuit."
+      },
+      "division": "Kalaburagi"
+    },
+    {
+      "id": "hampi_unesco_complex",
+      "name": "Hampi UNESCO World Heritage Complex",
+      "nameKannada": "ಹಂಪಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ",
+      "district": "Vijayanagara",
+      "taluk": "Hospet",
+      "village": "Hampi",
+      "gramPanchayat": "Hospet Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "The monumental capital of the 14th-century Vijayanagara Empire covering 4,187 hectares across boulder-strewn hills and Tungabhadra riverbanks, featuring the iconic Vijaya Vittala Stone Chariot, musical pillars, Virupaksha Temple, and Lotus Mahal.",
+      "historicalSignificance": "UNESCO World Heritage Site since 1986. Chronicled by medieval travellers Abdur Razzak, Domingo Paes, and Fernao Nuniz as one of the richest cities in the world.",
+      "culturalImportance": "Sacred Pampa Kshetra and living temple tradition at Virupaksha, alongside grand annual Hampi Utsava celebrated with classical music and lights.",
+      "lat": 15.335,
+      "lng": 76.46,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.335,76.46",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Hampi UNESCO World Heritage Complex",
+          "source": "Archaeological Survey of India & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to March (Hampi Utsava in November/January)",
+      "entryFeeINR": 40,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "12 km from Hospet",
+      "nearestBusStation": "Hampi Bazaar Bus Stand (0.2 km) / Hospet KSRTC (12 km)",
+      "nearestRailwayStation": "Hosapete Junction (12 km)",
+      "roadAccessibility": "Excellent 4-lane connectivity from Bengaluru and Hubballi",
+      "trekkingDifficulty": "Easy to Moderate (boulder walking)",
+      "estimatedVisitDuration": "1 – 2 full days",
+      "safetyInstructions": "Hydrate continuously. Electric battery vehicles available between parking and Vittala Temple. Respect ASI boundary fences.",
+      "permissionRequirements": "Single composite ASI ticket covers Vittala Temple & Zanana Enclosure",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Karnataka's foremost global heritage attraction and UNESCO World Heritage crown jewel."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "hampiunescoworldheritagecomplex"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The monumental capital of the 14th-century Vijayanagara Empire covering 4,187 hectares across boulder-strewn hills and Tungabhadra riverbank...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.335,
+        "longitude": 76.46
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 40,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Hampi Utsava in November/January).",
+        "safetyNotes": "Hydrate continuously. Electric battery vehicles available between parking and Vittala Temple. Respect ASI boundary fences."
+      }
+    },
+    {
+      "id": "tungabhadra_dam_gardens",
+      "name": "Tungabhadra Dam & Japanese Gardens",
+      "nameKannada": "ತುಂಗಭದ್ರಾ ಜಲಾಶಯ ಮತ್ತು ಉದ್ಯಾನವನ",
+      "district": "Vijayanagara",
+      "taluk": "Hospet",
+      "village": "Munirabad / TB Dam",
+      "gramPanchayat": "Hospet Taluk Administration",
+      "category": [
+        "nature",
+        "scenic"
+      ],
+      "subcategory": "water_body",
+      "description": "One of Karnataka's largest multipurpose masonry dams spanning the mighty Tungabhadra River, surrounded by the Vaikuntha hilltop viewpoint, musical dancing fountains, lush Japanese gardens, and deer park.",
+      "historicalSignificance": "Inaugurated in 1953 as a premier post-independence engineering project designed by legendary engineer Dr. Thirumalai Iyengar.",
+      "culturalImportance": "Vital lifeline irrigating millions of acres across Karnataka and Andhra Pradesh; major evening leisure destination with illuminated fountains.",
+      "lat": 15.2667,
+      "lng": 76.3333,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.2667,76.3333",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Tungabhadra Dam & Japanese Gardens",
+          "source": "Tungabhadra Board & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "August to February (Full reservoir flow and pleasant evenings)",
+      "entryFeeINR": 20,
+      "openingHours": "08:00 – 20:30",
+      "distanceFromNearestTown": "6 km from Hospet city center",
+      "nearestBusStation": "TB Dam Bus Stop (0.5 km)",
+      "nearestRailwayStation": "Hosapete Junction (6 km)",
+      "roadAccessibility": "Broad 4-lane city access road with ample parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Follow posted security guidelines near dam crest. Musical fountain show starts at 19:00.",
+      "permissionRequirements": "Tungabhadra Board ticket at garden entrance",
+      "tourismInformationSource": "Tungabhadra Board & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Scenic reservoir with panoramic sunset views from Vaikuntha guest house hill."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "tungabhadradam&japanesegardens"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "One of Karnataka's largest multipurpose masonry dams spanning the mighty Tungabhadra River, surrounded by the Vaikuntha hilltop viewpoint, m...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.2667,
+        "longitude": 76.3333
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Tungabhadra Board & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 20:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during August to February (Full reservoir flow and pleasant evenings).",
+        "safetyNotes": "Follow posted security guidelines near dam crest. Musical fountain show starts at 19:00."
+      }
+    },
+    {
+      "id": "sanapur_lake_boulders",
+      "name": "Sanapur Lake & Boulder Canyon",
+      "nameKannada": "ಸಣಾಪುರ ಕೆರೆ ಮತ್ತು ಬಂಡೆಗಲ್ಲುಗಳ ಕಣಿವೆ",
+      "district": "Vijayanagara",
+      "taluk": "Gangavathi / Hospet Border",
+      "village": "Sanapur",
+      "gramPanchayat": "Gangavathi / Hospet Border Taluk Administration",
+      "category": [
+        "nature",
+        "adventure"
+      ],
+      "subcategory": "scenic_lake",
+      "description": "A serene emerald-water reservoir fed by the Tungabhadra canal, framed by colossal ochre granite rock formations. Renowned for tranquil coracle rides, cliff sunsets, and pristine boulder landscapes.",
+      "historicalSignificance": "Part of the ancient Kishkindha geological formations estimated at over 2.5 billion years old (Dharwar Craton).",
+      "culturalImportance": "A beloved haven for nature photographers, international backpackers, and cliff-side tranquility seekers.",
+      "lat": 15.3619,
+      "lng": 76.4467,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.3619,76.4467",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+          "caption": "Sanapur Lake & Boulder Canyon",
+          "source": "Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "8 km from Hampi via coracle/bridge, 18 km from Hospet",
+      "nearestBusStation": "Sanapur Village Bus Stop (1 km)",
+      "nearestRailwayStation": "Hosapete Junction (18 km)",
+      "roadAccessibility": "Paved rural road winding through paddy fields and boulder passes",
+      "trekkingDifficulty": "Easy to Moderate",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Swimming is strictly prohibited due to submerged rocks and sudden canal currents. Use authorized coracle boatmen with life jackets.",
+      "permissionRequirements": "Open natural water body; coracle rides pay per ride",
+      "tourismInformationSource": "Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Pristine lake tucked behind boulders, offering tranquil alternatives to crowded temple ruins."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "sanapurlake&bouldercanyon"
+      ],
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A serene emerald-water reservoir fed by the Tungabhadra canal, framed by colossal ochre granite rock formations. Renowned for tranquil corac...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.3619,
+        "longitude": 76.4467
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Swimming is strictly prohibited due to submerged rocks and sudden canal currents. Use authorized coracle boatmen with life jackets."
+      }
+    }
+  ],
+  "count": 4
+}

@@ -1,0 +1,462 @@
+{
+  "district": {
+    "id": "tumakuru",
+    "name": "Tumakuru",
+    "nameKannada": "ತುಮಕೂರು",
+    "division": "Bengaluru",
+    "headquarters": "Tumakuru",
+    "lat": 13.3392,
+    "lng": 77.1017,
+    "taluks": [
+      "Tumakuru",
+      "Chiknayakanhalli",
+      "Gubbi",
+      "Koratagere",
+      "Kunigal",
+      "Madhugiri",
+      "Pavagada",
+      "Sira",
+      "Tiptur",
+      "Turuvekere"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "description": "Known as 'Kalpataru Nadu' for its coconut wealth, Tumakuru features Asia's second-largest monolithic Madhugiri Fort, Sri Siddaganga Matha, Devarayanadurga hill temples, and pristine Hoysala temples at Aralaguppe.",
+    "descriptionKannada": "'ಕಲ್ಪತರು ನಾಡು' ತುಮಕೂರು, ಏಷ್ಯಾದ ಎರಡನೇ ದೊಡ್ಡ ಏಕಶಿಲೆ ಮಧುಗಿರಿ ಕೋಟೆ, ತ್ರಿವಿಧ ದಾಸೋಹಿ ಶ್ರೀ ಸಿದ್ಧಗಂಗಾ ಮಠ, ದೇವರಾಯನದುರ್ಗ ಮತ್ತು ಅರಳಗುಪ್ಪೆ ಹೊಯ್ಸಳ ದೇವಾಲಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "madhugiri_monolithic_fort",
+      "name": "Madhugiri Monolithic Hill Fort",
+      "nameKannada": "ಮಧುಗಿರಿ ಏಕಶಿಲಾ ಬೆಟ್ಟ ಮತ್ತು ಕೋಟೆ",
+      "district": "Tumakuru",
+      "taluk": "Madhugiri",
+      "village": "Madhugiri Town",
+      "gramPanchayat": "Madhugiri Taluk Administration",
+      "category": [
+        "adventure",
+        "heritage"
+      ],
+      "subcategory": "hill_fort",
+      "description": "Asia's second-largest monolithic granite hill rising 3,930 feet (1,200m) above sea level, crowned by a formidable multi-tiered medieval fortress with steep gateways (Antaralada Bagilu), grain storehouses, and sheer rock climbs that test human endurance.",
+      "historicalSignificance": "Originally built in 1670 CE by Raja Hire Gowda of the Madhugiri Palegars, reinforced by Hyder Ali who added the stone bastions and named it Fatehbagh.",
+      "culturalImportance": "A legendary mountain fortress in Karnataka military history, admired for its engineering that merges with bare granite cliff faces.",
+      "lat": 13.6639,
+      "lng": 77.2089,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.6639,77.2089",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Madhugiri Monolithic Hill Fort",
+          "source": "Archaeological Survey of India & Karnataka Gazetteer"
+        }
+      ],
+      "bestSeason": "October to February (Climb early morning; strictly avoid rain)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 17:30",
+      "distanceFromNearestTown": "Located at Madhugiri town, 43 km from Tumakuru, 105 km from Bengaluru",
+      "nearestBusStation": "Madhugiri KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Tumakuru Junction (43 km)",
+      "roadAccessibility": "Well-paved state highway connecting Tumakuru to Madhugiri",
+      "trekkingDifficulty": "Challenging (steep 60-degree granite rock face with rock-cut footholds)",
+      "estimatedVisitDuration": "4 – 5 hours",
+      "safetyInstructions": "Carry at least 2 liters of water and snacks. Never climb during rain; bare granite becomes slippery. Wear shoes with deep rubber tread.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; open public entry",
+      "tourismInformationSource": "Archaeological Survey of India & Karnataka Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Asia's second largest monolith with an exhilarating steep fortress climb."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "madhugirimonolithichillfort"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Asia's second-largest monolithic granite hill rising 3,930 feet (1,200m) above sea level, crowned by a formidable multi-tiered medieval fort...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.6639,
+        "longitude": 77.2089
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Karnataka Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 17:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (Climb early morning; strictly avoid rain).",
+        "safetyNotes": "Carry at least 2 liters of water and snacks. Never climb during rain; bare granite becomes slippery. Wear shoes with deep rubber tread."
+      }
+    },
+    {
+      "id": "aralaguppe_chennakeshava_temple",
+      "name": "Aralaguppe Chennakeshava & Kalleshwara Temples",
+      "nameKannada": "ಅರಳಗುಪ್ಪೆ ಚೆನ್ನಕೇಶವ ಮತ್ತು ಕಲ್ಲೇಶ್ವರ ದೇವಾಲಯ",
+      "district": "Tumakuru",
+      "taluk": "Tiptur",
+      "village": "Aralaguppe",
+      "gramPanchayat": "Tiptur Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A quiet village holding two supreme architectural treasures: the 13th-century Hoysala Chennakeshava Temple (1250 CE) featuring a star-shaped stellate plinth with 140 relief panels, and the 9th-century Nolamba Kalleshwara Temple housing an astonishing ceiling sculpture of dancing Nataraja surrounded by Ashta Dikpalakas.",
+      "historicalSignificance": "Built by Hoysala master sculptor Honnoja under King Someshwara; Nolamba Kalleshwara ceiling is ranked among India's finest stone reliefs.",
+      "culturalImportance": "An untouched heritage oasis free of commercial tourist crowds, preserving pristine 13th-century soapstone artistry.",
+      "lat": 13.25,
+      "lng": 76.6833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.25,76.6833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Aralaguppe Chennakeshava & Kalleshwara Temples",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 18:00",
+      "distanceFromNearestTown": "18 km from Tiptur, 60 km from Tumakuru",
+      "nearestBusStation": "Aralaguppe Bus Stop (0.5 km) / Tiptur Bus Stand (18 km)",
+      "nearestRailwayStation": "Aralaguppe Railway Station (1 km) on Bengaluru-Hubballi line",
+      "roadAccessibility": "Paved rural road from Tiptur or Banasandra",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Remove footwear before entering temple mandapas. Carry torch to appreciate ceiling carvings.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Virtually empty Hoysala & Nolamba masterpiece rivaling Belur, right off the railway line."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "aralaguppechennakeshava&kalleshwaratemples"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A quiet village holding two supreme architectural treasures: the 13th-century Hoysala Chennakeshava Temple (1250 CE) featuring a star-shaped...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.25,
+        "longitude": 76.6833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before entering temple mandapas. Carry torch to appreciate ceiling carvings."
+      }
+    },
+    {
+      "id": "siddaganga_matha_tumakuru",
+      "name": "Sri Siddaganga Matha (Trividha Dasoha Peetha)",
+      "nameKannada": "ಶ್ರೀ ಸಿದ್ಧಗಂಗಾ ಮಠ (ತ್ರಿವಿಧ ದಾಸೋಹ ಪೀಠ)",
+      "district": "Tumakuru",
+      "taluk": "Tumakuru",
+      "village": "Kyatsandra",
+      "gramPanchayat": "Tumakuru Taluk Administration",
+      "category": [
+        "spiritual",
+        "culture"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "A globally revered 600-year-old humanitarian and educational institution established by Sri Gosala Siddeshwara Swamiji in the 15th century. Elevated to global renown by centenarian saint Dr. Sri Sri Shivakumara Swamiji (known as 'Walking God'), who provided free food (Anna Dasoha), shelter (Jnaana Dasoha), and education to over 10,000 underprivileged children daily.",
+      "historicalSignificance": "Founded in the 15th century; Dr. Shivakumara Swamiji lived to 111 years and was posthumously awarded the Padma Bhushan for his lifelong service.",
+      "culturalImportance": "The living conscience of Karnataka humanitarianism, embodying Basaveshwara's principle of 'Kayaka' (work is worship) and 'Dasoha' (selfless sharing).",
+      "lat": 13.3183,
+      "lng": 77.135,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3183,77.135",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Sri Siddaganga Matha (Trividha Dasoha Peetha)",
+          "source": "Sri Siddaganga Matha Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round",
+      "entryFeeINR": 0,
+      "openingHours": "05:30 – 21:00",
+      "distanceFromNearestTown": "5 km east of Tumakuru city, 65 km from Bengaluru",
+      "nearestBusStation": "Kyatsandra Bus Stop (1 km) / Tumakuru Central Bus Stand (5 km)",
+      "nearestRailwayStation": "Kyatsandra Railway Station (1 km) or Tumakuru (5 km)",
+      "roadAccessibility": "Situated just 1 km off the Bengaluru-Tumakuru 6-lane National Highway 48",
+      "trekkingDifficulty": "None (easy campus walking; hilltop temple has stairs)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "All pilgrims are served free sanctified meals (Dasoha) at the grand community hall. Respect campus cleanliness.",
+      "permissionRequirements": "Open to all humanity regardless of caste, creed, or religion",
+      "tourismInformationSource": "Sri Siddaganga Matha Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Legendary humanitarian center providing free education and food to 10,000+ children daily."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "srisiddagangamatha(trividhadasohapeetha)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A globally revered 600-year-old humanitarian and educational institution established by Sri Gosala Siddeshwara Swamiji in the 15th century. ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3183,
+        "longitude": 77.135
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Siddaganga Matha Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "05:30 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round.",
+        "safetyNotes": "All pilgrims are served free sanctified meals (Dasoha) at the grand community hall. Respect campus cleanliness."
+      }
+    },
+    {
+      "id": "devarayanadurga_namada_chilume",
+      "name": "Devarayanadurga Hill Temples & Namada Chilume Spring",
+      "nameKannada": "ದೇವರಾಯನದುರ್ಗ ಬೆಟ್ಟ ಮತ್ತು ನಾಮದ ಚಿಲುಮೆ",
+      "district": "Tumakuru",
+      "taluk": "Tumakuru",
+      "village": "Devarayanadurga",
+      "gramPanchayat": "Tumakuru Taluk Administration",
+      "category": [
+        "spiritual",
+        "nature",
+        "heritage"
+      ],
+      "subcategory": "hill_station",
+      "description": "A lush 1,200-meter hill station surrounded by reserve forests, housing the 9th-century Bhoga Narasimha Temple at the base and Yoga Narasimha Temple atop the craggy summit. Nearby lies Namada Chilume, a sacred natural spring that sprouted from rock when Lord Rama shot an arrow to apply 'Nama' (tilak) to his forehead.",
+      "historicalSignificance": "Renamed Devarayanadurga after Mysore Maharaja Chikka Devaraja Wodeyar captured it in 1696 CE.",
+      "culturalImportance": "Sacred hill station rich in medicinal plants, spotted deer, and the annual Car Festival (Jathra) on Chaitra Poornima.",
+      "lat": 13.3739,
+      "lng": 77.2117,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3739,77.2117",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Devarayanadurga Hill Temples & Namada Chilume Spring",
+          "source": "Karnataka Endowments Dept & Forest Dept"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 18:30",
+      "distanceFromNearestTown": "15 km from Tumakuru, 70 km from Bengaluru",
+      "nearestBusStation": "Devarayanadurga Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Tumakuru Junction (15 km)",
+      "roadAccessibility": "Paved ghat road through dense reserve forest",
+      "trekkingDifficulty": "Moderate (approx. 200 stone steps to Yoga Narasimha summit)",
+      "estimatedVisitDuration": "3 hours",
+      "safetyInstructions": "Monkeys are present; keep food concealed. Deer park adjacent to Namada Chilume has marked viewing areas.",
+      "permissionRequirements": "Open access, managed by Endowments & Forest Dept",
+      "tourismInformationSource": "Karnataka Endowments Dept & Forest Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Lush forested hill station with ancient Narasimha temples and natural Rama arrow spring."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "devarayanadurgahilltemples&namadachilumespring"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A lush 1,200-meter hill station surrounded by reserve forests, housing the 9th-century Bhoga Narasimha Temple at the base and Yoga Narasimha...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3739,
+        "longitude": 77.2117
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Endowments Dept & Forest Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Monkeys are present; keep food concealed. Deer park adjacent to Namada Chilume has marked viewing areas."
+      }
+    }
+  ],
+  "count": 4
+}

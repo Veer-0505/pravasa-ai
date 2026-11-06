@@ -1,0 +1,461 @@
+{
+  "district": {
+    "id": "chikkaballapur",
+    "name": "Chikkaballapur",
+    "nameKannada": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+    "division": "Bengaluru",
+    "headquarters": "Chikkaballapur",
+    "lat": 13.4356,
+    "lng": 77.7275,
+    "taluks": [
+      "Chikkaballapur",
+      "Bagepalli",
+      "Chintamani",
+      "Gauribidanur",
+      "Gudibanda",
+      "Sidlaghatta",
+      "Chelur"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&auto=format&fit=crop&q=80",
+    "description": "Home to the misty hill fortress Nandi Hills, 9th-century Bhoga Nandeeshwara temple, Skandagiri night trek, Sir M. Visvesvaraya memorial at Muddenahalli, and multi-tiered Gudibanda Fort.",
+    "descriptionKannada": "ಮಂಜು ಮುಸುಕಿದ ನಂದಿ ಬೆಟ್ಟ, ೯ನೇ ಶತಮಾನದ ಭೋಗ ನಂದೀಶ್ವರ ದೇವಾಲಯ, ಸ್ಕಂದಗಿರಿ ನೈಟ್ ಟ್ರೆಕ್, ಮುದ್ದೇನಹಳ್ಳಿಯ ಸರ್ ಎಂ.ವಿ. ಸ್ಮಾರಕ ಮತ್ತು ಗುಡಿಬಂಡೆ ಕೋಟೆಯ ನಾಡು."
+  },
+  "destinations": [
+    {
+      "id": "nandi_hills_nandidurga",
+      "name": "Nandi Hills (Nandidurga)",
+      "nameKannada": "ನಂದಿ ಬೆಟ್ಟ (ನಂದಿದುರ್ಗ)",
+      "district": "Chikkaballapur",
+      "taluk": "Chikkaballapur",
+      "village": "Nandi Hills",
+      "gramPanchayat": "Chikkaballapur Taluk Administration",
+      "category": [
+        "nature",
+        "heritage",
+        "viewpoint"
+      ],
+      "subcategory": "hill_station",
+      "description": "A legendary 1,478-meter mist-cloaked fortress hill station famous for its breathtaking sunrise above an ocean of clouds, Tipu's Summer Residence (Tashk-e-Jannat), the sheer cliff drop of Tipu's Drop, and the sacred Amrita Sarovar lake.",
+      "historicalSignificance": "Fortified by the Palegars of Chikkaballapur and reinforced by Hyder Ali and Tipu Sultan; captured by Lord Cornwallis in 1791.",
+      "culturalImportance": "Bengaluru's favorite weekend sunrise retreat, celebrated in literature and art for its refreshing micro-climate.",
+      "lat": 13.37,
+      "lng": 77.6833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.37,77.6833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Nandi Hills (Nandidurga)",
+          "source": "Department of Horticulture & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (Sunrise cloud beds optimal October to January)",
+      "entryFeeINR": 30,
+      "openingHours": "06:00 – 18:00 (Entry gates open at 06:00 for sunrise)",
+      "distanceFromNearestTown": "20 km from Chikkaballapur, 60 km from Bengaluru",
+      "nearestBusStation": "Nandi Hills Top Bus Stop (0.1 km)",
+      "nearestRailwayStation": "Chikkaballapur Railway Station (20 km)",
+      "roadAccessibility": "Well-engineered all-weather ghat road with viewpoints and parking",
+      "trekkingDifficulty": "Easy (road ascent) or Moderate (traditional stone staircase trail from base)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Tipu's drop has strong protective railings; never climb over barrier walls. Monkeys are mischievous—zip up backpacks.",
+      "permissionRequirements": "Horticulture Department entry ticket",
+      "tourismInformationSource": "Department of Horticulture & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Premier weekend hill station famous for sunrise above a sea of clouds."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "nandihills(nandidurga)"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A legendary 1,478-meter mist-cloaked fortress hill station famous for its breathtaking sunrise above an ocean of clouds, Tipu's Summer Resid...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.37,
+        "longitude": 77.6833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Department of Horticulture & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00 (Entry gates open at 06:00 for sunrise)",
+        "entryFeeINR": 30,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Sunrise cloud beds optimal October to January).",
+        "safetyNotes": "Tipu's drop has strong protective railings; never climb over barrier walls. Monkeys are mischievous—zip up backpacks."
+      }
+    },
+    {
+      "id": "bhoga_nandeeshwara_temple",
+      "name": "Bhoga Nandeeshwara Temple, Nandi Village",
+      "nameKannada": "ಭೋಗ ನಂದೀಶ್ವರ ದೇವಾಲಯ, ನಂದಿ ಗ್ರಾಮ",
+      "district": "Chikkaballapur",
+      "taluk": "Chikkaballapur",
+      "village": "Nandi Village",
+      "gramPanchayat": "Chikkaballapur Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "One of Karnataka's oldest surviving and most ornate temple complexes at the base of Nandi Hills, built across four imperial dynasties: Nolamba, Ganga, Chola, and Hoysala. Features Arunachaleshwara, Bhoga Nandeeshwara, and Uma Maheshwara shrines with an exquisite stepped kalyani (shringi teertha).",
+      "historicalSignificance": "Originally consecrated in 806 CE by Queen Ratnavali of the Bana/Nolamba dynasty; architectural evolution spans over 700 years.",
+      "culturalImportance": "Masterpiece of Dravidian stone carving, renowned for the intricately sculpted wedding hall (Kalyana Mantapa) in black stone.",
+      "lat": 13.3853,
+      "lng": 77.7011,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3853,77.7011",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bhoga Nandeeshwara Temple, Nandi Village",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 19:00",
+      "distanceFromNearestTown": "15 km from Chikkaballapur, 55 km from Bengaluru",
+      "nearestBusStation": "Nandi Village Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Chikkaballapur Railway Station (15 km)",
+      "roadAccessibility": "Paved rural road directly connected to NH-44",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Remove footwear before entering the temple complex. Walk respectfully around the stepped pond.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Extraordinary 1,200-year-old temple complex with breathtaking stepped kalyani tank."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "bhoganandeeshwaratemple,nandivillage"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "One of Karnataka's oldest surviving and most ornate temple complexes at the base of Nandi Hills, built across four imperial dynasties: Nolam...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3853,
+        "longitude": 77.7011
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 19:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before entering the temple complex. Walk respectfully around the stepped pond."
+      }
+    },
+    {
+      "id": "skandagiri_kalavara_durga_trek",
+      "name": "Skandagiri (Kalavara Durga) Sunrise Trek",
+      "nameKannada": "ಸ್ಕಂದಗಿರಿ (ಕಲವಾರ ದುರ್ಗ) ಸೂರ್ಯೋದಯ ಚಾರಣ",
+      "district": "Chikkaballapur",
+      "taluk": "Chikkaballapur",
+      "village": "Kalavara",
+      "gramPanchayat": "Chikkaballapur Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "viewpoint"
+      ],
+      "subcategory": "hill_fort",
+      "description": "A legendary 1,450-meter mountain peak famous for the surreal phenomenon of sunrise above a thick sea of clouds (inversion layer). Crowned by the ruins of an 18th-century hill fort built by local Palegars and utilized by Tipu Sultan.",
+      "historicalSignificance": "Dating back to the Tipu Sultan era; served as a strategic military lookout during Anglo-Mysore wars.",
+      "culturalImportance": "Bengaluru's most sought-after pre-dawn trekking destination, offering hikers the feeling of standing atop cloud ocean waves.",
+      "lat": 13.4167,
+      "lng": 77.6833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.4167,77.6833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Skandagiri (Kalavara Durga) Sunrise Trek",
+          "source": "Karnataka EcoTourism Development Board"
+        }
+      ],
+      "bestSeason": "October to February (Cloud-bed formations optimal between November and January)",
+      "entryFeeINR": 250,
+      "openingHours": "Night slot: 03:30 AM departure / Day slot: 06:00 AM departure",
+      "distanceFromNearestTown": "8 km from Chikkaballapur, 60 km from Bengaluru",
+      "nearestBusStation": "Kalavara Village Base / Chikkaballapur Bus Stand (8 km)",
+      "nearestRailwayStation": "Chikkaballapur Railway Station (8 km)",
+      "roadAccessibility": "Paved road to Kalavara village base camp off NH-44",
+      "trekkingDifficulty": "Moderate (approx. 4 km rocky steep ascent, 2.5 hours climb)",
+      "estimatedVisitDuration": "4 – 5 hours",
+      "safetyInstructions": "Mandatory online booking via Karnataka EcoTourism portal. Carry headlamps with fresh batteries for pre-dawn climb. Carry warm fleece jacket for windy summit.",
+      "permissionRequirements": "Mandatory online booking via Karnataka EcoTourism Development Board (KEDB)",
+      "tourismInformationSource": "Karnataka EcoTourism Development Board",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Unrivalled sunrise vista above an endless blanket of misty clouds."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "skandagiri(kalavaradurga)sunrisetrek"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A legendary 1,450-meter mountain peak famous for the surreal phenomenon of sunrise above a thick sea of clouds (inversion layer). Crowned by...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.4167,
+        "longitude": 77.6833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka EcoTourism Development Board",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Night slot: 03:30 AM departure / Day slot: 06:00 AM departure",
+        "entryFeeINR": 250,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (Cloud-bed formations optimal between November and January).",
+        "safetyNotes": "Mandatory online booking via Karnataka EcoTourism portal. Carry headlamps with fresh batteries for pre-dawn climb. Carry warm fleece jacket for windy summit."
+      }
+    },
+    {
+      "id": "gudibanda_fort_surasadhana",
+      "name": "Gudibanda Fort & Surasadhana Lake",
+      "nameKannada": "ಗುಡಿಬಂಡೆ ಕೋಟೆ ಮತ್ತು ಸೂರಸಾಧನ ಕೆರೆ",
+      "district": "Chikkaballapur",
+      "taluk": "Gudibanda",
+      "village": "Gudibanda Town",
+      "gramPanchayat": "Gudibanda Taluk Administration",
+      "category": [
+        "heritage",
+        "adventure",
+        "hidden_gem"
+      ],
+      "subcategory": "hill_fort",
+      "description": "A multi-tiered 17th-century hill fortress built by local chieftain Byre Gowda, modeled as a miniature replica of Madhugiri Fort. Features 7 levels of ramparts, rock-cut water harvesting ponds that stay filled year-round, an ancient Shiva temple, and a panoramic view of the lake below.",
+      "historicalSignificance": "Built around 1670 CE; admired by military historians for its sophisticated interconnected escape channels and cisterns.",
+      "culturalImportance": "A peaceful, crowd-free alternative to Nandi Hills and Skandagiri, preserving pristine historical ramparts.",
+      "lat": 13.6706,
+      "lng": 77.7022,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.6706,77.7022",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gudibanda Fort & Surasadhana Lake",
+          "source": "State Archaeology Dept & District Administration"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "30 km from Chikkaballapur, 90 km from Bengaluru",
+      "nearestBusStation": "Gudibanda Bus Stand (1 km)",
+      "nearestRailwayStation": "Gauribidanur (25 km) or Chikkaballapur (30 km)",
+      "roadAccessibility": "Paved state road via Peresandra cross on NH-44",
+      "trekkingDifficulty": "Easy to Moderate (approx. 500 stone steps)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Carry drinking water. Good grip shoes advised on stone pathways.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; free entry",
+      "tourismInformationSource": "State Archaeology Dept & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Miniature Madhugiri fort with 7 layers of battlements, virtually empty of commercial tourists."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "gudibandafort&surasadhanalake"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A multi-tiered 17th-century hill fortress built by local chieftain Byre Gowda, modeled as a miniature replica of Madhugiri Fort. Features 7 ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.6706,
+        "longitude": 77.7022
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "State Archaeology Dept & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Carry drinking water. Good grip shoes advised on stone pathways."
+      }
+    }
+  ],
+  "count": 4
+}

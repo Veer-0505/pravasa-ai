@@ -1,0 +1,457 @@
+{
+  "district": {
+    "id": "bengaluru_rural",
+    "name": "Bengaluru Rural",
+    "nameKannada": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+    "division": "Bengaluru",
+    "headquarters": "Devanahalli",
+    "lat": 13.2483,
+    "lng": 77.7125,
+    "taluks": [
+      "Devanahalli",
+      "Doddaballapura",
+      "Hosakote",
+      "Nelamangala"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Encircling the capital, Bengaluru Rural is rich in scenic forts and pilgrimage centers, including historic Devanahalli Fort (birthplace of Tipu Sultan), Ghati Subramanya Temple, and Makalidurga hill trek.",
+    "descriptionKannada": "ರಾಜಧಾನಿಯ ಸುತ್ತಲಿನ ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆ, ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಜನ್ಮಸ್ಥಳವಾದ ದೇವನಹಳ್ಳಿ ಕೋಟೆ, ಘಾಟಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಾಲಯ ಮತ್ತು ಮಾಕಾಳಿದುರ್ಗ ಚಾರಣಕ್ಕೆ ಹೆಸರಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "devanahalli_fort_tipu_birthplace",
+      "name": "Devanahalli Fort & Tipu Sultan Birthplace",
+      "nameKannada": "ದೇವನಹಳ್ಳಿ ಕೋಟೆ ಮತ್ತು ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಜನ್ಮಸ್ಥಳ",
+      "district": "Bengaluru Rural",
+      "taluk": "Devanahalli",
+      "village": "Devanahalli Town",
+      "gramPanchayat": "Devanahalli Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A 16th-century stone fort originally built by Malla Byre Gowda and later refortified with stone bastions by Hyder Ali and Tipu Sultan. Contains the Venugopalaswamy temple with Vijayanagara carvings and the memorial pillar marking Tipu Sultan's birthplace (1750 CE).",
+      "historicalSignificance": "The birthplace of the 'Tiger of Mysore' Tipu Sultan in November 1750; witnessed fierce British sieges under Lord Cornwallis in 1791.",
+      "culturalImportance": "Living residential stone fort preserving heritage village life inside ancient walls just minutes from the international airport.",
+      "lat": 13.2483,
+      "lng": 77.7125,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.2483,77.7125",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Devanahalli Fort & Tipu Sultan Birthplace",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 18:30",
+      "distanceFromNearestTown": "35 km north of Bengaluru, 12 km from Kempegowda International Airport",
+      "nearestBusStation": "Devanahalli Bus Stand (1 km)",
+      "nearestRailwayStation": "Devanahalli Railway Station (1.5 km)",
+      "roadAccessibility": "Directly accessible via NH-44 (Airport Expressway)",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Narrow streets inside the fort; park outside the main stone gate and explore on foot.",
+      "permissionRequirements": "Protected under Archaeological Survey of India; open public entry",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Intact 18th-century stone fortification and birthplace of Tipu Sultan right next to the airport."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "devanahallifort&tipusultanbirthplace"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 16th-century stone fort originally built by Malla Byre Gowda and later refortified with stone bastions by Hyder Ali and Tipu Sultan. Conta...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.2483,
+        "longitude": 77.7125
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Narrow streets inside the fort; park outside the main stone gate and explore on foot."
+      }
+    },
+    {
+      "id": "ghati_subramanya_temple",
+      "name": "Ghati Subramanya Temple",
+      "nameKannada": "ಘಾಟಿ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಾಲಯ",
+      "district": "Bengaluru Rural",
+      "taluk": "Doddaballapura",
+      "village": "Tubagere",
+      "gramPanchayat": "Doddaballapura Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "A revered 600-year-old pilgrimage shrine dedicated to Lord Subramanya, featuring a unique self-manifested stone idol where Lord Subramanya faces east and Lord Lakshmi Narasimha faces west, visible simultaneously through a strategically positioned mirror.",
+      "historicalSignificance": "Dating back to the Ghorpade rulers of Sandur and Mysore Wodeyars; famous for the annual agricultural cattle fair (Jathra) in Pushya month.",
+      "culturalImportance": "One of Karnataka's preeminent Sarpa Dosha Parihara shrines, nestled amidst green farmland and granite boulders.",
+      "lat": 13.3167,
+      "lng": 77.5167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3167,77.5167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Ghati Subramanya Temple",
+          "source": "Karnataka Endowments Department & Tourism Dept"
+        }
+      ],
+      "bestSeason": "October to March (Special fair in December/January)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 20:30",
+      "distanceFromNearestTown": "12 km from Doddaballapura, 55 km from Bengaluru",
+      "nearestBusStation": "Ghati Subramanya Temple Bus Stand (0.1 km)",
+      "nearestRailwayStation": "Makalidurga Railway Station (6 km) or Doddaballapura (12 km)",
+      "roadAccessibility": "Paved scenic state highway via Doddaballapura",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Expect high pilgrim crowds on Tuesdays, Sundays, and during the annual cattle fair.",
+      "permissionRequirements": "Managed by Karnataka Endowments Department; open to all",
+      "tourismInformationSource": "Karnataka Endowments Department & Tourism Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Famous twin-deity single-stone carving reflected through rear mirrors."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "ghatisubramanyatemple"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A revered 600-year-old pilgrimage shrine dedicated to Lord Subramanya, featuring a unique self-manifested stone idol where Lord Subramanya f...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3167,
+        "longitude": 77.5167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Endowments Department & Tourism Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Special fair in December/January).",
+        "safetyNotes": "Expect high pilgrim crowds on Tuesdays, Sundays, and during the annual cattle fair."
+      }
+    },
+    {
+      "id": "shivagange_hill_monolith",
+      "name": "Shivagange Monolithic Hill & Cave Temple",
+      "nameKannada": "ಶಿವಗಂಗೆ ಏಕಶಿಲಾ ಬೆಟ್ಟ ಮತ್ತು ಗುಹಾ ದೇವಾಲಯ",
+      "district": "Bengaluru Rural",
+      "taluk": "Nelamangala",
+      "village": "Dobbspet / Shivagange",
+      "gramPanchayat": "Nelamangala Taluk Administration",
+      "category": [
+        "spiritual",
+        "adventure",
+        "heritage"
+      ],
+      "subcategory": "sacred_hill",
+      "description": "A dramatic 1,368-meter cone-shaped monolithic hill known as 'Dakshina Kashi'. From four distinct angles it resembles a Shiva Linga, a Nandi bull, an elephant, and a Ganesha. Features subterranean Gangadhareshwara cave temple where ghee mysteriously turns to butter upon contact with the Shiva linga, and Olakal Teertha spring.",
+      "historicalSignificance": "Fortified by Hoysala King Vishnuvardhana and later by Kempe Gowda who built royal defenses and watchtowers.",
+      "culturalImportance": "Famous pilgrimage and trekking climb; the natural spring at the summit is revered as holy Ganga water.",
+      "lat": 13.1706,
+      "lng": 77.2272,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.1706,77.2272",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Shivagange Monolithic Hill & Cave Temple",
+          "source": "Karnataka Endowments Dept & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March (Climb early morning; avoid midday sun)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "8 km from Dobbspet, 20 km from Nelamangala, 55 km from Bengaluru",
+      "nearestBusStation": "Shivagange Base Bus Stop (0.2 km) / Dobbspet (8 km)",
+      "nearestRailwayStation": "Nidvanda Railway Station (5 km) or Tumakuru (30 km)",
+      "roadAccessibility": "Located just 8 km off NH-48 (Bengaluru-Tumakuru expressway) via Dobbspet",
+      "trekkingDifficulty": "Moderate (approx. 900 stone steps with safety railings on exposed rock)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Monkeys are very assertive along the route; secure all food, water bottles, and glasses inside bags. Hold safety railings on exposed upper ridge.",
+      "permissionRequirements": "Protected by State Archaeology Dept; open entry",
+      "tourismInformationSource": "Karnataka Endowments Dept & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Sacred four-faced monolithic peak with subterranean cave temples and natural springs."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "shivagangemonolithichill&cavetemple"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A dramatic 1,368-meter cone-shaped monolithic hill known as 'Dakshina Kashi'. From four distinct angles it resembles a Shiva Linga, a Nandi ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.1706,
+        "longitude": 77.2272
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Endowments Dept & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Climb early morning; avoid midday sun).",
+        "safetyNotes": "Monkeys are very assertive along the route; secure all food, water bottles, and glasses inside bags. Hold safety railings on exposed upper ridge."
+      }
+    },
+    {
+      "id": "makalidurga_hill_trek_fort",
+      "name": "Makalidurga Hill Fort & Railway Lake Trek",
+      "nameKannada": "ಮಾಕಾಳಿದುರ್ಗ ಗಿರಿ ಕೋಟೆ ಮತ್ತು ಕೆರೆ ಚಾರಣ",
+      "district": "Bengaluru Rural",
+      "taluk": "Doddaballapura",
+      "village": "Makali",
+      "gramPanchayat": "Doddaballapura Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "heritage"
+      ],
+      "subcategory": "hill_fort",
+      "description": "A 1,117-meter granite peak crowned by the ruined stone fort of the Vijayanagara feudatory Makaliraya, overlooking an emerald lake naturally shaped like the continent of South America and a picturesque curved railway track through boulder gaps.",
+      "historicalSignificance": "Dating back to the late Vijayanagara era, captured by Shivaji's father Shahaji Bhonsle and later recaptured by Kempe Gowda.",
+      "culturalImportance": "One of the most scenic day-treks from Bengaluru, blending hill climbing, lake reflections, and train spotting.",
+      "lat": 13.4333,
+      "lng": 77.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.4333,77.5",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Makalidurga Hill Fort & Railway Lake Trek",
+          "source": "Karnataka EcoTourism Development Board"
+        }
+      ],
+      "bestSeason": "September to February",
+      "entryFeeINR": 250,
+      "openingHours": "06:00 – 17:00 (Trek departure before 10:00 AM advised)",
+      "distanceFromNearestTown": "18 km from Doddaballapura, 60 km from Bengaluru",
+      "nearestBusStation": "Makalidurga Station Bus Stop (1 km)",
+      "nearestRailwayStation": "Makalidurga Railway Station (1.5 km)",
+      "roadAccessibility": "Paved state road from Doddaballapura to Makalidurga station",
+      "trekkingDifficulty": "Moderate (rocky trails with loose gravel and granite boulders)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Carry 2 liters of water. Trekking permit must be booked online through Karnataka EcoTourism portal. Wear shoes with firm ankle support.",
+      "permissionRequirements": "Online permit via Karnataka EcoTourism Development Board (KEDB)",
+      "tourismInformationSource": "Karnataka EcoTourism Development Board",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Scenic railway-view trek overlooking a lake shaped like South America."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "makalidurgahillfort&railwaylaketrek"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 1,117-meter granite peak crowned by the ruined stone fort of the Vijayanagara feudatory Makaliraya, overlooking an emerald lake naturally ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.4333,
+        "longitude": 77.5
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka EcoTourism Development Board",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 17:00 (Trek departure before 10:00 AM advised)",
+        "entryFeeINR": 250,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during September to February.",
+        "safetyNotes": "Carry 2 liters of water. Trekking permit must be booked online through Karnataka EcoTourism portal. Wear shoes with firm ankle support."
+      }
+    }
+  ],
+  "count": 4
+}

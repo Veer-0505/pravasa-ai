@@ -1,0 +1,354 @@
+{
+  "district": {
+    "id": "vijayapura",
+    "name": "Vijayapura",
+    "nameKannada": "ವಿಜಯಪುರ",
+    "division": "Belagavi",
+    "headquarters": "Vijayapura",
+    "lat": 16.8302,
+    "lng": 75.71,
+    "taluks": [
+      "Vijayapura",
+      "Basavana Bagewadi",
+      "Indi",
+      "Muddebihal",
+      "Sindagi",
+      "Babaleshwar",
+      "Chadchan",
+      "Nidagundi",
+      "Tikota",
+      "Devar Hippargi",
+      "Kolhar"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "City of medieval monuments and domes, Vijayapura is world-renowned for Gol Gumbaz with its acoustic Whispering Gallery, the exquisite Ibrahim Rauza, Bara Kaman arches, and Almatti Dam gardens.",
+    "descriptionKannada": "ಮಧ್ಯಕಾಲೀನ ಗುಮ್ಮಟಗಳ ನಗರ ವಿಜಯಪುರ, ಜಗತ್ಪ್ರಸಿದ್ಧ ಗುಸುಗುಸು ಗ್ಯಾಲರಿಯಿರುವ ಗೋಲ್ ಗುಂಬಜ್, ಇಬ್ರಾಹಿಂ ರೋಜಾ, ಬಾರಾ ಕಮಾನ್ ಮತ್ತು ಆಲಮಟ್ಟಿ ಜಲಾಶಯ ಉದ್ಯಾನವನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "gol_gumbaz_bijapur",
+      "name": "Gol Gumbaz (Whispering Gallery)",
+      "nameKannada": "ಗೋಲ್ ಗುಂಬಜ್ (ಗುಸುಗುಸು ಗ್ಯಾಲರಿ)",
+      "district": "Vijayapura",
+      "taluk": "Vijayapura",
+      "village": "Vijayapura City",
+      "gramPanchayat": "Vijayapura Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "The colossal 1659 CE mausoleum of Sultan Mohammed Adil Shah boasting the second largest dome in the world built without pillar support (44 meters external diameter). Renowned for its world-famous Whispering Gallery where the faintest whisper echoes 11 distinct times across 38 meters.",
+      "historicalSignificance": "Designed by master architect Yaqut of Dabul; pinnacle of Adil Shahi Deccani Islamic engineering.",
+      "culturalImportance": "One of India's most celebrated engineering marvels, attracting scholars and travellers worldwide for its unmatched acoustic physics.",
+      "lat": 16.8306,
+      "lng": 75.7364,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.8306,75.7364",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gol Gumbaz (Whispering Gallery)",
+          "source": "Archaeological Survey of India & UNESCO Tentative List"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located within Vijayapura city",
+      "nearestBusStation": "Vijayapura Central Bus Stand (2 km)",
+      "nearestRailwayStation": "Vijayapura Railway Station (1 km)",
+      "roadAccessibility": "Central city road with expansive landscaped gardens and parking",
+      "trekkingDifficulty": "Moderate (winding stairs inside octagonal corner minarets to dome)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Take care on the narrow spiral minaret stairs leading up to the gallery. Children must be supervised on the upper gallery.",
+      "permissionRequirements": "ASI entry ticket required",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO Tentative List",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous Whispering Gallery with second-largest unsupported dome in human history."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "golgumbaz(whisperinggallery)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The colossal 1659 CE mausoleum of Sultan Mohammed Adil Shah boasting the second largest dome in the world built without pillar support (44 m...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.8306,
+        "longitude": 75.7364
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO Tentative List",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Take care on the narrow spiral minaret stairs leading up to the gallery. Children must be supervised on the upper gallery."
+      }
+    },
+    {
+      "id": "ibrahim_rauza_complex",
+      "name": "Ibrahim Rauza ('Taj Mahal of the Deccan')",
+      "nameKannada": "ಇಬ್ರಾಹಿಂ ರೋಜಾ ('ದಖ್ಖನ್ನಿನ ತಾಜ್ ಮಹಲ್')",
+      "district": "Vijayapura",
+      "taluk": "Vijayapura",
+      "village": "Western Gate",
+      "gramPanchayat": "Vijayapura Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "Referred to as the 'Taj Mahal of the Deccan', this exquisitely proportioned 1627 CE complex features the twin palatial mausoleum and mosque of Ibrahim Adil Shah II set in a charbagh garden, adorned with perforated stone calligraphy screens and hanging stone chains.",
+      "historicalSignificance": "Commissioned by Ibrahim Adil Shah II and designed by Persian architect Malik Sandal; widely believed to have influenced the design of Agra's Taj Mahal.",
+      "culturalImportance": "Supreme achievement of Deccani architectural finesse, celebrating Ibrahim II's syncretic philosophy of 'Kitab-i-Navras'.",
+      "lat": 16.8286,
+      "lng": 75.7,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.8286,75.7",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Ibrahim Rauza ('Taj Mahal of the Deccan')",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March (Golden hour photography recommended)",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "1.5 km west of Vijayapura city center",
+      "nearestBusStation": "Vijayapura Bus Stand (2.5 km)",
+      "nearestRailwayStation": "Vijayapura Railway Station (3.5 km)",
+      "roadAccessibility": "Paved city access with visitor parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Remove shoes when stepping onto the raised plinth. Respect the serene garden environment.",
+      "permissionRequirements": "ASI entry ticket required",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Peerless Persian stone carving elegance; inspired the architectural genius of the Taj Mahal."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "ibrahimrauza('tajmahalofthedeccan')"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Referred to as the 'Taj Mahal of the Deccan', this exquisitely proportioned 1627 CE complex features the twin palatial mausoleum and mosque ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.8286,
+        "longitude": 75.7
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Golden hour photography recommended).",
+        "safetyNotes": "Remove shoes when stepping onto the raised plinth. Respect the serene garden environment."
+      }
+    },
+    {
+      "id": "bara_kaman_bijapur",
+      "name": "Bara Kaman (Unfinished Twelve Arches)",
+      "nameKannada": "ಬಾರಾ ಕಮಾನ್ (ಹನ್ನೆರಡು ಕಮಾನುಗಳು)",
+      "district": "Vijayapura",
+      "taluk": "Vijayapura",
+      "village": "City Center",
+      "gramPanchayat": "Vijayapura Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "The hauntingly beautiful unfinished mausoleum of Ali Adil Shah II (1672 CE), featuring twelve soaring stone arches arranged in concentric rings open to the sky. Legend holds construction was halted so its shadow would not eclipse Gol Gumbaz.",
+      "historicalSignificance": "Intended to rival Gol Gumbaz in height and scale; halted after Ali Adil Shah II's premature death and Aurangzeb's conquest of Bijapur.",
+      "culturalImportance": "A favorite haunt for photographers and art lovers drawn to its dramatic gothic-like silhouette against azure Deccan skies.",
+      "lat": 16.835,
+      "lng": 75.7167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.835,75.7167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bara Kaman (Unfinished Twelve Arches)",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March (Sunset visits are spectacular)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "1 km from city center",
+      "nearestBusStation": "Vijayapura Bus Stand (1.5 km)",
+      "nearestRailwayStation": "Vijayapura Railway Station (2 km)",
+      "roadAccessibility": "Accessible by auto-rickshaw or car right in town center",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1 hour",
+      "safetyInstructions": "Open stone plinth; wear sun protection during afternoon hours.",
+      "permissionRequirements": "Protected ASI monument; free entry",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Dramatic open-air arches creating incredible photographic compositions at sunset."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "barakaman(unfinishedtwelvearches)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The hauntingly beautiful unfinished mausoleum of Ali Adil Shah II (1672 CE), featuring twelve soaring stone arches arranged in concentric ri...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.835,
+        "longitude": 75.7167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Sunset visits are spectacular).",
+        "safetyNotes": "Open stone plinth; wear sun protection during afternoon hours."
+      }
+    }
+  ],
+  "count": 3
+}

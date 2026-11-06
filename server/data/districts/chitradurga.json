@@ -1,0 +1,460 @@
+{
+  "district": {
+    "id": "chitradurga",
+    "name": "Chitradurga",
+    "nameKannada": "ಚಿತ್ರದುರ್ಗ",
+    "division": "Bengaluru",
+    "headquarters": "Chitradurga",
+    "lat": 14.2236,
+    "lng": 76.4,
+    "taluks": [
+      "Chitradurga",
+      "Challakere",
+      "Hiriyur",
+      "Holalkere",
+      "Hosadurga",
+      "Molakalmuru"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "The formidable 'Fort City' of Karnataka, celebrated for the Seven-Ringed Stone Fortress (Kallina Kote) of Madakari Nayaka, heroic Obavvana Kindi, Chandravalli caves, and historic Vani Vilasa Sagara Dam.",
+    "descriptionKannada": "ವೀರರ ನಾಡು ಚಿತ್ರದುರ್ಗ, ಮದಕರಿ ನಾಯಕನ ಏಳುಸುತ್ತಿನ ಕಲ್ಲಿನ ಕೋಟೆ, ವೀರವನಿತೆ ಒಣಕೆ ಓಬವ್ವನ ಕಿಂಡಿ, ಚಂದ್ರವಳ್ಳಿ ಪ್ರಾಚ್ಯ ಗುಹೆಗಳು ಮತ್ತು ವಾಣಿ ವಿಲಾಸ ಸಾಗರಕ್ಕೆ ಪ್ರಸಿದ್ಧ."
+  },
+  "destinations": [
+    {
+      "id": "chitradurga_fort_elusuttina_kote",
+      "name": "Chitradurga Fort (The Seven-Ringed Stone Fortress)",
+      "nameKannada": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ (ಏಳುಸುತ್ತಿನ ಕಲ್ಲಿನ ಕೋಟೆ)",
+      "district": "Chitradurga",
+      "taluk": "Chitradurga",
+      "village": "Chitradurga City",
+      "gramPanchayat": "Chitradurga Taluk Administration",
+      "category": [
+        "heritage",
+        "monument",
+        "adventure"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "One of India's most impregnable stone fortresses spanning 1,500 acres across boulder hills with 7 concentric defensive walls, 38 secret entry portals, 18 historic temples, ancient rainwater reservoirs that never dry up, and the legendary Obavvana Kindi (secret crevice where heroine Onake Obavva felled Hyder Ali's soldiers).",
+      "historicalSignificance": "Built and ruled by the Chitradurga Nayakas (14th–18th century), legendary for Madakari Nayaka V and the heroic folk martyr Onake Obavva in 1779.",
+      "culturalImportance": "Crown jewel of Karnataka fortitude and military defense; celebrated in Kannada folklore, historical films, and literature.",
+      "lat": 14.2183,
+      "lng": 76.3986,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.2183,76.3986",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Chitradurga Fort (The Seven-Ringed Stone Fortress)",
+          "source": "Archaeological Survey of India & Karnataka State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located at Chitradurga city center",
+      "nearestBusStation": "Chitradurga KSRTC Central Bus Stand (1.5 km)",
+      "nearestRailwayStation": "Chitradurga Railway Station (2 km)",
+      "roadAccessibility": "Right off National Highway 48 with broad approach and parking",
+      "trekkingDifficulty": "Moderate (climbing stone pathways between battlements)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Wear comfortable walking shoes with grip on stone. Keep hydrated under midday sun. Electric buggies available for elderly at lower levels.",
+      "permissionRequirements": "ASI entry ticket required",
+      "tourismInformationSource": "Archaeological Survey of India & Karnataka State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Impregnable seven-ringed stone fortress of Onake Obavva and Madakari Nayaka fame."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "chitradurgafort(theseven-ringedstonefortress)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "One of India's most impregnable stone fortresses spanning 1,500 acres across boulder hills with 7 concentric defensive walls, 38 secret entr...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.2183,
+        "longitude": 76.3986
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Karnataka State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Wear comfortable walking shoes with grip on stone. Keep hydrated under midday sun. Electric buggies available for elderly at lower levels."
+      }
+    },
+    {
+      "id": "vani_vilasa_sagara_marikanive",
+      "name": "Vani Vilasa Sagara Dam (Mari Kanive)",
+      "nameKannada": "ವಾಣಿ ವಿಲಾಸ ಸಾಗರ ಅಣೆಕಟ್ಟು (ಮಾರಿ ಕಣಿವೆ)",
+      "district": "Chitradurga",
+      "taluk": "Hiriyur",
+      "village": "Mari Kanive",
+      "gramPanchayat": "Hiriyur Taluk Administration",
+      "category": [
+        "nature",
+        "heritage",
+        "scenic"
+      ],
+      "subcategory": "water_body",
+      "description": "The oldest dam in Karnataka, built in 1907 by the Maharajas of Mysore across the Vedavathi River between two hills. Features an architectural stone masonry pavilion, lush gardens, and dramatic green reservoir waters nestled between arid hillocks.",
+      "historicalSignificance": "Commissioned in 1898 by Maharani Kempananjammani Vani Vilasa Sannidhana (Regent of Mysore) and Nalwadi Krishnaraja Wodeyar, designed by chief engineer M.C. Hutchins.",
+      "culturalImportance": "An engineering milestone that relieved decades of famine in Central Karnataka; today a peaceful scenic haven.",
+      "lat": 13.9856,
+      "lng": 76.485,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.9856,76.485",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Vani Vilasa Sagara Dam (Mari Kanive)",
+          "source": "Water Resources Department & District Administration"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "20 km from Hiriyur, 40 km from Chitradurga",
+      "nearestBusStation": "Hiriyur Bus Stand (20 km)",
+      "nearestRailwayStation": "Chitradurga (40 km) or Hosadurga Road (25 km)",
+      "roadAccessibility": "Paved 2-lane road from Hiriyur off NH-48",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Do not venture into unauthorized deep water zones. Scenic viewpoints atop the dam bund.",
+      "permissionRequirements": "Open tourist destination managed by Irrigation Department",
+      "tourismInformationSource": "Water Resources Department & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Karnataka's oldest masonry dam set in a dramatic rocky canyon."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "vanivilasasagaradam(marikanive)"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The oldest dam in Karnataka, built in 1907 by the Maharajas of Mysore across the Vedavathi River between two hills. Features an architectura...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.9856,
+        "longitude": 76.485
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Water Resources Department & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Do not venture into unauthorized deep water zones. Scenic viewpoints atop the dam bund."
+      }
+    },
+    {
+      "id": "chandravalli_archaeological_caves",
+      "name": "Chandravalli Caves & Prehistoric Lake Valley",
+      "nameKannada": "ಚಂದ್ರವಳ್ಳಿ ಗುಹೆಗಳು ಮತ್ತು ಕಣಿವೆ ಕೆರೆ",
+      "district": "Chitradurga",
+      "taluk": "Chitradurga",
+      "village": "Chandravalli",
+      "gramPanchayat": "Chitradurga Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "archaeological_site",
+      "description": "A scenic valley flanked by three rocky hills (Chitradurga, Kirabanakallu, and Cholagudda) holding ancient underground cave monasteries (Ankali Mutt) carved 80 feet into solid rock. Features secret meditation chambers, subterranean skylights, and inscriptions from the Shatavahana, Kadamba, and Hoysala dynasties beside a tranquil lake.",
+      "historicalSignificance": "Excavations by archaeologist R. Narasimhachar and Sir Mortimer Wheeler revealed Roman coins, proving active trade between Rome and Karnataka in 1st century CE. Contains the 450 CE Kadamba king Mayurasharma stone inscription.",
+      "culturalImportance": "A mystical cave monastery where Veerashaiva and Natha sadhus meditated in complete pitch-black subterranean stillness.",
+      "lat": 14.2056,
+      "lng": 76.3889,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.2056,76.3889",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Chandravalli Caves & Prehistoric Lake Valley",
+          "source": "Archaeological Survey of India & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 20,
+      "openingHours": "08:30 – 17:30",
+      "distanceFromNearestTown": "4 km from Chitradurga city center",
+      "nearestBusStation": "Chitradurga Central Bus Stand (4 km)",
+      "nearestRailwayStation": "Chitradurga Railway Station (5 km)",
+      "roadAccessibility": "Paved municipal road up to Chandravalli lake parking",
+      "trekkingDifficulty": "Moderate (crawling and walking inside subterranean rock caves with a guide)",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Carry a torch or phone light. Cave passages are narrow and dark; hire certified local guides to navigate the inner maze.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Subterranean cave monastery 80 feet beneath earth where Roman coins and 450 CE Kadamba inscriptions were found."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "chandravallicaves&prehistoriclakevalley"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A scenic valley flanked by three rocky hills (Chitradurga, Kirabanakallu, and Cholagudda) holding ancient underground cave monasteries (Anka...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.2056,
+        "longitude": 76.3889
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Carry a torch or phone light. Cave passages are narrow and dark; hire certified local guides to navigate the inner maze."
+      }
+    },
+    {
+      "id": "jogimatti_hill_station",
+      "name": "Jogimatti Hill Station & Himavatkedara Waterfall",
+      "nameKannada": "ಜೋಗಿಮಟ್ಟಿ ಗಿರಿಧಾಮ ಮತ್ತು ಹಿಮವತ್ಕೇದಾರ ಜಲಪಾತ",
+      "district": "Chitradurga",
+      "taluk": "Chitradurga",
+      "village": "Jogimatti",
+      "gramPanchayat": "Chitradurga Taluk Administration",
+      "category": [
+        "nature",
+        "viewpoint",
+        "waterfall"
+      ],
+      "subcategory": "hill_station",
+      "description": "A tranquil 3,800-foot (1,158m) reserve forest hill station praised as the 'Ooty of Central Karnataka'. Named after saint Jogi who meditated in its caves, it features cool breeze, leopard and sloth bear habitats, an 110-year-old British forest rest house, and the Himavatkedara perennial waterfall cascading through rock fissures.",
+      "historicalSignificance": "British summer retreat in Chitradurga; the historic 1905 guest house was built for colonial forest conservators.",
+      "culturalImportance": "Serene eco-tourism retreat offering rare misty climates amidst the otherwise semi-arid plains of Chitradurga.",
+      "lat": 14.15,
+      "lng": 76.3833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.15,76.3833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Jogimatti Hill Station & Himavatkedara Waterfall",
+          "source": "Karnataka Forest Department & District Administration"
+        }
+      ],
+      "bestSeason": "July to February (Pleasantly cool and misty)",
+      "entryFeeINR": 20,
+      "openingHours": "08:00 – 17:30",
+      "distanceFromNearestTown": "14 km south of Chitradurga city",
+      "nearestBusStation": "Chitradurga Bus Stand (14 km)",
+      "nearestRailwayStation": "Chitradurga Railway Station (15 km)",
+      "roadAccessibility": "Winding paved forest ghat road; checkpost monitors entry",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Watch for wildlife; leopards and bears inhabit the forest. Depart hill station before sunset.",
+      "permissionRequirements": "Forest Department checkpost entry ticket",
+      "tourismInformationSource": "Karnataka Forest Department & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Cool 3,800-foot hill station oasis hidden amidst the central plains with a natural waterfall."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "jogimattihillstation&himavatkedarawaterfall"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A tranquil 3,800-foot (1,158m) reserve forest hill station praised as the 'Ooty of Central Karnataka'. Named after saint Jogi who meditated ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.15,
+        "longitude": 76.3833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 17:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during July to February (Pleasantly cool and misty).",
+        "safetyNotes": "Watch for wildlife; leopards and bears inhabit the forest. Depart hill station before sunset."
+      }
+    }
+  ],
+  "count": 4
+}

@@ -1,0 +1,358 @@
+{
+  "district": {
+    "id": "belagavi",
+    "name": "Belagavi",
+    "nameKannada": "ಬೆಳಗಾವಿ",
+    "division": "Belagavi",
+    "headquarters": "Belagavi",
+    "lat": 15.8497,
+    "lng": 74.4977,
+    "taluks": [
+      "Belagavi",
+      "Bailhongal",
+      "Chikkodi",
+      "Gokak",
+      "Hukkeri",
+      "Khanapur",
+      "Ramdurg",
+      "Raybag",
+      "Saundatti",
+      "Athani",
+      "Kittur",
+      "Mudalagi",
+      "Kagawad",
+      "Yaragatti"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200&auto=format&fit=crop&q=80",
+    "description": "Border city of pleasant weather and rich heritage, featuring Belagavi Fort with the lotus-ceiling Kamal Basadi, Rani Chennamma's Kittur Fort, Gokak Falls with its suspension bridge, and Savadatti Yellamma Gudda.",
+    "descriptionKannada": "ಹಿತಕರ ಹವಾಮಾನ ಮತ್ತು ಶ್ರೀಮಂತ ಇತಿಹಾಸದ ಬೆಳಗಾವಿ, ಕಮಲ ಬಸದಿಯಿರುವ ಬೆಳಗಾವಿ ಕೋಟೆ, ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮನ ಕೋಟೆ, ಗೋಕಾಕ್ ಜಲಪಾತ ಮತ್ತು ಸವದತ್ತಿ ಎಲ್ಲಮ್ಮನ ಗುಡ್ಡಕ್ಕೆ ಪ್ರಸಿದ್ಧ."
+  },
+  "destinations": [
+    {
+      "id": "belagavi_fort_kamal_basadi",
+      "name": "Belagavi Fort & Kamal Basadi",
+      "nameKannada": "ಬೆಳಗಾವಿ ಕೋಟೆ ಮತ್ತು ಕಮಲ ಬಸದಿ",
+      "district": "Belagavi",
+      "taluk": "Belagavi",
+      "village": "Belagavi City",
+      "gramPanchayat": "Belagavi Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A massive oval 12th-century fort built by the Ratta dynasty, housing the world-renowned Kamal Basadi with its intricate inverted 72-petalled lotus ceiling carved from black stone, ancient Jain Tirthankara icons, and the 16th-century Safa Masjid.",
+      "historicalSignificance": "Constructed in 1204 CE by Bichiraja, general of Ratta King Jaya Raya; later reinforced by the Bahmani and Bijapur sultans.",
+      "culturalImportance": "Symbol of religious harmony housing ancient Jain basadis, mosques, and Hindu shrines within the same ramparts. Swami Vivekananda stayed here in 1892.",
+      "lat": 15.8586,
+      "lng": 74.5219,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.8586,74.5219",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Belagavi Fort & Kamal Basadi",
+          "source": "Archaeological Survey of India & Belagavi District Gazette"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:30",
+      "distanceFromNearestTown": "Located in the heart of Belagavi city",
+      "nearestBusStation": "Belagavi Central Bus Stand (1.5 km)",
+      "nearestRailwayStation": "Belagavi Railway Station (2 km)",
+      "roadAccessibility": "Central city road, accessible by car, bus, and auto",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Remove footwear inside Kamal Basadi. Photography permitted outside sanctum.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Belagavi District Gazette",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Premier landmark of Belagavi featuring the mesmerizing 72-petal black stone lotus ceiling."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "belagavifort&kamalbasadi"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A massive oval 12th-century fort built by the Ratta dynasty, housing the world-renowned Kamal Basadi with its intricate inverted 72-petalled...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.8586,
+        "longitude": 74.5219
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Belagavi District Gazette",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear inside Kamal Basadi. Photography permitted outside sanctum."
+      }
+    },
+    {
+      "id": "kittur_chennamma_fort",
+      "name": "Kittur Rani Chennamma Fort & Palace",
+      "nameKannada": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ ಕೋಟೆ ಮತ್ತು ಅರಮನೆ",
+      "district": "Belagavi",
+      "taluk": "Kittur",
+      "village": "Kittur Town",
+      "gramPanchayat": "Kittur Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "The proud historical headquarters of Rani Chennamma, who led the armed resistance against the British East India Company in 1824. Features palace ruins, an archaeological museum, an ancient stepwell, and defensive trenches.",
+      "historicalSignificance": "In 1824 CE, Rani Chennamma defeated British forces led by Collector St. John Thackeray; among India's first women to wage armed struggle for independence.",
+      "culturalImportance": "State symbol of patriotic courage; celebrated annually during the grand state festival Kittur Utsava in October.",
+      "lat": 15.6033,
+      "lng": 74.7878,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.6033,74.7878",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kittur Rani Chennamma Fort & Palace",
+          "source": "State Department of Archaeology, Museums and Heritage"
+        }
+      ],
+      "bestSeason": "October to February (Kittur Utsava in late October)",
+      "entryFeeINR": 20,
+      "openingHours": "08:30 – 17:30",
+      "distanceFromNearestTown": "30 km from Belagavi, 50 km from Dharwad (on NH-48)",
+      "nearestBusStation": "Kittur KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Dharwad Junction (48 km) or Belagavi (32 km)",
+      "roadAccessibility": "Situated right off National Highway 48 (Pune-Bengaluru Highway)",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Explore museum exhibits with care. Ample shaded lawns for families.",
+      "permissionRequirements": "Archaeological Survey of India and State Archaeology Dept ticket",
+      "tourismInformationSource": "State Department of Archaeology, Museums and Heritage",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Heroic epic center of Karnataka's first freedom uprising."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "kitturranichennammafort&palace"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The proud historical headquarters of Rani Chennamma, who led the armed resistance against the British East India Company in 1824. Features p...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.6033,
+        "longitude": 74.7878
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "State Department of Archaeology, Museums and Heritage",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (Kittur Utsava in late October).",
+        "safetyNotes": "Explore museum exhibits with care. Ample shaded lawns for families."
+      }
+    },
+    {
+      "id": "gokak_falls_hanging_bridge",
+      "name": "Gokak Falls & Historic Hanging Bridge",
+      "nameKannada": "ಗೋಕಾಕ್ ಜಲಪಾತ ಮತ್ತು ತೂಗು ಸೇತುವೆ",
+      "district": "Belagavi",
+      "taluk": "Gokak",
+      "village": "Gokak Falls Village",
+      "gramPanchayat": "Gokak Taluk Administration",
+      "category": [
+        "nature",
+        "waterfall",
+        "heritage"
+      ],
+      "subcategory": "waterfall",
+      "description": "Often called 'Karnataka's Niagara', the Ghataprabha River plunges 170 feet over sandstone cliffs into a horseshoe gorge. Features a thrilling 201-meter historic pedestrian suspension bridge built in 1907 by British engineers and an ancient Chalukyan Mahalingeshwara temple.",
+      "historicalSignificance": "Site of one of India's earliest hydroelectric generation plants built in 1887 to power the historic Gokak cotton mills.",
+      "culturalImportance": "Popular monsoon picnic destination; home to the famous GI-certified Gokak Karadant sweet.",
+      "lat": 16.1883,
+      "lng": 74.7967,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.1883,74.7967",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gokak Falls & Historic Hanging Bridge",
+          "source": "Karnataka Tourism & District Administration"
+        }
+      ],
+      "bestSeason": "July to November (Peak monsoon roar)",
+      "entryFeeINR": 10,
+      "openingHours": "07:00 – 18:30",
+      "distanceFromNearestTown": "6 km from Gokak town, 65 km from Belagavi",
+      "nearestBusStation": "Gokak Falls Bus Stop (0.5 km) / Gokak Bus Stand (6 km)",
+      "nearestRailwayStation": "Gokak Road Railway Station (8 km)",
+      "roadAccessibility": "Paved 2-lane road from Belagavi/Gokak with visitor parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Never cross warning barricades at cliff edges. Walk slowly on the suspension bridge.",
+      "permissionRequirements": "Open tourist destination; small parking/toll ticket",
+      "tourismInformationSource": "Karnataka Tourism & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Spectacular 170-foot waterfall with century-old suspension wire bridge right across the gorge."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "waterfall",
+      "aliases": [
+        "gokakfalls&historichangingbridge"
+      ],
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Often called 'Karnataka's Niagara', the Ghataprabha River plunges 170 feet over sandstone cliffs into a horseshoe gorge. Features a thrillin...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.1883,
+        "longitude": 74.7967
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 18:30",
+        "entryFeeINR": 10,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during July to November (Peak monsoon roar).",
+        "safetyNotes": "Never cross warning barricades at cliff edges. Walk slowly on the suspension bridge."
+      }
+    }
+  ],
+  "count": 3
+}

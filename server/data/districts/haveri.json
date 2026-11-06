@@ -1,0 +1,243 @@
+{
+  "district": {
+    "id": "haveri",
+    "name": "Haveri",
+    "nameKannada": "ಹಾವೇರಿ",
+    "division": "Belagavi",
+    "headquarters": "Haveri",
+    "lat": 14.7964,
+    "lng": 75.3992,
+    "taluks": [
+      "Haveri",
+      "Byadgi",
+      "Hangal",
+      "Hirekerur",
+      "Ranebennur",
+      "Savanur",
+      "Shiggaon",
+      "Rattihalli"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "The gateway to North Karnataka, Haveri features Tarakeshwara Temple at Hangal with its 20-foot carved lotus ceiling, the Asia-renowned Byadgi chilli market, Kaginele Kanaka Guru Peetha, and Ranebennur Blackbuck Sanctuary.",
+    "descriptionKannada": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಹೆಬ್ಬಾಗಿಲು ಹಾವೇರಿ, ಹಾನಗಲ್ಲಿನ ತಾರಕೇಶ್ವರ ದೇವಾಲಯದ ೨೦ ಅಡಿ ಕೆತ್ತನೆಯ ಕಮಲದ ಮೇಲ್ಚಾವಣಿ, ಬ್ಯಾಡಗಿ ಮೆಣಸಿನಕಾಯಿ ಮಾರುಕಟ್ಟೆ ಮತ್ತು ಕಾಗಿನೆಲೆ ಕನಕ ಪೀಠಕ್ಕೆ ಹೆಸರುವಾಸಿ."
+  },
+  "destinations": [
+    {
+      "id": "tarakeshwara_temple_hangal",
+      "name": "Tarakeshwara Temple, Hangal",
+      "nameKannada": "ತಾರಕೇಶ್ವರ ದೇವಾಲಯ, ಹಾನಗಲ್",
+      "district": "Haveri",
+      "taluk": "Hangal",
+      "village": "Hangal Town",
+      "gramPanchayat": "Hangal Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A breathtaking 12th-century Chalukyan temple dedicated to Shiva, renowned among architectural scholars for its colossal octagonal domed hall containing an astonishing 20-foot wide ceiling rosette carving shaped like a descending inverted lotus flower.",
+      "historicalSignificance": "Built by the Western Chalukyas and patronized by the Hangal Kadambas; contains multiple hero stones (Veeragallu) depicting naval and cavalry battles.",
+      "culturalImportance": "A supreme demonstration of stone lathe-turning and geometric symmetry in medieval Karnataka.",
+      "lat": 14.7644,
+      "lng": 75.1278,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.7644,75.1278",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Tarakeshwara Temple, Hangal",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "35 km from Haveri, 80 km from Hubballi",
+      "nearestBusStation": "Hangal KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Haveri Railway Station (35 km)",
+      "roadAccessibility": "State Highway 2 connects Haveri to Hangal",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Look up at the domed ceiling with a torch/phone light to appreciate the filigree lotus rosette.",
+      "permissionRequirements": "Protected under Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Features the world's most intricate 20-foot stone inverted lotus ceiling, completely off the tourist radar."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "tarakeshwaratemple,hangal"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A breathtaking 12th-century Chalukyan temple dedicated to Shiva, renowned among architectural scholars for its colossal octagonal domed hall...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.7644,
+        "longitude": 75.1278
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Look up at the domed ceiling with a torch/phone light to appreciate the filigree lotus rosette."
+      }
+    },
+    {
+      "id": "byadgi_chilli_heritage_market",
+      "name": "Byadgi Red Chilli Market & Agricultural Yard",
+      "nameKannada": "ಬ್ಯಾಡಗಿ ಮೆಣಸಿನಕಾಯಿ ಮಾರುಕಟ್ಟೆ ಮತ್ತು ಪರಂಪರೆ",
+      "district": "Haveri",
+      "taluk": "Byadgi",
+      "village": "Byadgi Town",
+      "gramPanchayat": "Byadgi Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "local_market",
+      "description": "Asia's largest marketplace for red chillies, world-renowned for the GI-tagged Byadgi Chilli characterized by its wrinkled skin, deep ruby-red color (high oleoresin content), and low pungency, essential for South Indian cuisine and cosmetic extracts worldwide.",
+      "historicalSignificance": "Trading hub since the Vijayanagara era; received Geographical Indication (GI) tag in 2011.",
+      "culturalImportance": "A sensory spectacle on trading market days (Mondays & Thursdays) where oceans of deep red chillies are piled high across acres of auction yards.",
+      "lat": 14.6806,
+      "lng": 75.4858,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.6806,75.4858",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Byadgi Red Chilli Market & Agricultural Yard",
+          "source": "Agricultural Produce Market Committee (APMC) Byadgi & Spice Board of India"
+        }
+      ],
+      "bestSeason": "December to March (Peak chilli harvest and trading season)",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 17:00 (Mondays and Thursdays are main auction days)",
+      "distanceFromNearestTown": "18 km from Haveri",
+      "nearestBusStation": "Byadgi Bus Stand (1 km)",
+      "nearestRailwayStation": "Byadgi Railway Station (1.5 km) / Haveri (18 km)",
+      "roadAccessibility": "Situated right off NH-48 between Haveri and Davanagere",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Wear a mask or face covering inside auction halls due to airborne chilli spice dust. Avoid touching eyes.",
+      "permissionRequirements": "APMC open market yard, public entry",
+      "tourismInformationSource": "Agricultural Produce Market Committee (APMC) Byadgi & Spice Board of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "World's premier red chilli trading hub and incredible visual sensory experience."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "byadgiredchillimarket&agriculturalyard"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Asia's largest marketplace for red chillies, world-renowned for the GI-tagged Byadgi Chilli characterized by its wrinkled skin, deep ruby-re...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.6806,
+        "longitude": 75.4858
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Agricultural Produce Market Committee (APMC) Byadgi & Spice Board of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 17:00 (Mondays and Thursdays are main auction days)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during December to March (Peak chilli harvest and trading season).",
+        "safetyNotes": "Wear a mask or face covering inside auction halls due to airborne chilli spice dust. Avoid touching eyes."
+      }
+    }
+  ],
+  "count": 2
+}

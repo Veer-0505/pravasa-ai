@@ -1,0 +1,460 @@
+{
+  "district": {
+    "id": "kolar",
+    "name": "Kolar",
+    "nameKannada": "ಕೋಲಾರ",
+    "division": "Bengaluru",
+    "headquarters": "Kolar",
+    "lat": 13.1367,
+    "lng": 78.1333,
+    "taluks": [
+      "Kolar",
+      "Bangarapet",
+      "Malur",
+      "Mulbagal",
+      "Srinivaspur",
+      "KGF"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Historic gold mining land, Kolar boasts the legacy of KGF (Kolar Gold Fields), Kotilingeshwara temple with its 108-foot linga, Anthargange cave trek and volcanic springs, and Kurudumale Ganesha.",
+    "descriptionKannada": "ಚಿನ್ನದ ನಾಡು ಕೋಲಾರ, ಕೆಜಿಎಫ್ ಗಣಿ ಪರಂಪರೆ, ಕೋಟಿಲಿಂಗೇಶ್ವರ ದೇವಾಲಯ, ಅಂತರಗಂಗೆಯ ನೈಸರ್ಗಿಕ ಗುಹೆಗಳು ಮತ್ತು ಕುರುಡುಮಲೆ ಗಣಪತಿ ದೇವಾಲಯಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "kotilingeshwara_temple",
+      "name": "Kotilingeshwara Temple, Kammasandra",
+      "nameKannada": "ಕೋಟിലിಂಗೇಶ್ವರ ದೇವಾಲಯ, ಕಮ್ಮಸಂದ್ರ",
+      "district": "Kolar",
+      "taluk": "KGF / Bangarapet",
+      "village": "Kammasandra",
+      "gramPanchayat": "KGF / Bangarapet Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "A globally famous spiritual complex housing over one crore (ten million) Shiva lingas installed across sprawling open grounds, dominated by the colossal 108-foot (33-meter) Maha Shivalinga and a 35-foot monolithic Nandi bull.",
+      "historicalSignificance": "Initiated in 1980 by Swami Sambha Shiva Murthy to establish peace and harmony through continuous installation of consecrated lingas by devotees.",
+      "culturalImportance": "A visually staggering sea of black stone Shivalingas; draws hundreds of thousands of pilgrims during Maha Shivaratri.",
+      "lat": 12.9817,
+      "lng": 78.2986,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9817,78.2986",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kotilingeshwara Temple, Kammasandra",
+          "source": "Sri Kotilingeshwara Temple Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (Special grandeur during Maha Shivaratri)",
+      "entryFeeINR": 20,
+      "openingHours": "06:00 – 21:00",
+      "distanceFromNearestTown": "6 km from KGF (Robertsonpet), 30 km from Kolar, 75 km from Bengaluru",
+      "nearestBusStation": "Kammasandra Bus Stop (0.2 km) / KGF Bus Stand (6 km)",
+      "nearestRailwayStation": "Bangarapet Junction (12 km) or KGF (6 km)",
+      "roadAccessibility": "Paved state road connecting Bangarapet and KGF",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Barefoot walking across vast stone courtyard; can get warm during midday.",
+      "permissionRequirements": "Temple trust entry ticket",
+      "tourismInformationSource": "Sri Kotilingeshwara Temple Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World's largest assembly of Shiva lingas with a towering 108-foot Maha Shivalinga."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "kotilingeshwaratemple,kammasandra"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A globally famous spiritual complex housing over one crore (ten million) Shiva lingas installed across sprawling open grounds, dominated by ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9817,
+        "longitude": 78.2986
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Kotilingeshwara Temple Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 21:00",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Special grandeur during Maha Shivaratri).",
+        "safetyNotes": "Barefoot walking across vast stone courtyard; can get warm during midday."
+      }
+    },
+    {
+      "id": "anthargange_caves_spring",
+      "name": "Anthargange Volcanic Caves & Night Trek",
+      "nameKannada": "ಅಂತರಗಂಗೆ ನೈತಿಕ ಗುಹೆಗಳು ಮತ್ತು ಜಲಧಾರೆ",
+      "district": "Kolar",
+      "taluk": "Kolar",
+      "village": "Anthargange",
+      "gramPanchayat": "Kolar Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "spiritual"
+      ],
+      "subcategory": "natural_cave",
+      "description": "Known as the 'Kashi of the South', featuring the ancient Sri Kashi Vishweshwara Temple where a natural subterranean spring flows continuously from the mouth of a stone Basava (bull). The rugged hillock behind is famous for exploring labyrinthine volcanic boulder cave passages and night trekking.",
+      "historicalSignificance": "The origin of the continuous natural spring water ('Anthargange' meaning Ganges from deep within) remains an underground geological mystery.",
+      "culturalImportance": "Beloved playground for adventure lovers who squeeze through natural rock chimneys and caverns under starry night skies.",
+      "lat": 13.1417,
+      "lng": 78.1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.1417,78.1",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Anthargange Volcanic Caves & Night Trek",
+          "source": "Karnataka Forest Department & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March (Dry weather optimal for cave exploration)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00 (Cave exploration advised with guides during daylight)",
+      "distanceFromNearestTown": "4 km from Kolar town, 70 km from Bengaluru",
+      "nearestBusStation": "Kolar KSRTC Bus Stand (4 km)",
+      "nearestRailwayStation": "Kolar Railway Station (5 km) or Bangarapet (18 km)",
+      "roadAccessibility": "Paved road up to temple parking area, followed by steps to caves",
+      "trekkingDifficulty": "Moderate to Challenging (crawling through narrow cave crevices)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Never enter deep cave crevices alone; hire local certified guides. Carry headlamps or strong torches. Do not attempt during monsoon when crevices fill with water.",
+      "permissionRequirements": "Open access to temple; follow forest notices for upper hill trails",
+      "tourismInformationSource": "Karnataka Forest Department & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Thrilling natural granite cave labyrinth exploration and perennial natural spring."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "anthargangevolcaniccaves&nighttrek"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Known as the 'Kashi of the South', featuring the ancient Sri Kashi Vishweshwara Temple where a natural subterranean spring flows continuousl...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.1417,
+        "longitude": 78.1
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00 (Cave exploration advised with guides during daylight)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Dry weather optimal for cave exploration).",
+        "safetyNotes": "Never enter deep cave crevices alone; hire local certified guides. Carry headlamps or strong torches. Do not attempt during monsoon when crevices fill with water."
+      }
+    },
+    {
+      "id": "kgf_heritage_mining_town",
+      "name": "Kolar Gold Fields (KGF) Heritage Town & Champion Reefs",
+      "nameKannada": "ಕೋಲಾರ ಚಿನ್ನದ ಗಣಿ (ಕೆ.ಜಿ.ಎಫ್) ಪರಂಪರೆ ಪಟ್ಟಣ",
+      "district": "Kolar",
+      "taluk": "KGF / Robertsonpet",
+      "village": "Robertsonpet",
+      "gramPanchayat": "KGF / Robertsonpet Taluk Administration",
+      "category": [
+        "heritage",
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "heritage_town",
+      "description": "Known historically as 'Little England', KGF was one of the deepest gold mines in the world (reaching over 3.2 km underground at Champion Reef). Features colonial bungalows, British clubs, the historic 1902 electrical substation, Cyanide Dumps (hills of white residue), and St. Michael's church.",
+      "historicalSignificance": "British firm John Taylor & Sons operated the mines from 1880. Received electricity from Asia's first hydro-electric plant at Shivanasamudra in 1902—before Bengaluru or Mumbai.",
+      "culturalImportance": "Immortalized in Indian pop culture; home to a distinct Anglo-Indian and Tamil mining community heritage.",
+      "lat": 12.9594,
+      "lng": 78.2736,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9594,78.2736",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kolar Gold Fields (KGF) Heritage Town & Champion Reefs",
+          "source": "District Administration & Karnataka State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "30 km from Kolar, 95 km from Bengaluru",
+      "nearestBusStation": "KGF Robertsonpet Bus Stand (1 km)",
+      "nearestRailwayStation": "KGF (Coromandel / Marikuppam Station) or Bangarapet (12 km)",
+      "roadAccessibility": "Paved 4-lane state highway from Bangarapet",
+      "trekkingDifficulty": "Easy (town walking and viewing Cyanide Dumps)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Underground mine shafts are strictly closed to visitors for safety. Surface colonial heritage and Cyanide Dumps accessible.",
+      "permissionRequirements": "Open town; respect private property and Bharat Gold Mines Limited (BGML) enclosures",
+      "tourismInformationSource": "District Administration & Karnataka State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Historic 19th-century 'Little England' mining capital that received Asia's first electric power in 1902."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "kolargoldfields(kgf)heritagetown&championreefs"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Known historically as 'Little England', KGF was one of the deepest gold mines in the world (reaching over 3.2 km underground at Champion Ree...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9594,
+        "longitude": 78.2736
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "District Administration & Karnataka State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Underground mine shafts are strictly closed to visitors for safety. Surface colonial heritage and Cyanide Dumps accessible."
+      }
+    },
+    {
+      "id": "avani_sita_temple_ramalingeshwara",
+      "name": "Avani Sita Temple & Ramalingeshwara Complex",
+      "nameKannada": "ಅವನಿ ಸೀತಾ ದೇವಾಲಯ ಮತ್ತು ರಾಮಲಿಂಗೇಶ್ವರ ಸಂಕೀರ್ಣ",
+      "district": "Kolar",
+      "taluk": "Mulbagal",
+      "village": "Avani",
+      "gramPanchayat": "Mulbagal Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "Known as the 'Gaya of the South', Avani is one of only three places in India with a temple dedicated to Goddess Sita (Sita Betta). The hill holds the mythological hermitage of Sage Valmiki where Lava and Kusha were born, while at the base stands the 10th-century Nolamba-Chola Ramalingeshwara temple complex.",
+      "historicalSignificance": "Built by the Nolamba dynasty in the 10th century CE; celebrated in Sanskrit inscriptions as a major seat of spiritual learning.",
+      "culturalImportance": "Deeply revered in Ramayana folklore; childless couples perform prayers at the hill cave for progeny.",
+      "lat": 13.1,
+      "lng": 78.3333,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.1,78.3333",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Avani Sita Temple & Ramalingeshwara Complex",
+          "source": "Archaeological Survey of India & Endowments Dept"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "12 km from Mulbagal, 32 km from Kolar",
+      "nearestBusStation": "Avani Village Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Bangarapet Junction (35 km)",
+      "roadAccessibility": "Paved state road off the Bengaluru-Tirupati Highway (NH-75)",
+      "trekkingDifficulty": "Moderate (approx. 400 stone steps to hill summit Sita temple)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Remove footwear before entering temple mandapas. Carry water for the hill ascent.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Endowments Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Rare temple dedicated to Goddess Sita with 1,000-year-old Nolamba stone architecture."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "avanisitatemple&ramalingeshwaracomplex"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Known as the 'Gaya of the South', Avani is one of only three places in India with a temple dedicated to Goddess Sita (Sita Betta). The hill ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.1,
+        "longitude": 78.3333
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Endowments Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before entering temple mandapas. Carry water for the hill ascent."
+      }
+    }
+  ],
+  "count": 4
+}

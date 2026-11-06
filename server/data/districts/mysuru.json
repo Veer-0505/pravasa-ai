@@ -1,0 +1,448 @@
+{
+  "district": "Mysuru",
+  "destinations": [
+    {
+      "id": "mysuru_palace_amba_vilas",
+      "name": "Mysuru Palace (Amba Vilas)",
+      "nameKannada": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+      "district": "Mysuru",
+      "taluk": "Mysuru",
+      "village": "Mysuru City",
+      "gramPanchayat": "Mysuru Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "royal_palace",
+      "description": "One of the most visited monuments on earth, this three-storied Indo-Saracenic royal residence of the Wodeyars features gray granite towers with deep pink marble domes, the majestic Durbar Hall with peacock-mosaic glass ceilings, the solid gold 750-kg Golden Howdah, and illumination by 97,000 electric bulbs on Sundays and during world-famous Mysuru Dasara.",
+      "historicalSignificance": "Designed by British royal architect Henry Irwin and completed in 1912 after the old wooden palace burned down in 1897. Seat of the 600-year Wodeyar royal dynasty.",
+      "culturalImportance": "The spiritual and royal focal point of Karnataka's state festival (Nada Habba) Mysuru Dasara.",
+      "lat": 12.305,
+      "lng": 76.655,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.305,76.655",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mysuru Palace (Amba Vilas)",
+          "source": "Mysuru Palace Board & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (Dasara in September/October is magnificent)",
+      "entryFeeINR": 100,
+      "openingHours": "10:00 – 17:30 (Illumination: Sundays & holidays 19:00 – 20:00)",
+      "distanceFromNearestTown": "Located at Mysuru city center",
+      "nearestBusStation": "Mysuru City Bus Stand (1 km) / Suburban Bus Stand (2 km)",
+      "nearestRailwayStation": "Mysuru Junction (2 km)",
+      "roadAccessibility": "Broad 4-lane city avenues with large tourist bus and car parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2.5 – 3 hours",
+      "safetyInstructions": "Footwear must be deposited at designated counters outside the palace entrance. Photography prohibited in select inner royal chambers.",
+      "permissionRequirements": "Mysuru Palace Board ticket required at entry gates",
+      "tourismInformationSource": "Mysuru Palace Board & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous royal palace and cultural jewel of Karnataka, illuminated by 97,000 bulbs."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mysurupalace(ambavilas)"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "One of the most visited monuments on earth, this three-storied Indo-Saracenic royal residence of the Wodeyars features gray granite towers w...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.305,
+        "longitude": 76.655
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Mysuru Palace Board & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "10:00 – 17:30 (Illumination: Sundays & holidays 19:00 – 20:00)",
+        "entryFeeINR": 100,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Dasara in September/October is magnificent).",
+        "safetyNotes": "Footwear must be deposited at designated counters outside the palace entrance. Photography prohibited in select inner royal chambers."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Mysore Palace)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Mysuru Palace (Amba Vilas) (Mysuru)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mysore Palace)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Mysuru Palace (Amba Vilas)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mysore Palace)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Mysuru Palace (Amba Vilas)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mysore Palace)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Mysuru Palace (Amba Vilas) (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mysore Palace)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Mysuru Palace (Amba Vilas) Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:41:20.342Z"
+    },
+    {
+      "id": "somanathapura_keshava_temple",
+      "name": "Somanathapura Keshava Temple (UNESCO)",
+      "nameKannada": "ಸೋಮನಾಥಪುರ ಕೇಶವ ದೇವಾಲಯ (ಯುನೆಸ್ಕೋ)",
+      "district": "Mysuru",
+      "taluk": "Tirumakudalu Narasipura",
+      "village": "Somanathapura",
+      "gramPanchayat": "Tirumakudalu Narasipura Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A pristine 1268 CE Hoysala trikuta masterpiece dedicated to Lord Keshava, Janardhana, and Venugopala. Inscribed as a UNESCO World Heritage Site in 2023, it stands on a raised 16-pointed star-shaped plinth covered from base to vimana with friezes of charging elephants, cavalry, swans, and epics carved by master sculptor Mallitamma.",
+      "historicalSignificance": "Commissioned in 1268 CE by Soma Dandanayaka, a high general under Hoysala King Narasimha III.",
+      "culturalImportance": "The most intact and complete Hoysala temple in existence, showing the total decorative perfection of the style.",
+      "lat": 12.2764,
+      "lng": 76.9053,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.2764,76.9053",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Somanathapura Keshava Temple (UNESCO)",
+          "source": "Archaeological Survey of India & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "08:30 – 17:30",
+      "distanceFromNearestTown": "35 km east of Mysuru, 10 km from T. Narasipura",
+      "nearestBusStation": "Somanathapura Bus Stop (0.2 km) / T. Narasipura Bus Stand (10 km)",
+      "nearestRailwayStation": "Mysuru Junction (35 km)",
+      "roadAccessibility": "Paved 2-lane scenic road running along Cauvery river countryside",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Remove footwear before stepping onto the carved stone plinth. Photography without flash permitted.",
+      "permissionRequirements": "ASI entry ticket required (UNESCO World Heritage Site)",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "UNESCO World Heritage Site with the world's most perfectly preserved Hoysala soapstone reliefs."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "somanathapurakeshavatemple(unesco)"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/960px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "A pristine 1268 CE Hoysala trikuta masterpiece dedicated to Lord Keshava, Janardhana, and Venugopala. Inscribed as a UNESCO World Heritage S...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.2764,
+        "longitude": 76.9053
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:30",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before stepping onto the carved stone plinth. Photography without flash permitted."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Chennakeshava Temple, Somanathapura)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/960px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Somanathapura Keshava Temple (UNESCO) (Mysuru)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chennakeshava Temple, Somanathapura)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/960px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Somanathapura Keshava Temple (UNESCO)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chennakeshava Temple, Somanathapura)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/960px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Somanathapura Keshava Temple (UNESCO)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chennakeshava Temple, Somanathapura)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg/960px-Le_temple_de_Chennakesava_%28Somanathapura%2C_Inde%29_%2814465165685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Somanathapura Keshava Temple (UNESCO) (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chennakeshava Temple, Somanathapura)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Somanathapura Keshava Temple (UNESCO) Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:41:20.856Z"
+    },
+    {
+      "id": "chamundi_hills_nandi",
+      "name": "Chamundi Hills & Monolithic Nandi",
+      "nameKannada": "ಚಾಮುಂಡಿ ಬೆಟ್ಟ ಮತ್ತು ಏಕಶಿಲಾ ನಂದಿ",
+      "district": "Mysuru",
+      "taluk": "Mysuru",
+      "village": "Chamundi Hill",
+      "gramPanchayat": "Mysuru Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage",
+        "viewpoint"
+      ],
+      "subcategory": "sacred_hill",
+      "description": "A 1,060-meter sacred hill overlooking Mysuru city, crowned by the 12th-century Sri Chamundeshwari Temple (one of the 18 Maha Shakti Peethas). En route on the historic 1,008-step stone pilgrim path rests the majestic 16-foot monolithic Nandi bull carved from single black granite in 1659 CE.",
+      "historicalSignificance": "Goddess Chamundeshwari is the tutelary deity (Kula Devate) of the Maharajas of Mysuru, who vanquished demon Mahishasura on this summit.",
+      "culturalImportance": "Sacred guardian peak of Mysuru; the goddess idol is carried on the 750-kg Golden Howdah atop the royal elephant during Vijayadashami.",
+      "lat": 12.2742,
+      "lng": 76.6711,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.2742,76.6711",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Chamundi Hills & Monolithic Nandi",
+          "source": "Sri Chamundeshwari Temple Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 0,
+      "openingHours": "07:30 – 14:00, 15:30 – 18:00, 19:30 – 21:00",
+      "distanceFromNearestTown": "13 km from Mysuru city center",
+      "nearestBusStation": "Chamundi Hill Top Bus Stand (0.2 km)",
+      "nearestRailwayStation": "Mysuru Junction (13 km)",
+      "roadAccessibility": "Well-maintained ghat road with frequent city buses from Mysuru bus stand",
+      "trekkingDifficulty": "Moderate (1,008 heritage stone steps from base) or Easy (by vehicle)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Traditional dress code required for temple entry. Viewpoints offer sweeping panorama of Mysuru city and palace.",
+      "permissionRequirements": "Temple entry free; special darshan queue tickets optional",
+      "tourismInformationSource": "Sri Chamundeshwari Temple Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Pivotal guardian Shakti Peetha of Mysuru with magnificent 16-foot monolithic Nandi."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "chamundihills&monolithicnandi"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chamundeshwari_Temple_Mysore.jpg/960px-Chamundeshwari_Temple_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "A 1,060-meter sacred hill overlooking Mysuru city, crowned by the 12th-century Sri Chamundeshwari Temple (one of the 18 Maha Shakti Peethas)...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.2742,
+        "longitude": 76.6711
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Chamundeshwari Temple Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:30 – 14:00, 15:30 – 18:00, 19:30 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Traditional dress code required for temple entry. Viewpoints offer sweeping panorama of Mysuru city and palace."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Chamundeshwari Temple)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chamundeshwari_Temple_Mysore.jpg/960px-Chamundeshwari_Temple_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Chamundi Hills & Monolithic Nandi (Mysuru)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chamundeshwari Temple)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chamundeshwari_Temple_Mysore.jpg/960px-Chamundeshwari_Temple_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Chamundi Hills & Monolithic Nandi",
+          "attribution": "Wikipedia / Wikimedia Commons (Chamundeshwari Temple)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chamundeshwari_Temple_Mysore.jpg/960px-Chamundeshwari_Temple_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Chamundi Hills & Monolithic Nandi",
+          "attribution": "Wikipedia / Wikimedia Commons (Chamundeshwari Temple)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chamundeshwari_Temple_Mysore.jpg/960px-Chamundeshwari_Temple_Mysore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Chamundi Hills & Monolithic Nandi (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Chamundeshwari Temple)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Chamundi Hills & Monolithic Nandi Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:41:21.374Z"
+    }
+  ],
+  "count": 3
+}

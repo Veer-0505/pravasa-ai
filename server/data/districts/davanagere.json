@@ -1,0 +1,349 @@
+{
+  "district": {
+    "id": "davanagere",
+    "name": "Davanagere",
+    "nameKannada": "ದಾವಣಗೆರೆ",
+    "division": "Bengaluru",
+    "headquarters": "Davanagere",
+    "lat": 14.4644,
+    "lng": 75.9219,
+    "taluks": [
+      "Davanagere",
+      "Harihara",
+      "Honnali",
+      "Channagiri",
+      "Jagalur",
+      "Nyamathi"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "The textile hub and culinary capital celebrated for its world-famous Davangere Benne Dosa, the 1224 CE Hoysala Harihareshwara Temple on Tungabhadra, Santhebennur royal pushkarini, and historic Shanti Sagara lake.",
+    "descriptionKannada": "ಜವಳಿ ಮತ್ತು ರುಚಿಕರ ಬೆಣ್ಣೆ ದೋಸೆಯ ನಗರ ದಾವಣಗೆರೆ, ತುಂಗಭದ್ರಾ ನದಿ ತೀರದ ಹೊಯ್ಸಳ ಹರಿಹರೇಶ್ವರ ದೇವಾಲಯ, ಸಂತೆಬೆನ್ನೂರು ಪುಷ್ಕರಣಿ ಮತ್ತು ಶಾಂತಿ ಸಾಗರ ಕೆರೆಗೆ ಹೆಸರಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "harihareshwara_temple_harihar",
+      "name": "Harihareshwara Temple, Harihar",
+      "nameKannada": "ಹರಿಹರೇಶ್ವರ ದೇವಾಲಯ, ಹರಿಹರ",
+      "district": "Davanagere",
+      "taluk": "Harihara",
+      "village": "Harihar Town",
+      "gramPanchayat": "Harihara Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A splendid 1224 CE Hoysala temple on the banks of the Tungabhadra River, enshrining the unique syncretic deity Harihara—the right half representing Shiva (Hara) and the left half representing Vishnu (Hari). Built of polished soapstone with 116 intricately carved lathe-turned pillars.",
+      "historicalSignificance": "Constructed in 1224 CE by Polalva, a distinguished general of Hoysala King Vira Narasimha II.",
+      "culturalImportance": "A foundational theological bridge uniting Shaiva and Vaishnava traditions in medieval Karnataka.",
+      "lat": 14.5125,
+      "lng": 75.8039,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.5125,75.8039",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Harihareshwara Temple, Harihar",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 12:30, 17:00 – 20:30",
+      "distanceFromNearestTown": "Located at Harihar, 14 km from Davanagere",
+      "nearestBusStation": "Harihar KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Harihar Railway Station (1.5 km)",
+      "roadAccessibility": "Situated right off NH-48 with paved municipal access",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Remove shoes before entering stone mandapa. Active worship site.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Remarkable 13th-century Hoysala temple uniting Shiva and Vishnu into a single composite deity."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "harihareshwaratemple,harihar"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A splendid 1224 CE Hoysala temple on the banks of the Tungabhadra River, enshrining the unique syncretic deity Harihara—the right half repre...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.5125,
+        "longitude": 75.8039
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 12:30, 17:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove shoes before entering stone mandapa. Active worship site."
+      }
+    },
+    {
+      "id": "santhebennur_pushkarini",
+      "name": "Santhebennur Pushkarini (Stepped Bath & Vasantha Mantapa)",
+      "nameKannada": "ಸಂತೆಬೆನ್ನೂರು ಪುಷ್ಕರಣಿ ಮತ್ತು ವಸಂತ ಮಂಟಪ",
+      "district": "Davanagere",
+      "taluk": "Channagiri",
+      "village": "Santhebennur",
+      "gramPanchayat": "Channagiri Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "stepwell_kalyani",
+      "description": "A breathtaking 16th-century stepped royal bath measuring 250 x 250 feet, surrounded by stone steps and octagonal corner pavilions. At its exact center rises the ornate 4-tiered Vasantha Mantapa, featuring arches blending Hindu and Deccani architectural elegance.",
+      "historicalSignificance": "Built in the 16th century by local Nayaka ruler Kenga Hanumappa Nayaka; later visited by Adil Shahi armies who adapted its symmetry.",
+      "culturalImportance": "One of Karnataka's grandest water monuments, celebrated for its stunning reflections in clear reservoir waters.",
+      "lat": 14.1833,
+      "lng": 75.9833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.1833,75.9833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Santhebennur Pushkarini (Stepped Bath & Vasantha Mantapa)",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "22 km from Channagiri, 38 km from Davanagere",
+      "nearestBusStation": "Santhebennur Village Bus Stop (0.5 km)",
+      "nearestRailwayStation": "Sasalu Railway Station (10 km) or Davanagere (38 km)",
+      "roadAccessibility": "Paved state road connecting Davanagere, Sasalu, and Santhebennur",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Watch your footing on stone steps near the water's edge. Bathing is prohibited to protect monument water.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; free entry",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Magnificent 16th-century symmetrical royal tank with 4-storey central pavilion in clear water."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "santhebennurpushkarini(steppedbath&vasanthamantapa)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A breathtaking 16th-century stepped royal bath measuring 250 x 250 feet, surrounded by stone steps and octagonal corner pavilions. At its ex...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.1833,
+        "longitude": 75.9833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Watch your footing on stone steps near the water's edge. Bathing is prohibited to protect monument water."
+      }
+    },
+    {
+      "id": "davangere_benne_dosa_trail",
+      "name": "Davangere Benne Dosa Culinary Quarter",
+      "nameKannada": "ದಾವಣಗೆರೆ ಬೆಣ್ಣೆ ದೋಸೆ ಸಾಂಸ್ಕೃತಿಕ ತಾಣ",
+      "district": "Davanagere",
+      "taluk": "Davanagere",
+      "village": "Dental College Road / PJ Extension",
+      "gramPanchayat": "Davanagere Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "food_heritage",
+      "description": "The birthplace of Karnataka's legendary Benne Dosa (Butter Dosa), invented in 1928 by Chennamma. Crisped to golden perfection over firewood on massive cast-iron griddles using fresh homemade white butter (benne), served with spiced potato mash (aloo palya) and zesty coconut chutney.",
+      "historicalSignificance": "In 1928, Chennamma began preparing butter dosas near Vasantha Talkies, establishing a 95-year culinary heritage that has spread globally.",
+      "culturalImportance": "An indispensable culinary pilgrimage for every traveller crossing Karnataka, celebrated for its unique wood-smoke aroma and melted white butter.",
+      "lat": 14.4667,
+      "lng": 75.9167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.4667,75.9167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+          "caption": "Davangere Benne Dosa Culinary Quarter",
+          "source": "Karnataka Tourism & District Food Heritage Registry"
+        }
+      ],
+      "bestSeason": "Year-round (Morning breakfast 07:00 – 11:30, Evening 17:00 – 21:30)",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 22:00",
+      "distanceFromNearestTown": "Located at Davanagere town center",
+      "nearestBusStation": "Davanagere KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Davanagere Railway Station (1.5 km)",
+      "roadAccessibility": "Directly accessible right off NH-48",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1 hour",
+      "safetyInstructions": "Authentic traditional outlets include Sri Guru Kottureshwara Benne Dosa Hotel, Ravi Benne Dosa, and Gayatri Benne Dosa.",
+      "permissionRequirements": "Open culinary quarter; pay per dish",
+      "tourismInformationSource": "Karnataka Tourism & District Food Heritage Registry",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous original culinary hub of Karnataka's crisp wood-fired Butter Dosa."
+      },
+      "division": "Bengaluru",
+      "region": "Central Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "davangerebennedosaculinaryquarter"
+      ],
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The birthplace of Karnataka's legendary Benne Dosa (Butter Dosa), invented in 1928 by Chennamma. Crisped to golden perfection over firewood ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.4667,
+        "longitude": 75.9167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & District Food Heritage Registry",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 22:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Morning breakfast 07:00 – 11:30, Evening 17:00 – 21:30).",
+        "safetyNotes": "Authentic traditional outlets include Sri Guru Kottureshwara Benne Dosa Hotel, Ravi Benne Dosa, and Gayatri Benne Dosa."
+      }
+    }
+  ],
+  "count": 3
+}

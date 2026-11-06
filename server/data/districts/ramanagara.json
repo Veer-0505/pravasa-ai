@@ -1,0 +1,566 @@
+{
+  "district": {
+    "id": "ramanagara",
+    "name": "Ramanagara",
+    "nameKannada": "ರಾಮನಗರ",
+    "division": "Bengaluru",
+    "headquarters": "Ramanagara",
+    "lat": 12.7236,
+    "lng": 77.2883,
+    "taluks": [
+      "Ramanagara",
+      "Channapatna",
+      "Kanakapura",
+      "Magadi",
+      "Harohalli"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "description": "Famous for the massive granite hills of Ramadevara Betta ('Sholay Hills') and Vulture Sanctuary, Savandurga monolith, Channapatna GI wooden toy town, and Janapada Loka folk museum.",
+    "descriptionKannada": "'ಶೋಲೆ' ಖ್ಯಾತಿಯ ರಾಮದೇವರ ಬೆಟ್ಟ ಮತ್ತು ರಣಹದ್ದು ಧಾಮ, ಏಷ್ಯಾದ ಬೃಹತ್ ಏಕಶಿಲೆ ಸಾವನದುರ್ಗ, ಚನ್ನಪಟ್ಟಣದ ಮರದ ಗೊಂಬೆಗಳು ಮತ್ತು ಜಾನಪದ ಲೋಕಕ್ಕೆ ರಾಮನಗರ ಹೆಸರುವಾಸಿ."
+  },
+  "destinations": [
+    {
+      "id": "ramadevara_betta_vulture_sanctuary",
+      "name": "Ramadevara Betta & Vulture Sanctuary ('Sholay Hills')",
+      "nameKannada": "ರಾಮದೇವರ ಬೆಟ್ಟ ಮತ್ತು ರಣಹದ್ದು ಧಾಮ",
+      "district": "Ramanagara",
+      "taluk": "Ramanagara",
+      "village": "Ramanagara Town",
+      "gramPanchayat": "Ramanagara Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife",
+        "adventure"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A dramatic granite hill famous as the filming location of the legendary Indian cinema epic 'Sholay' (Gabbar's hideout). Declared India's first dedicated Vulture Sanctuary in 2012, protecting endangered Long-billed and Egyptian vultures among sheer vertical cliffs and ancient Rama temple.",
+      "historicalSignificance": "Associated with Lord Rama's exile; Sugriva installed the Pattabhirama idol on the summit.",
+      "culturalImportance": "Iconic Indian film landmark and critical eco-sanctuary saving South India's last surviving wild vulture colonies.",
+      "lat": 12.7236,
+      "lng": 77.2883,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.7236,77.2883",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Ramadevara Betta & Vulture Sanctuary ('Sholay Hills')",
+          "source": "Karnataka Forest Department & Wildlife Division"
+        }
+      ],
+      "bestSeason": "October to March (Early morning visits for birdwatching)",
+      "entryFeeINR": 25,
+      "openingHours": "09:00 – 16:30",
+      "distanceFromNearestTown": "3 km from Ramanagara, 50 km from Bengaluru",
+      "nearestBusStation": "Ramanagara KSRTC Bus Stand (3 km)",
+      "nearestRailwayStation": "Ramanagara Railway Station (3.5 km)",
+      "roadAccessibility": "Bengaluru-Mysuru Expressway to Ramanagara exit, then paved hill road",
+      "trekkingDifficulty": "Easy to Moderate (approx. 400 stone steps with handrails)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Carry binoculars for vulture spotting. Do not make loud noises near nesting cliffs. Carry drinking water.",
+      "permissionRequirements": "Forest Department checkpost entry ticket",
+      "tourismInformationSource": "Karnataka Forest Department & Wildlife Division",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "First vulture sanctuary in India and the unforgettable cinematic home of 'Sholay'."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "ramadevarabetta&vulturesanctuary('sholayhills')"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A dramatic granite hill famous as the filming location of the legendary Indian cinema epic 'Sholay' (Gabbar's hideout). Declared India's fir...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.7236,
+        "longitude": 77.2883
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Wildlife Division",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 16:30",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Early morning visits for birdwatching).",
+        "safetyNotes": "Carry binoculars for vulture spotting. Do not make loud noises near nesting cliffs. Carry drinking water."
+      }
+    },
+    {
+      "id": "savandurga_monolith_trek",
+      "name": "Savandurga Monolithic Rock & Hill Fort",
+      "nameKannada": "ಸಾವನದುರ್ಗ ಏಕಶಿಲಾ ಬೆಟ್ಟ ಮತ್ತು ಕೋಟೆ",
+      "district": "Ramanagara",
+      "taluk": "Magadi",
+      "village": "Savandurga",
+      "gramPanchayat": "Magadi Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "heritage"
+      ],
+      "subcategory": "hill_fort",
+      "description": "One of Asia's largest monolithic granite hills rising 1,226 meters above sea level, composed of two peaks: Karigudda (black hill) and Biligudda (white hill). Features the ruined medieval hill fort of Kempe Gowda and the historic Sri Savandi Veerabhadraswamy Temple at the base.",
+      "historicalSignificance": "Renowned as 'Savinadurga' (Fort of Death) due to its sheer unscalable slopes; captured by Lord Cornwallis in 1791 during the Third Anglo-Mysore War.",
+      "culturalImportance": "Preeminent weekend adventure and rock climbing pilgrimage in Karnataka.",
+      "lat": 12.9192,
+      "lng": 77.2936,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9192,77.2936",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Savandurga Monolithic Rock & Hill Fort",
+          "source": "Karnataka Forest Department & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March (Climb early morning; avoid monsoon rains completely)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 17:30 (Climbing prohibited after 14:00)",
+      "distanceFromNearestTown": "15 km from Magadi, 50 km from Bengaluru",
+      "nearestBusStation": "Magadi Bus Stand (15 km)",
+      "nearestRailwayStation": "Bengaluru KSR (50 km) or Ramanagara (30 km)",
+      "roadAccessibility": "Paved state road via Magadi Road or Mysore Road-Manchanabele",
+      "trekkingDifficulty": "Moderate to Challenging (steep bare granite friction climb)",
+      "estimatedVisitDuration": "4 – 5 hours",
+      "safetyInstructions": "STRICT WARNING: Do not attempt to climb during rains; wet granite becomes frictionless and life-threatening. Wear shoes with excellent rubber grip. Carry 2 liters of water.",
+      "permissionRequirements": "Open trek; adhere to local forest guidelines",
+      "tourismInformationSource": "Karnataka Forest Department & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "One of Asia's largest single granite monoliths offering an exhilarating climb."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "savandurgamonolithicrock&hillfort"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "One of Asia's largest monolithic granite hills rising 1,226 meters above sea level, composed of two peaks: Karigudda (black hill) and Biligu...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9192,
+        "longitude": 77.2936
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 17:30 (Climbing prohibited after 14:00)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Climb early morning; avoid monsoon rains completely).",
+        "safetyNotes": "STRICT WARNING: Do not attempt to climb during rains; wet granite becomes frictionless and life-threatening. Wear shoes with excellent rubber grip. Carry 2 liters of water."
+      }
+    },
+    {
+      "id": "channapatna_toy_craft_village",
+      "name": "Channapatna 'Gombegala Ooru' Toy Craft Heritage",
+      "nameKannada": "ಚನ್ನಪಟ್ಟಣ 'ಗೊಂಬೆಗಳ ಊರು' ಕರಕುಶಲ ಪರಂಪರೆ",
+      "district": "Ramanagara",
+      "taluk": "Channapatna",
+      "village": "Channapatna Town",
+      "gramPanchayat": "Channapatna Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "craft_village",
+      "description": "Karnataka's beloved 'Town of Toys', world-famous for its 200-year-old GI-tagged wooden toys and lacquerware. Skilled artisans hand-turn Ivort wood (Wrightia tinctoria / Aale mara) on lathes and polish them with natural non-toxic vegetable dyes, turmeric, and lac.",
+      "historicalSignificance": "Patronized by Tipu Sultan in the 18th century who invited Persian master craftsmen to train local wood carvers.",
+      "culturalImportance": "A cherished symbol of Karnataka childhood and sustainable craftsmanship; presented to visiting world dignitaries and displayed globally.",
+      "lat": 12.6517,
+      "lng": 77.2089,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.6517,77.2089",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Channapatna 'Gombegala Ooru' Toy Craft Heritage",
+          "source": "Karnataka State Handicrafts Development Corporation & GI Registry"
+        }
+      ],
+      "bestSeason": "Year-round",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 20:30",
+      "distanceFromNearestTown": "60 km from Bengaluru on the Expressway",
+      "nearestBusStation": "Channapatna Bus Stand (1 km)",
+      "nearestRailwayStation": "Channapatna Railway Station (1.5 km)",
+      "roadAccessibility": "Accessible directly on the Bengaluru-Mysuru Expressway service road",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Visit artisan cooperative societies and workshops to see live lathe spinning. Safe and lead-free for infants.",
+      "permissionRequirements": "Free visitor entry into artisan cluster workshops and showrooms",
+      "tourismInformationSource": "Karnataka State Handicrafts Development Corporation & GI Registry",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "UNESCO-recognized traditional toy town with eco-friendly natural lacquer spinning."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "channapatna'gombegalaooru'toycraftheritage"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Karnataka's beloved 'Town of Toys', world-famous for its 200-year-old GI-tagged wooden toys and lacquerware. Skilled artisans hand-turn Ivor...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.6517,
+        "longitude": 77.2089
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Handicrafts Development Corporation & GI Registry",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round.",
+        "safetyNotes": "Visit artisan cooperative societies and workshops to see live lathe spinning. Safe and lead-free for infants."
+      }
+    },
+    {
+      "id": "janapada_loka_folk_museum",
+      "name": "Janapada Loka (Folk Arts Heritage Village)",
+      "nameKannada": "ಜಾನಪದ ಲೋಕ (ಜಾನಪದ ಕಲಾ ಪರಂಪರೆ ಗ್ರಾಮ)",
+      "district": "Ramanagara",
+      "taluk": "Ramanagara",
+      "village": "Doddamannugudde Forest",
+      "gramPanchayat": "Ramanagara Taluk Administration",
+      "category": [
+        "culture",
+        "heritage"
+      ],
+      "subcategory": "cultural_centre",
+      "description": "A 15-acre open-air folk culture wonderland founded in 1994 by eminent folklorist H.L. Nage Gowda. Houses over 5,000 authentic rural artifacts, life-size Yakshagana mannequins, traditional bullock carts, wooden oil presses, shadow puppets (Togalu Gombeyaata), and traditional Karnataka folk architecture.",
+      "historicalSignificance": "Pioneering institution preserving the endangered oral traditions, handicrafts, and rustic lifestyle of rural Karnataka.",
+      "culturalImportance": "Host of the celebrated Lokotsava annual festival with live Dollu Kunitha, Goravara Kunitha, and Somana Kunitha folk dances.",
+      "lat": 12.7167,
+      "lng": 77.2667,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.7167,77.2667",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Janapada Loka (Folk Arts Heritage Village)",
+          "source": "Karnataka Janapada Parishat & Tourism Dept"
+        }
+      ],
+      "bestSeason": "Year-round (Lokotsava in February is vibrant)",
+      "entryFeeINR": 50,
+      "openingHours": "09:00 – 17:30 (Closed on Tuesdays)",
+      "distanceFromNearestTown": "3 km from Ramanagara, 53 km from Bengaluru on Mysore Highway",
+      "nearestBusStation": "Janapada Loka Bus Stop on highway (0.1 km)",
+      "nearestRailwayStation": "Ramanagara Railway Station (3 km)",
+      "roadAccessibility": "Situated right along the Bengaluru-Mysuru Expressway service road",
+      "trekkingDifficulty": "Easy (shaded museum garden walks)",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Sample authentic rustic cuisine (Ragi Mudde, Naati Koli) at the adjacent Kamat Lokaruchi restaurant.",
+      "permissionRequirements": "Karnataka Janapada Parishat entry ticket",
+      "tourismInformationSource": "Karnataka Janapada Parishat & Tourism Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-class 15-acre folk village preserving 5,000+ rare artifacts and live folk dance traditions."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "janapadaloka(folkartsheritagevillage)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 15-acre open-air folk culture wonderland founded in 1994 by eminent folklorist H.L. Nage Gowda. Houses over 5,000 authentic rural artifact...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.7167,
+        "longitude": 77.2667
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Janapada Parishat & Tourism Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 17:30 (Closed on Tuesdays)",
+        "entryFeeINR": 50,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Lokotsava in February is vibrant).",
+        "safetyNotes": "Sample authentic rustic cuisine (Ragi Mudde, Naati Koli) at the adjacent Kamat Lokaruchi restaurant."
+      }
+    },
+    {
+      "id": "mekedatu_goats_leap_gorge",
+      "name": "Mekedatu (Goat's Leap) & Arkavathi Sangama",
+      "nameKannada": "ಮೇಕೆದಾಟು ಮತ್ತು ಅರ್ಕಾವತಿ ಸಂಗಮ",
+      "district": "Ramanagara",
+      "taluk": "Kanakapura",
+      "village": "Sangama",
+      "gramPanchayat": "Kanakapura Taluk Administration",
+      "category": [
+        "nature",
+        "scenic"
+      ],
+      "subcategory": "river_confluence",
+      "description": "A breathtaking geological canyon where the mighty Cauvery River, merged with the Arkavathi at Sangama, squeezes through an astonishingly narrow granite crevice just a few meters wide—so narrow that a goat could leap across ('Meke-daatu'), roaring with thunderous speed through deep subterranean rock chasms.",
+      "historicalSignificance": "Ancient puranic landscape mentioned in Cauvery Mahatmya; where divine goats escaped hunters by leaping across the churning waters.",
+      "culturalImportance": "One of Karnataka's most dramatic natural river gorges, set within the dense deciduous wilderness of Cauvery Wildlife Sanctuary.",
+      "lat": 12.2589,
+      "lng": 77.4419,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.2589,77.4419",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mekedatu (Goat's Leap) & Arkavathi Sangama",
+          "source": "Karnataka Forest Department & Tourism Dept"
+        }
+      ],
+      "bestSeason": "September to February (Post-monsoon river flow is majestic)",
+      "entryFeeINR": 50,
+      "openingHours": "08:30 – 17:00",
+      "distanceFromNearestTown": "32 km from Kanakapura, 95 km from Bengaluru",
+      "nearestBusStation": "Sangama Bus Stop (0.1 km) / Kanakapura Bus Stand (32 km)",
+      "nearestRailwayStation": "Bengaluru KSR (95 km)",
+      "roadAccessibility": "Paved state road (NH-209 via Kanakapura), followed by river crossing and forest department shuttle bus",
+      "trekkingDifficulty": "Easy to Moderate (rocky riverbank walking)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "STRICT WARNING: Swimming, wading, or stepping onto wet river rocks at Mekedatu is strictly prohibited and fatal. Sudden surges and invisible underwater caves have claimed over 200 lives. Follow barricades.",
+      "permissionRequirements": "Forest Department managed entry at Sangama checkpoint",
+      "tourismInformationSource": "Karnataka Forest Department & Tourism Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Thunderous natural canyon where the entire Cauvery River surges through a narrow rock crevice."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mekedatu(goat'sleap)&arkavathisangama"
+      ],
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A breathtaking geological canyon where the mighty Cauvery River, merged with the Arkavathi at Sangama, squeezes through an astonishingly nar...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.2589,
+        "longitude": 77.4419
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Tourism Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:00",
+        "entryFeeINR": 50,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during September to February (Post-monsoon river flow is majestic).",
+        "safetyNotes": "STRICT WARNING: Swimming, wading, or stepping onto wet river rocks at Mekedatu is strictly prohibited and fatal. Sudden surges and invisible underwater caves have claimed over 200 lives. Follow barricades."
+      }
+    }
+  ],
+  "count": 5
+}

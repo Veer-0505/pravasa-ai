@@ -1,0 +1,461 @@
+{
+  "district": {
+    "id": "bagalkot",
+    "name": "Bagalkot",
+    "nameKannada": "ಬಾಗಲಕೋಟೆ",
+    "division": "Belagavi",
+    "headquarters": "Bagalkot",
+    "lat": 16.1687,
+    "lng": 75.6559,
+    "taluks": [
+      "Bagalkot",
+      "Badami",
+      "Bilgi",
+      "Hungund",
+      "Jamkhandi",
+      "Mudhol",
+      "Ilkal",
+      "Rabkavi Banhatti",
+      "Guledgudda"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "The cradle of Indian temple architecture, Bagalkot houses the 6th-century Badami Cave Temples, the laboratory temples of Aihole, Pattadakal UNESCO World Heritage complex, Kudalasangama, and Ilkal sarees.",
+    "descriptionKannada": "ಭಾರತೀಯ ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪದ ತೊಟ್ಟಿಲು, ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು, ಐಹೊಳೆ, ಪಟ್ಟದಕಲ್ಲು ಯುನೆಸ್ಕೋ ತಾಣ, ಕೂಡಲಸಂಗಮ ಮತ್ತು ಇಳಕಲ್ ಸೀರೆಗಳಿಗೆ ಬಾಗಲಕೋಟೆ ಖ್ಯಾತವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "badami_cave_temples",
+      "name": "Badami Cave Temples & Agastya Lake",
+      "nameKannada": "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು ಮತ್ತು ಅಗಸ್ತ್ಯ ತೀರ್ಥ",
+      "district": "Bagalkot",
+      "taluk": "Badami",
+      "village": "Badami Town",
+      "gramPanchayat": "Badami Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "Four world-famous rock-cut cave shrines excavated into vertical red sandstone cliffs in the 6th century CE, featuring the 18-armed dancing Shiva Nataraja, Vishnu as Trivikrama, and Jain Tirthankaras overlooking the sacred Agastya Lake and Bhutanatha Temples.",
+      "historicalSignificance": "Imperial capital of the Early Chalukya dynasty (543–753 CE) founded by Pulakeshin I, who created the cradle of rock-cut temple engineering.",
+      "culturalImportance": "Pivotal foundation of Karnataka's classical stone art, featured in numerous classical Kannada poems and inscriptions.",
+      "lat": 15.9189,
+      "lng": 75.6767,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.9189,75.6767",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Badami Cave Temples & Agastya Lake",
+          "source": "Archaeological Survey of India & UNESCO Tentative List"
+        }
+      ],
+      "bestSeason": "October to March (Pleasant winter temperatures)",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located within Badami town",
+      "nearestBusStation": "Badami KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Badami Railway Station (5 km)",
+      "roadAccessibility": "Paved state highway from Bagalkot and Hubballi",
+      "trekkingDifficulty": "Easy to Moderate (stone steps linking caves)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Monkeys are present around caves; keep food items inside zipped bags. Wear footwear with good grip on sandstone.",
+      "permissionRequirements": "ASI entry ticket required",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO Tentative List",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic 6th-century rock-cut architecture, the birthplace of South Indian temple styles."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "badamicavetemples&agastyalake"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Four world-famous rock-cut cave shrines excavated into vertical red sandstone cliffs in the 6th century CE, featuring the 18-armed dancing S...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.9189,
+        "longitude": 75.6767
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO Tentative List",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Pleasant winter temperatures).",
+        "safetyNotes": "Monkeys are present around caves; keep food items inside zipped bags. Wear footwear with good grip on sandstone."
+      }
+    },
+    {
+      "id": "aihole_durga_temple_complex",
+      "name": "Aihole 'Cradle of Temple Architecture'",
+      "nameKannada": "ಐಹೊಳೆ 'ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪದ ತೊಟ್ಟಿಲು'",
+      "district": "Bagalkot",
+      "taluk": "Hungund",
+      "village": "Aihole",
+      "gramPanchayat": "Hungund Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "A premier archaeological laboratory holding over 125 stone temples built between the 6th and 12th centuries CE. Highlights include the famed apsidal Durga Temple with peristyle gallery, Lad Khan Temple, Ravana Phadi rock-cut cave, and Meguti Jain Temple carrying the 634 CE Aihole Inscription of poet Ravikirti praising Pulakeshin II.",
+      "historicalSignificance": "The ancient experimental capital where Chalukyan master craftsmen tested Dravida, Nagara, and Vesara architectural experiments before executing larger monuments.",
+      "culturalImportance": "Revered globally by art historians as the university of Indian stone architecture.",
+      "lat": 16.0219,
+      "lng": 75.8822,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.0219,75.8822",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Aihole 'Cradle of Temple Architecture'",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "35 km from Badami, 10 km from Pattadakal",
+      "nearestBusStation": "Aihole Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Badami Railway Station (35 km) or Bagalkot (45 km)",
+      "roadAccessibility": "Paved heritage circuit road connecting Badami, Pattadakal, and Aihole",
+      "trekkingDifficulty": "Easy (flat manicured archaeological park)",
+      "estimatedVisitDuration": "3 hours",
+      "safetyInstructions": "Do not climb on ancient stone carvings or friezes. Carry sun protection.",
+      "permissionRequirements": "ASI composite entry ticket",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Over 125 laboratory temples showcasing the evolution of Hindu and Jain architecture."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "aihole'cradleoftemplearchitecture'"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A premier archaeological laboratory holding over 125 stone temples built between the 6th and 12th centuries CE. Highlights include the famed...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.0219,
+        "longitude": 75.8822
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Do not climb on ancient stone carvings or friezes. Carry sun protection."
+      }
+    },
+    {
+      "id": "pattadakal_unesco_monuments",
+      "name": "Pattadakal UNESCO World Heritage Complex",
+      "nameKannada": "ಪಟ್ಟದಕಲ್ಲು ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ತಾಣ",
+      "district": "Bagalkot",
+      "taluk": "Badami",
+      "village": "Pattadakal",
+      "gramPanchayat": "Badami Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "UNESCO World Heritage Site on the Malaprabha River bank representing the zenith of Early Chalukya temple architecture. Features 9 Hindu temples and a Jain sanctuary, including the monumental 8th-century Virupaksha Temple built by Queen Lokamahadevi to commemorate victory over the Pallavas of Kanchi.",
+      "historicalSignificance": "The ceremonial coronation (Pattada-Kisuvolal) capital of the Chalukyas where kings were anointed; harmoniously blends North Indian Nagara and South Indian Dravida vimana architectures.",
+      "culturalImportance": "Living testament to royal patronage and the high point of early Indian structural stone craftsmanship.",
+      "lat": 15.9486,
+      "lng": 75.8164,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.9486,75.8164",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Pattadakal UNESCO World Heritage Complex",
+          "source": "Archaeological Survey of India & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to March (Pattadakal Dance Festival in January)",
+      "entryFeeINR": 40,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "22 km from Badami, 14 km from Aihole",
+      "nearestBusStation": "Pattadakal Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Badami Railway Station (22 km)",
+      "roadAccessibility": "Paved heritage corridor road with visitor interpretation center",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2.5 hours",
+      "safetyInstructions": "Remove shoes before entering sanctum of active shrines. Keep hydration handy.",
+      "permissionRequirements": "ASI entry ticket required (UNESCO World Heritage Site)",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "UNESCO World Heritage site featuring the majestic 8th-century Virupaksha and Mallikarjuna temples."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "pattadakalunescoworldheritagecomplex"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "UNESCO World Heritage Site on the Malaprabha River bank representing the zenith of Early Chalukya temple architecture. Features 9 Hindu temp...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.9486,
+        "longitude": 75.8164
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 40,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Pattadakal Dance Festival in January).",
+        "safetyNotes": "Remove shoes before entering sanctum of active shrines. Keep hydration handy."
+      }
+    },
+    {
+      "id": "kudalasangama_aikya_mantapa",
+      "name": "Kudalasangama (Aikya Mantapa & Krishna-Malaprabha Confluence)",
+      "nameKannada": "ಕೂಡಲಸಂಗಮ (ಐಕ್ಯ ಮಂಟಪ ಮತ್ತು ಕೃಷ್ಣಾ-ಮಲಪ್ರಭಾ ಸಂಗಮ)",
+      "district": "Bagalkot",
+      "taluk": "Hungund",
+      "village": "Kudalasangama",
+      "gramPanchayat": "Hungund Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage",
+        "nature"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "The holy confluence of the sacred Krishna and Malaprabha rivers, housing the cylindrical glass-encased Aikya Mantapa of Jagadjyothi Basaveshwara, the Sangameshwara Temple, and the modern 12th-century Sharana museum and research university.",
+      "historicalSignificance": "Where Basavanna attained spiritual union (Aikya) in 1167 CE; the epicenter of Veerashaiva-Lingayat philosophy.",
+      "culturalImportance": "Foremost spiritual pilgrimage center for millions of followers of Basava philosophy, renowned for its serene riverside ambience and massive pilgrim choultries.",
+      "lat": 16.2167,
+      "lng": 76.0667,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.2167,76.0667",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kudalasangama (Aikya Mantapa & Krishna-Malaprabha Confluence)",
+          "source": "Kudalasangama Development Board & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (River flow pleasant, comfortable weather)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 20:30",
+      "distanceFromNearestTown": "15 km from Almatti Dam, 50 km from Bagalkot",
+      "nearestBusStation": "Kudalasangama Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Almatti Railway Station (18 km) or Bagalkot (50 km)",
+      "roadAccessibility": "Broad 4-lane highway from NH-50 to Kudalasangama",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Follow safety warnings near river confluence ghats; bathing only in designated stepped ghats.",
+      "permissionRequirements": "Managed by Kudalasangama Development Board; free public entry",
+      "tourismInformationSource": "Kudalasangama Development Board & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Sacred river confluence and Samadhi of Karnataka's revolutionary social reformer Basaveshwara."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "kudalasangama(aikyamantapa&krishna-malaprabhaconfluence)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The holy confluence of the sacred Krishna and Malaprabha rivers, housing the cylindrical glass-encased Aikya Mantapa of Jagadjyothi Basavesh...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.2167,
+        "longitude": 76.0667
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Kudalasangama Development Board & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (River flow pleasant, comfortable weather).",
+        "safetyNotes": "Follow safety warnings near river confluence ghats; bathing only in designated stepped ghats."
+      }
+    }
+  ],
+  "count": 4
+}

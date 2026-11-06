@@ -1,0 +1,461 @@
+{
+  "district": {
+    "id": "kalaburagi",
+    "name": "Kalaburagi",
+    "nameKannada": "ಕಲಬುರಗಿ",
+    "division": "Kalaburagi",
+    "headquarters": "Kalaburagi",
+    "lat": 17.3297,
+    "lng": 76.8343,
+    "taluks": [
+      "Kalaburagi",
+      "Afzalpur",
+      "Aland",
+      "Chincholi",
+      "Chittapur",
+      "Jevargi",
+      "Sedam",
+      "Kamalapur",
+      "Yadrami",
+      "Shahabad"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Historic capital of the Bahmani Sultanate, Kalaburagi is famous for the great covered Jami Masjid, Sufi saint Khwaja Bande Nawaz Dargah, Sannati Ashokan Buddhist stupa, and Chincholi Wildlife Sanctuary.",
+    "descriptionKannada": "ಬಹಮನಿ ಸುಲ್ತಾನರ ಐತಿಹಾಸಿಕ ರಾಜಧಾನಿ ಕಲಬುರಗಿ, ಪೂರ್ಣ ಆವೃತ ಜಾಮಿಯಾ ಮಸೀದಿ, ಹಜರತ್ ಖ್ವಾಜಾ ಬಂದೇ ನವಾಜ್ ದರ್ಗಾ, ಸನ್ನತಿ ಅಶೋಕನ ಬೌದ್ಧ ಸ್ತೂಪ ಮತ್ತು ಚಿಂಚೋಳಿ ವನ್ಯಜೀವಿ ಧಾಮಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "gulbarga_fort_jami_masjid",
+      "name": "Gulbarga Fort & Great Jami Masjid",
+      "nameKannada": "ಕಲಬುರಗಿ ಕೋಟೆ ಮತ್ತು ಜಾಮಿಯಾ ಮಸೀದಿ",
+      "district": "Kalaburagi",
+      "taluk": "Kalaburagi",
+      "village": "Old City",
+      "gramPanchayat": "Kalaburagi Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A massive 14th-century fortress featuring 15 watchtowers and the peerless Great Jami Masjid (1367 CE) built by Persian architect Rafi of Qazvin, completely covered by 68 domes with no open courtyard—inspired by the Mosque-Cathedral of Córdoba.",
+      "historicalSignificance": "Original seat of the Bahmani Empire founded by Ala-ud-Din Bahman Shah in 1347 CE. Houses the world's longest cast-iron cannon (Bara Gazi Toph, 29 feet long).",
+      "culturalImportance": "Architectural milestone of Islamic engineering in South India, celebrated for its acoustic arcade vaulting.",
+      "lat": 17.3486,
+      "lng": 76.8228,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.3486,76.8228",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gulbarga Fort & Great Jami Masjid",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "Located in Kalaburagi city center",
+      "nearestBusStation": "Kalaburagi Central Bus Stand (2 km)",
+      "nearestRailwayStation": "Kalaburagi Junction (1.5 km)",
+      "roadAccessibility": "Paved municipal road with visitor parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Wear non-slip footwear on smoothed stone arches. Respect prayer areas.",
+      "permissionRequirements": "ASI entry ticket required",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Unique completely roofed mosque in South Asia with the historic 29-foot Bara Gazi cannon."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "gulbargafort&greatjamimasjid"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A massive 14th-century fortress featuring 15 watchtowers and the peerless Great Jami Masjid (1367 CE) built by Persian architect Rafi of Qaz...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.3486,
+        "longitude": 76.8228
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Wear non-slip footwear on smoothed stone arches. Respect prayer areas."
+      }
+    },
+    {
+      "id": "khwaja_bande_nawaz_dargah",
+      "name": "Hazrat Khwaja Bande Nawaz Dargah",
+      "nameKannada": "ಹಜರತ್ ಖ್ವಾಜಾ ಬಂದೇ ನವಾಜ್ ದರ್ಗಾ",
+      "district": "Kalaburagi",
+      "taluk": "Kalaburagi",
+      "village": "Dargah Road",
+      "gramPanchayat": "Kalaburagi Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "Sacred Sufi sanctuary dedicated to Great Chishti saint Hazrat Muhammad Gesudaraz Khwaja Bande Nawaz. Features a striking Indo-Saracenic dome with Persian and Deccani mural paintings, an ancient library with rare Quran manuscripts, and community langar.",
+      "historicalSignificance": "The saint arrived from Delhi in 1400 CE at the invitation of Bahmani Sultan Taj ud-Din Firuz Shah; his teachings advocated universal brotherhood and human compassion.",
+      "culturalImportance": "Attracts millions of Hindu and Muslim devotees during the annual Urs in Zil-Qada, embodying Karnataka's Ganga-Jamuni syncretic culture.",
+      "lat": 17.3292,
+      "lng": 76.8436,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.3292,76.8436",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Hazrat Khwaja Bande Nawaz Dargah",
+          "source": "Dargah Sharif Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (Special festivities during annual Urs)",
+      "entryFeeINR": 0,
+      "openingHours": "05:00 – 22:00",
+      "distanceFromNearestTown": "3 km from Kalaburagi Railway Station",
+      "nearestBusStation": "Dargah Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Kalaburagi Junction (3 km)",
+      "roadAccessibility": "Direct city bus and auto connectivity",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Head cover mandatory inside the sanctum for both men and women. Remove shoes at entrance.",
+      "permissionRequirements": "Open to all faiths; photography restricted inside the inner shrine chamber",
+      "tourismInformationSource": "Dargah Sharif Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Southern India's most venerated Chishti Sufi pilgrimage destination."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "hazratkhwajabandenawazdargah"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Sacred Sufi sanctuary dedicated to Great Chishti saint Hazrat Muhammad Gesudaraz Khwaja Bande Nawaz. Features a striking Indo-Saracenic dome...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.3292,
+        "longitude": 76.8436
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Dargah Sharif Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "05:00 – 22:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Special festivities during annual Urs).",
+        "safetyNotes": "Head cover mandatory inside the sanctum for both men and women. Remove shoes at entrance."
+      }
+    },
+    {
+      "id": "sannati_kanaganahalli_stupa",
+      "name": "Sannati & Kanaganahalli Ashokan Stupa",
+      "nameKannada": "ಸನ್ನತಿ ಮತ್ತು ಕನಗನಹಳ್ಳಿ ಅಶೋಕ ಸ್ತೂಪ",
+      "district": "Kalaburagi",
+      "taluk": "Chittapur",
+      "village": "Kanaganahalli / Sannati",
+      "gramPanchayat": "Chittapur Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "archaeological_site",
+      "description": "Sensational Buddhist excavation on the Bhima River bank revealing the Adhama Stupa (Maha Stupa) with 60+ sculpted limestone slabs and the ONLY stone portrait of Emperor Ashoka inscribed with 'Ranyo Ashoka' (King Ashoka) discovered anywhere in the world.",
+      "historicalSignificance": "Dates from 3rd century BCE to 3rd century CE under the Mauryan and Satavahana dynasties. Ashokan major edicts on stone slabs found in Chandralamba temple premises.",
+      "culturalImportance": "Global Buddhist heritage milestone proving Ashoka's profound direct patronage across Karnataka and the Deccan.",
+      "lat": 16.8286,
+      "lng": 76.9069,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.8286,76.9069",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Sannati & Kanaganahalli Ashokan Stupa",
+          "source": "Archaeological Survey of India (Excavation Branch)"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 20,
+      "openingHours": "09:00 – 17:00",
+      "distanceFromNearestTown": "20 km from Nalwar, 65 km from Kalaburagi",
+      "nearestBusStation": "Nalwar KSRTC Bus Stand (20 km)",
+      "nearestRailwayStation": "Nalwar Railway Station (20 km) or Wadi Junction (32 km)",
+      "roadAccessibility": "Paved rural road via Shahabad-Nalwar-Sannati route",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Rural archaeological site; carry drinking water, hats, and umbrella for sun protection.",
+      "permissionRequirements": "ASI protected monument site",
+      "tourismInformationSource": "Archaeological Survey of India (Excavation Branch)",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "The ONLY authenticated portrait sculpture of Emperor Ashoka on Earth, yet rarely visited."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "sannati&kanaganahalliashokanstupa"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Sensational Buddhist excavation on the Bhima River bank revealing the Adhama Stupa (Maha Stupa) with 60+ sculpted limestone slabs and the ON...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.8286,
+        "longitude": 76.9069
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India (Excavation Branch)",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 17:00",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Rural archaeological site; carry drinking water, hats, and umbrella for sun protection."
+      }
+    },
+    {
+      "id": "chincholi_wildlife_sanctuary",
+      "name": "Chincholi Wildlife Sanctuary & Chandrampalli Dam",
+      "nameKannada": "ಚಿಂಚೋಳಿ ವನ್ಯಜೀವಿ ಧಾಮ ಮತ್ತು ಚಂದ್ರಂಪಳ್ಳಿ ಅಣೆಕಟ್ಟು",
+      "district": "Kalaburagi",
+      "taluk": "Chincholi",
+      "village": "Chandrampalli",
+      "gramPanchayat": "Chincholi Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "South India's first dry-land wildlife sanctuary spreading across 134 sq km of undulating dry deciduous and teak forests, sheltering wolves, hyenas, blackbucks, leopards, and over 130 bird species alongside scenic Chandrampalli dam and Gottam Gotta forest cliffs.",
+      "historicalSignificance": "Notified in 2011 to conserve Deccan dry-scrub ecosystem and medicinal flora including wild sandalwood and terminalia species.",
+      "culturalImportance": "Sacred tribal Lambani settlements with authentic mirror embroidery culture and pristine forest waterfalls.",
+      "lat": 17.4333,
+      "lng": 77.4167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.4333,77.4167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Chincholi Wildlife Sanctuary & Chandrampalli Dam",
+          "source": "Karnataka Forest Department & Wildlife Division"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 50,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "8 km from Chincholi, 90 km from Kalaburagi",
+      "nearestBusStation": "Chincholi KSRTC Bus Stand (8 km)",
+      "nearestRailwayStation": "Tandur Railway Station (30 km) or Kalaburagi (90 km)",
+      "roadAccessibility": "State Highway 15 from Kalaburagi to Chincholi",
+      "trekkingDifficulty": "Moderate",
+      "estimatedVisitDuration": "Half day (3 – 4 hours)",
+      "safetyInstructions": "Do not stray off marked forest nature trails; wild animals present. Campfire prohibited.",
+      "permissionRequirements": "Forest Department entry checkpost at Chandrampalli",
+      "tourismInformationSource": "Karnataka Forest Department & Wildlife Division",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "First dry-zone wildlife reserve in South India with spectacular valley views at Gottam Gotta."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "chincholiwildlifesanctuary&chandrampallidam"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "South India's first dry-land wildlife sanctuary spreading across 134 sq km of undulating dry deciduous and teak forests, sheltering wolves, ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.4333,
+        "longitude": 77.4167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Wildlife Division",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 50,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Do not stray off marked forest nature trails; wild animals present. Campfire prohibited."
+      }
+    }
+  ],
+  "count": 4
+}

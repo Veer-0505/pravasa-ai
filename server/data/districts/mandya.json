@@ -1,0 +1,459 @@
+{
+  "district": {
+    "id": "mandya",
+    "name": "Mandya",
+    "nameKannada": "ಮಂಡ್ಯ",
+    "division": "Mysuru",
+    "headquarters": "Mandya",
+    "lat": 12.5218,
+    "lng": 76.8951,
+    "taluks": [
+      "Mandya",
+      "Maddur",
+      "Malavalli",
+      "Pandavapura",
+      "Nagamangala",
+      "Krishnarajapet",
+      "Srirangapatna"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200&auto=format&fit=crop&q=80",
+    "description": "Sugar capital of Karnataka nestled along the Cauvery, Mandya boasts the historic island capital Srirangapatna, thunderous Shivanasamudra Falls, Ranganathittu Bird Sanctuary, and sacred Melukote.",
+    "descriptionKannada": "ಸಕ್ಕರೆ ನಾಡು ಮಂಡ್ಯ, ಐತಿಹಾಸಿಕ ದ್ವೀಪ ನಗರ ಶ್ರೀರಂಗಪಟ್ಟಣ, ಭೋರ್ಗರೆಯುವ ಶಿವನಸಮುದ್ರ ಜಲಪಾತ, ರಂಗನತಿಟ್ಟು ಪಕ್ಷಿಧಾಮ ಮತ್ತು ಪವಿತ್ರ ಮೇಲುಕೋಟೆಗೆ ಖ್ಯಾತವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "srirangapatna_fort_dariya_daulat",
+      "name": "Srirangapatna Island Fort & Dariya Daulat Bagh",
+      "nameKannada": "ಶ್ರೀರಂಗಪಟ್ಟಣ ದ್ವೀಪ ಕೋಟೆ ಮತ್ತು ದರಿಯಾ ದೌಲತ್ ಬಾಗ್",
+      "district": "Mandya",
+      "taluk": "Srirangapatna",
+      "village": "Srirangapatna",
+      "gramPanchayat": "Srirangapatna Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A sacred river island fortress formed by two branches of the Cauvery River, famous for the 9th-century Sri Ranganathaswamy Temple, Tipu Sultan's teakwood Summer Palace (Dariya Daulat Bagh) with frescoed battle murals, the Gumbaz royal mausoleum, Colonel Bailey's Dungeon, and the historic breach point of the 1799 battle.",
+      "historicalSignificance": "The capital of Mysore under Hyder Ali and Tipu Sultan; siege site of the Fourth Anglo-Mysore War on May 4, 1799 where Tipu fell defending his fortress.",
+      "culturalImportance": "Sacred Adi Ranga of the three great Cauvery Ranganatha temples, alongside extraordinary 18th-century anti-colonial battle history.",
+      "lat": 12.4239,
+      "lng": 76.6953,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.4239,76.6953",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Srirangapatna Island Fort & Dariya Daulat Bagh",
+          "source": "Archaeological Survey of India & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "08:30 – 17:30",
+      "distanceFromNearestTown": "15 km from Mysuru, 25 km from Mandya, 125 km from Bengaluru",
+      "nearestBusStation": "Srirangapatna Bus Stand (1 km)",
+      "nearestRailwayStation": "Srirangapatna Railway Station (0.5 km)",
+      "roadAccessibility": "Located right along Bengaluru-Mysuru Expressway",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Cauvery river bathing spots have strong seasonal undertows; bathe only at designated stepped ghats.",
+      "permissionRequirements": "ASI entry ticket required for Dariya Daulat Bagh and Gumbaz",
+      "tourismInformationSource": "Archaeological Survey of India & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Historic island fortress of Tipu Sultan and sacred Adi Ranga temple."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "srirangapatnaislandfort&dariyadaulatbagh"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A sacred river island fortress formed by two branches of the Cauvery River, famous for the 9th-century Sri Ranganathaswamy Temple, Tipu Sult...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.4239,
+        "longitude": 76.6953
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:30",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Cauvery river bathing spots have strong seasonal undertows; bathe only at designated stepped ghats."
+      }
+    },
+    {
+      "id": "shivanasamudra_falls_twin",
+      "name": "Shivanasamudra Falls (Gaganachukki & Bharachukki)",
+      "nameKannada": "ಶಿವನಸಮುದ್ರ ಜಲಪಾತ (ಗಗನಚುಕ್ಕಿ ಮತ್ತು ಭರಚುಕ್ಕಿ)",
+      "district": "Mandya",
+      "taluk": "Malavalli",
+      "village": "Shivanasamudra",
+      "gramPanchayat": "Malavalli Taluk Administration",
+      "category": [
+        "nature",
+        "waterfall",
+        "heritage"
+      ],
+      "subcategory": "waterfall",
+      "description": "The mighty Cauvery River splits around the island of Shivanasamudra and plunges 320 feet down twin breathtaking cascades: the wild western Gaganachukki with a deafening roar and the broad, fan-shaped eastern Bharachukki. Features Asia's very first major hydroelectric power station commissioned in 1902.",
+      "historicalSignificance": "Site of the historic 1902 hydro-electric generating plant built by Dewan K. Seshadri Iyer and Sir M. Visvesvaraya, which transmitted electric power 147 km to Kolar Gold Fields—the longest transmission line in the world at the time.",
+      "culturalImportance": "Immortalized in Indian engineering history and a beloved monsoon spectacle.",
+      "lat": 12.2961,
+      "lng": 77.1689,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.2961,77.1689",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+          "caption": "Shivanasamudra Falls (Gaganachukki & Bharachukki)",
+          "source": "Karnataka Tourism & District Administration"
+        }
+      ],
+      "bestSeason": "July to November (Peak monsoon discharge is spectacular)",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 18:00",
+      "distanceFromNearestTown": "30 km from Malavalli, 80 km from Mysuru, 130 km from Bengaluru",
+      "nearestBusStation": "Shivanasamudra Bus Stop (0.5 km) / Malavalli Bus Stand (30 km)",
+      "nearestRailwayStation": "Maddur Railway Station (50 km) or Mysuru Junction (80 km)",
+      "roadAccessibility": "Well-paved state highway with viewing balconies and parking plazas",
+      "trekkingDifficulty": "Easy (viewing decks) to Moderate (steps to base)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "STRICT WARNING: Swimming is strictly prohibited; sudden water surges and churning underwater whirlpools have claimed lives. Stay behind barricades.",
+      "permissionRequirements": "Open tourist destination; managed by Tourism Dept & Forest Dept",
+      "tourismInformationSource": "Karnataka Tourism & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Roaring twin waterfalls and home of Asia's first hydroelectric power station of 1902."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "waterfall",
+      "aliases": [
+        "shivanasamudrafalls(gaganachukki&bharachukki)"
+      ],
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The mighty Cauvery River splits around the island of Shivanasamudra and plunges 320 feet down twin breathtaking cascades: the wild western G...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.2961,
+        "longitude": 77.1689
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during July to November (Peak monsoon discharge is spectacular).",
+        "safetyNotes": "STRICT WARNING: Swimming is strictly prohibited; sudden water surges and churning underwater whirlpools have claimed lives. Stay behind barricades."
+      }
+    },
+    {
+      "id": "ranganathittu_bird_sanctuary",
+      "name": "Ranganathittu Bird Sanctuary",
+      "nameKannada": "ರಂಗನತಿಟ್ಟು ಪಕ್ಷಿಧಾಮ",
+      "district": "Mandya",
+      "taluk": "Srirangapatna",
+      "village": "Ranganathittu",
+      "gramPanchayat": "Srirangapatna Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A globally renowned 67-hectare riverine bird sanctuary comprising 6 natural islets on the Cauvery River. Renowned for ranger-guided boat safaris gliding inches from nesting colonies of painted storks, spoonbills, openbill storks, ibises, and basking marsh crocodiles (muggers).",
+      "historicalSignificance": "Declared a sanctuary in 1940 at the passionate urging of India's 'Birdman' Dr. Salim Ali, who recognized its unique river islet ecology.",
+      "culturalImportance": "Karnataka's largest and most famous bird sanctuary, designated as a Ramsar Wetland of International Importance in 2022.",
+      "lat": 12.4244,
+      "lng": 76.6578,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.4244,76.6578",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Ranganathittu Bird Sanctuary",
+          "source": "Karnataka Forest Department & Ramsar Convention"
+        }
+      ],
+      "bestSeason": "November to June (Peak nesting and breeding season December to March)",
+      "entryFeeINR": 70,
+      "openingHours": "08:30 – 17:45 (Boat safari tickets: ₹100)",
+      "distanceFromNearestTown": "4 km from Srirangapatna, 18 km from Mysuru, 125 km from Bengaluru",
+      "nearestBusStation": "Srirangapatna Bus Stand (4 km)",
+      "nearestRailwayStation": "Srirangapatna Railway Station (4 km) or Mysuru (18 km)",
+      "roadAccessibility": "Paved 2-lane road off the Bengaluru-Mysuru Expressway with large parking facility",
+      "trekkingDifficulty": "Easy (shaded walking promenades and boat docks)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Life jackets mandatory on all boat safaris. Never extend hands into the river water due to active crocodile population.",
+      "permissionRequirements": "Forest Department entry ticket and boat ride ticket",
+      "tourismInformationSource": "Karnataka Forest Department & Ramsar Convention",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Ramsar-recognized river islet paradise with world-class close-up boat birdwatching."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "ranganathittubirdsanctuary"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A globally renowned 67-hectare riverine bird sanctuary comprising 6 natural islets on the Cauvery River. Renowned for ranger-guided boat saf...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.4244,
+        "longitude": 76.6578
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Ramsar Convention",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:45 (Boat safari tickets: ₹100)",
+        "entryFeeINR": 70,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during November to June (Peak nesting and breeding season December to March).",
+        "safetyNotes": "Life jackets mandatory on all boat safaris. Never extend hands into the river water due to active crocodile population."
+      }
+    },
+    {
+      "id": "melukote_cheluvanarayana_kalyani",
+      "name": "Melukote Temple Town & Akka-Tangi Kalyani",
+      "nameKannada": "ಮೇಲುಕೋಟೆ ಚೆಲುವನಾರಾಯಣ ಮತ್ತು ಅಕ್ಕ-ತಂಗಿ ಕಲ್ಯಾಣಿ",
+      "district": "Mandya",
+      "taluk": "Pandavapura",
+      "village": "Melukote",
+      "gramPanchayat": "Pandavapura Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "A serene sacred hill town where Vaishnava saint Sri Ramanujacharya lived for 12 years in the 12th century. Features the Sri Cheluvanarayana Swamy Temple, the hilltop Yoga Narasimha Temple overlooking the plains, the famous twin stepwells Akka-Tangi Kalyani, and the mouthwatering GI-reputed Melukote Puliyogare.",
+      "historicalSignificance": "Sanctified by Ramanujacharya in 1100 CE; patronized by Hoysala King Vishnuvardhana and later the Vijayanagara and Mysore dynasties with precious jewel donations (Vairamudi).",
+      "culturalImportance": "Epicenter of Sri Vaishnavism in Karnataka; home of the world-famous Vairamudi Brahmotsava when the deity is adorned with celestial diamond crowns.",
+      "lat": 12.6667,
+      "lng": 76.65,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.6667,76.65",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Melukote Temple Town & Akka-Tangi Kalyani",
+          "source": "Karnataka Endowments Dept & Melukote Temple Trust"
+        }
+      ],
+      "bestSeason": "October to March (Vairamudi festival in March/April)",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 13:00, 16:00 – 20:30",
+      "distanceFromNearestTown": "35 km from Pandavapura, 50 km from Mysuru, 135 km from Bengaluru",
+      "nearestBusStation": "Melukote Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Pandavapura Railway Station (35 km)",
+      "roadAccessibility": "Paved scenic state highway via Jakkanahalli cross",
+      "trekkingDifficulty": "Moderate (approx. 300 stone steps to hilltop Yoga Narasimha)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Remove shoes before entering sanctum and stepped kalyanis. Taste authentic Puliyogare at traditional heritage mess.",
+      "permissionRequirements": "Managed by Endowments Department; open to all",
+      "tourismInformationSource": "Karnataka Endowments Dept & Melukote Temple Trust",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Sacred Ramanujacharya heritage town with spectacular hilltop temple and stepped tank."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "melukotetempletown&akka-tangikalyani"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A serene sacred hill town where Vaishnava saint Sri Ramanujacharya lived for 12 years in the 12th century. Features the Sri Cheluvanarayana ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.6667,
+        "longitude": 76.65
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Endowments Dept & Melukote Temple Trust",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 13:00, 16:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Vairamudi festival in March/April).",
+        "safetyNotes": "Remove shoes before entering sanctum and stepped kalyanis. Taste authentic Puliyogare at traditional heritage mess."
+      }
+    }
+  ],
+  "count": 4
+}

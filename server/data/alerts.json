@@ -1,0 +1,42 @@
+[
+  {
+    "id": "alert_monsoon_ghats_2026",
+    "title": "Western Ghats Monsoon Ghat Road Advisory",
+    "category": "weather_warning",
+    "severity": "advisory",
+    "location": "Shivamogga, Kodagu, Chikkamagaluru, Uttara Kannada",
+    "description": "Intermittent monsoon showers along Charmadi and Shiradi ghat sections. Commuters and travellers are advised to maintain safe vehicle speeds and check local police route clearance before travelling after dusk.",
+    "issuingAuthority": "Karnataka State Natural Disaster Monitoring Centre (KSNDMC)",
+    "publishedAt": "2026-10-20T09:00:00.000Z",
+    "expiresAt": "2026-11-30T23:59:59.000Z",
+    "sourceUrl": "https://ksndmc.karnataka.gov.in",
+    "active": true
+  },
+  {
+    "id": "alert_hampi_asi_timings",
+    "title": "ASI Monument Conservation Sunset Regulations",
+    "category": "destination_timings",
+    "severity": "info",
+    "location": "Vijayanagara (Hampi), Bagalkot (Badami, Pattadakal, Aihole)",
+    "description": "Per Archaeological Survey of India regulations, ticketed monument compounds strictly close at 18:00 (sunset) daily for archaeological preservation. Night entry into fenced monument zones is strictly prohibited.",
+    "issuingAuthority": "Archaeological Survey of India (ASI) Hampi Mini Circle",
+    "publishedAt": "2026-01-01T00:00:00.000Z",
+    "expiresAt": "2026-12-31T23:59:59.000Z",
+    "sourceUrl": "https://asi.nic.in",
+    "active": true
+  },
+  {
+    "id": "alert_dasara_traffic",
+    "title": "Mysuru Palace Festival Traffic & Illumination Information",
+    "category": "festival_advisory",
+    "severity": "info",
+    "location": "Mysuru (Palace & Chamundi Hills)",
+    "description": "Regular Sunday palace illumination takes place from 19:00 to 20:00. Designated parking is available at the Dasara Exhibition Grounds. Pre-booking online parking pass is recommended during weekends.",
+    "issuingAuthority": "Mysuru District Tourism & Traffic Police",
+    "publishedAt": "2026-10-01T10:00:00.000Z",
+    "expiresAt": "2026-12-31T23:59:59.000Z",
+    "sourceUrl": "https://mysorepalace.karnataka.gov.in",
+    "active": true
+  }
+]
+

@@ -1,0 +1,243 @@
+{
+  "district": {
+    "id": "gadag",
+    "name": "Gadag",
+    "nameKannada": "ಗದಗ",
+    "division": "Belagavi",
+    "headquarters": "Gadag",
+    "lat": 15.4167,
+    "lng": 75.6333,
+    "taluks": [
+      "Gadag",
+      "Ron",
+      "Shirahatti",
+      "Mundargi",
+      "Nargund",
+      "Gajendragad",
+      "Lakshmeshwar"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Land of classical Kannada literature and stepwells, Gadag features Lakkundi's 50+ Chalukyan temples and 101 stepwells, Veeranarayana Temple where poet Kumara Vyasa wrote the Mahabharata, and Trikuteshwara Temple.",
+    "descriptionKannada": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲ್ಯಾಣಿಗಳ ನಾಡು ಗದಗ, ಲಕ್ಕುಂಡಿಯ ೫೦ಕ್ಕೂ ಹೆಚ್ಚು ದೇವಾಲಯಗಳು ಮತ್ತು ೧೦೧ ಕಲ್ಯಾಣಿಗಳು, ಕುಮಾರವ್ಯಾಸ ಭಾರತ ರಚಿಸಿದ ವೀರನಾರಾಯಣ ದೇವಾಲಯಕ್ಕೆ ಖ್ಯಾತ."
+  },
+  "destinations": [
+    {
+      "id": "lakkundi_heritage_stepwells",
+      "name": "Lakkundi Heritage Complex & Stepwells (Kalyanis)",
+      "nameKannada": "ಲಕ್ಕುಂಡಿ ಪರಂಪರೆ ತಾಣ ಮತ್ತು ಕಲ್ಯಾಣಿಗಳು",
+      "district": "Gadag",
+      "taluk": "Gadag",
+      "village": "Lakkundi",
+      "gramPanchayat": "Gadag Taluk Administration",
+      "category": [
+        "heritage",
+        "monument",
+        "hidden_gem"
+      ],
+      "subcategory": "stepwell_kalyani",
+      "description": "An open-air museum holding 50+ Chalukyan and Hoysala temples and 101 intricately carved stepped wells (kalyanis). Highlights include the 1007 CE Brahma Jinalaya, the ornate Kasi Vishveshwara Temple with filigree door frames, and the breathtaking Musukinabavi stepped tank with subterranean shrines.",
+      "historicalSignificance": "Ancient mint town (Lokkigundi) of the Western Chalukyas, Kalachuris, and Hoysalas; struck the gold coin 'Lokki-gadyana'. Mentioned in numerous 11th-century Kannada stone inscriptions.",
+      "culturalImportance": "Legendary center of Jain Basadi architecture sponsored by noblewoman Attimabbe, celebrated in Kannada literature as 'Dana Chintamani'.",
+      "lat": 15.3889,
+      "lng": 75.7208,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.3889,75.7208",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Lakkundi Heritage Complex & Stepwells (Kalyanis)",
+          "source": "Archaeological Survey of India & Lakkundi Heritage Area Authority"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 20,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "11 km east of Gadag city on NH-67",
+      "nearestBusStation": "Lakkundi Village Bus Stop (0.2 km)",
+      "nearestRailwayStation": "Gadag Junction (12 km)",
+      "roadAccessibility": "Paved National Highway 67 connects Gadag and Lakkundi",
+      "trekkingDifficulty": "Easy (village walking trail between monuments)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Be careful on the deep, steep stone steps of Musukinabavi. Respect village residents.",
+      "permissionRequirements": "ASI protected monument site and local sculpture gallery ticket",
+      "tourismInformationSource": "Archaeological Survey of India & Lakkundi Heritage Area Authority",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Over 50 stone temples and 101 stepwells; often called the 'Lesser-known Hampi' of North Karnataka."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "lakkundiheritagecomplex&stepwells(kalyanis)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "An open-air museum holding 50+ Chalukyan and Hoysala temples and 101 intricately carved stepped wells (kalyanis). Highlights include the 100...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.3889,
+        "longitude": 75.7208
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Lakkundi Heritage Area Authority",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Be careful on the deep, steep stone steps of Musukinabavi. Respect village residents."
+      }
+    },
+    {
+      "id": "veeranarayana_temple_gadag",
+      "name": "Veeranarayana Temple, Gadag (Kumara Vyasa Smaraka)",
+      "nameKannada": "ವೀರನಾರಾಯಣ ದೇವಾಲಯ, ಗದಗ (ಕುಮಾರವ್ಯಾಸ ಸ್ಮಾರಕ)",
+      "district": "Gadag",
+      "taluk": "Gadag",
+      "village": "Gadag Town",
+      "gramPanchayat": "Gadag Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A historic 11th-century temple complex showing Chalukya, Hoysala, and Vijayanagara architectural phases. Here, beside a specific stone pillar in the Garuda Gamba hall, the immortal Kannada poet Kumara Vyasa sat in divine trance and composed his epic 'Karnata Bharata Kathamanjari' (Gadugina Bharata).",
+      "historicalSignificance": "Originally built in 1117 CE by Hoysala King Vishnuvardhana after his conversion to Vaishnavism under Saint Ramanujacharya.",
+      "culturalImportance": "The sanctum of classical Kannada poetry; revered by every student of Kannada literature.",
+      "lat": 15.4267,
+      "lng": 75.6317,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.4267,75.6317",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Veeranarayana Temple, Gadag (Kumara Vyasa Smaraka)",
+          "source": "Karnataka Endowments Dept & State Gazetteer"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 12:30, 17:00 – 20:30",
+      "distanceFromNearestTown": "Located at Gadag town center",
+      "nearestBusStation": "Gadag KSRTC Old Bus Stand (1 km)",
+      "nearestRailwayStation": "Gadag Junction (1.5 km)",
+      "roadAccessibility": "Central city road, easily reached by auto or foot",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Remove footwear before entering temple gopuram. Peaceful and contemplative environment.",
+      "permissionRequirements": "Active temple managed by Endowments Department; open to all",
+      "tourismInformationSource": "Karnataka Endowments Dept & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Sacred birthplace of the greatest classical Kannada epic Mahabharata."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "veeranarayanatemple,gadag(kumaravyasasmaraka)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A historic 11th-century temple complex showing Chalukya, Hoysala, and Vijayanagara architectural phases. Here, beside a specific stone pilla...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.4267,
+        "longitude": 75.6317
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Endowments Dept & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 12:30, 17:00 – 20:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Remove footwear before entering temple gopuram. Peaceful and contemplative environment."
+      }
+    }
+  ],
+  "count": 2
+}

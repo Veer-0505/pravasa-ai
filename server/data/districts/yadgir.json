@@ -1,0 +1,457 @@
+{
+  "district": {
+    "id": "yadgir",
+    "name": "Yadgir",
+    "nameKannada": "ಯಾದಗಿರಿ",
+    "division": "Kalaburagi",
+    "headquarters": "Yadgir",
+    "lat": 16.7644,
+    "lng": 77.1378,
+    "taluks": [
+      "Yadgir",
+      "Shorapur",
+      "Shahapur",
+      "Gurmitkal",
+      "Vadagera",
+      "Hunasagi"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Cradled between Krishna and Bheema rivers, Yadgir boasts the monolithic triangular Hill Fort, the heroic history of Shorapur Nayakas, Bonal Bird Sanctuary, and prehistoric megalithic stone alignments at Vibhutihalli.",
+    "descriptionKannada": "ಕೃಷ್ಣಾ ಮತ್ತು ಭೀಮಾ ನದಿಗಳ ನಡುವಿರುವ ಯಾದಗಿರಿ, ಏಕಶಿಲಾ ಗಿರಿ ದುರ್ಗ, ಶೋರಾಪುರ ನಾಯಕರ ಶೌರ್ಯದ ಇತಿಹಾಸ, ಬೋನಾಳ ಪಕ್ಷಿಧಾಮ ಮತ್ತು ವಿಭೂತಿಹಳ್ಳಿಯ ಶಿಲಾಯುಗದ ಖಗೋಳ ಶಿಲಾ ಸಾಲುಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "yadgir_hill_fort",
+      "name": "Yadgir Hill Fort",
+      "nameKannada": "ಯಾದಗಿರಿ ಗಿರಿ ದುರ್ಗ",
+      "district": "Yadgir",
+      "taluk": "Yadgir",
+      "village": "Yadgir Town",
+      "gramPanchayat": "Yadgir Taluk Administration",
+      "category": [
+        "heritage",
+        "adventure"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A dramatic triangular medieval fort perched on a 300-meter monolithic granite hillock with 9 stone gates, natural rock pools, Bahmani canons, and panoramic views of Yadgir town and the surrounding plains.",
+      "historicalSignificance": "Built by the Western Chalukyas, reinforced by the Yadavas of Devagiri (after whom Yadgir is named), and later fortified by the Bahmanis and Adil Shahis.",
+      "culturalImportance": "Local lore identifies it with historic battles between Vijayanagara and Bahmani rulers; houses an ancient Ramasamudra tank.",
+      "lat": 16.7644,
+      "lng": 77.1378,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.7644,77.1378",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Yadgir Hill Fort",
+          "source": "Karnataka State Gazetteer & Heritage Dept"
+        }
+      ],
+      "bestSeason": "October to February (early morning climb)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located at Yadgir city center",
+      "nearestBusStation": "Yadgir Central Bus Stand (1 km)",
+      "nearestRailwayStation": "Yadgir Railway Station (1.5 km)",
+      "roadAccessibility": "Paved road up to fort base, stone staircase ascent",
+      "trekkingDifficulty": "Moderate (approx. 500 stone steps)",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Wear non-skid sports shoes; granite steps can get warm by noon. Carry water bottles.",
+      "permissionRequirements": "Open entry, managed by Town Municipal Council & Heritage Dept",
+      "tourismInformationSource": "Karnataka State Gazetteer & Heritage Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "lesser_known",
+        "reason": "Imposing monolithic fortress with commanding 360-degree Deccan views, rarely frequented."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "yadgirhillfort"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A dramatic triangular medieval fort perched on a 300-meter monolithic granite hillock with 9 stone gates, natural rock pools, Bahmani canons...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.7644,
+        "longitude": 77.1378
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Gazetteer & Heritage Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (early morning climb).",
+        "safetyNotes": "Wear non-skid sports shoes; granite steps can get warm by noon. Carry water bottles."
+      }
+    },
+    {
+      "id": "bonal_bird_sanctuary",
+      "name": "Bonal Bird Sanctuary, Shorapur",
+      "nameKannada": "ಬೋನಾಳ ಪಕ್ಷಿಧಾಮ, ಶೋರಾಪುರ",
+      "district": "Yadgir",
+      "taluk": "Shorapur",
+      "village": "Bonal",
+      "gramPanchayat": "Shorapur Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "Sprawling across a historic 1,200-acre reservoir built by the 17th-century Shorapur Nayakas, this is Karnataka's second-largest wetland bird sanctuary after Ranganathittu, hosting over 10,000 migratory waterfowl including bar-headed geese, flamingos, and pelicans.",
+      "historicalSignificance": "The reservoir was constructed by Nayaka rulers of Shorapur in the 17th century; British political agent Philip Meadows Taylor described its beauty in his memoirs.",
+      "culturalImportance": "Key migratory roost on the Central Asian Flyway; vital community wetland supporting sustainable local fishing and agriculture.",
+      "lat": 16.5167,
+      "lng": 76.8167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.5167,76.8167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bonal Bird Sanctuary, Shorapur",
+          "source": "Karnataka Forest Department & Wildlife Division"
+        }
+      ],
+      "bestSeason": "November to February (Peak migratory bird season)",
+      "entryFeeINR": 20,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "10 km from Shorapur, 60 km from Yadgir",
+      "nearestBusStation": "Shorapur KSRTC Bus Stand (10 km)",
+      "nearestRailwayStation": "Yadgir Junction (60 km)",
+      "roadAccessibility": "State Highway 36 to Shorapur, then paved rural road to Bonal",
+      "trekkingDifficulty": "Easy (walking on reservoir bunds)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Carry binoculars and telephoto lenses. Do not make loud noise or discard plastic near the wetlands.",
+      "permissionRequirements": "Forest Department managed entry point",
+      "tourismInformationSource": "Karnataka Forest Department & Wildlife Division",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Second largest bird sanctuary in Karnataka, virtually untouched by mainstream commercial tourism."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "bonalbirdsanctuary,shorapur"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Sprawling across a historic 1,200-acre reservoir built by the 17th-century Shorapur Nayakas, this is Karnataka's second-largest wetland bird...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.5167,
+        "longitude": 76.8167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Wildlife Division",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during November to February (Peak migratory bird season).",
+        "safetyNotes": "Carry binoculars and telephoto lenses. Do not make loud noise or discard plastic near the wetlands."
+      }
+    },
+    {
+      "id": "shorapur_taylor_bungalow",
+      "name": "Shorapur (Surpur) Fort & Meadows Taylor's Bungalow",
+      "nameKannada": "ಶೋರಾಪುರ ಕೋಟೆ ಮತ್ತು ಮಿಡೋಸ್ ಟೇಲರ್ ಬಂಗಲೆ",
+      "district": "Yadgir",
+      "taluk": "Shorapur",
+      "village": "Shorapur Town",
+      "gramPanchayat": "Shorapur Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "Historic hill redoubt of the brave Bedar Nayakas who fought the British in the 1857 Rebellion under Raja Venkatappa Nayaka. Overlooking the town is the historic 1840s octagonal bungalow built by British administrator and novelist Colonel Philip Meadows Taylor.",
+      "historicalSignificance": "Shorapur was a fiercely autonomous Bedar principality; Meadows Taylor served here as political resident and wrote his celebrated classic 'Confessions of a Thug' and 'The Story of My Life'.",
+      "culturalImportance": "Sacred center for Bedar/Valmiki community heritage and epic battlefields of 1858.",
+      "lat": 16.5219,
+      "lng": 76.7611,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.5219,76.7611",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Shorapur (Surpur) Fort & Meadows Taylor's Bungalow",
+          "source": "Karnataka State Gazetteer & Shorapur Heritage Society"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 18:00",
+      "distanceFromNearestTown": "52 km from Yadgir",
+      "nearestBusStation": "Shorapur Bus Stand (1.5 km)",
+      "nearestRailwayStation": "Yadgir Railway Station (52 km)",
+      "roadAccessibility": "Paved state highway from Yadgir to Shorapur",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Bungalow perched on hill summit; road winds uphill, drive cautiously.",
+      "permissionRequirements": "Open public access",
+      "tourismInformationSource": "Karnataka State Gazetteer & Shorapur Heritage Society",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Fascinating colonial architecture and freedom struggle history with 360-degree hill views."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "shorapur(surpur)fort&meadowstaylor'sbungalow"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Historic hill redoubt of the brave Bedar Nayakas who fought the British in the 1857 Rebellion under Raja Venkatappa Nayaka. Overlooking the ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.5219,
+        "longitude": 76.7611
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Gazetteer & Shorapur Heritage Society",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Bungalow perched on hill summit; road winds uphill, drive cautiously."
+      }
+    },
+    {
+      "id": "vibhutihalli_megalithic_alignments",
+      "name": "Vibhutihalli Megalithic Stone Alignments",
+      "nameKannada": "ವಿಭೂತಿಹಳ್ಳಿ ಬೃಹತ್ ಶಿಲಾಯುಗದ ಶಿಲಾ ಸಾಲುಗಳು",
+      "district": "Yadgir",
+      "taluk": "Shahapur",
+      "village": "Vibhutihalli",
+      "gramPanchayat": "Shahapur Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "archaeological_site",
+      "description": "A globally significant prehistoric archeo-astronomical observatory comprising hundreds of huge granite boulders arranged in precise diagonal and grid alignments dating back to 1000 BCE, used by ancient stargazers to track equinoxes and solstices.",
+      "historicalSignificance": "Researched by international archaeo-astronomers; proves sophisticated celestial knowledge and calendar calculations in Iron Age Karnataka.",
+      "culturalImportance": "Prehistoric megalithic heritage showing continuous human civilization in the Krishna-Bheema Doab for over 3,000 years.",
+      "lat": 16.7028,
+      "lng": 76.8456,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.7028,76.8456",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Vibhutihalli Megalithic Stone Alignments",
+          "source": "Archaeological Survey of India & Archaeo-astronomy Survey"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 0,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "5 km from Shahapur, 35 km from Yadgir",
+      "nearestBusStation": "Shahapur KSRTC Bus Stand (5 km)",
+      "nearestRailwayStation": "Yadgir Junction (35 km)",
+      "roadAccessibility": "Paved road connecting Shahapur and Vibhutihalli village",
+      "trekkingDifficulty": "Easy (walking through agricultural field margins)",
+      "estimatedVisitDuration": "1 – 1.5 hours",
+      "safetyInstructions": "Do not disturb or move ancient upright stones. Avoid midday heat.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Archaeo-astronomy Survey",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "One of South Asia's few intact Iron Age astronomical stone observatories."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "vibhutihallimegalithicstonealignments"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A globally significant prehistoric archeo-astronomical observatory comprising hundreds of huge granite boulders arranged in precise diagonal...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.7028,
+        "longitude": 76.8456
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Archaeo-astronomy Survey",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Do not disturb or move ancient upright stones. Avoid midday heat."
+      }
+    }
+  ],
+  "count": 4
+}

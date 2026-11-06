@@ -1,0 +1,93 @@
+[
+  {
+    "id": "gov_admin_1",
+    "name": "Karnataka Tourism Officer",
+    "email": "admin@pravasa.ai",
+    "phone": "+91 80 2235 2828",
+    "password": "$2b$12$bSZeeMHQko7eTnDNa0MVeeUj/5ndVBXid9EfFOAmJssCsixIHX2z2",
+    "role": "admin",
+    "govDesignation": "Deputy Director, Dept of Tourism, Govt of Karnataka",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "status": "active",
+    "passwordMigratedAt": "2026-11-02T18:21:14.149Z"
+  },
+  {
+    "id": "cust_1",
+    "name": "Ananya Rao",
+    "email": "ananya@example.com",
+    "phone": "+91 98450 12345",
+    "password": "$2b$12$Eu7OVbOOv5ZfUpNUc8Ai1upRMGjNUXKG2ndRIpwB0ymecrTNIYYem",
+    "role": "customer",
+    "city": "Bengaluru",
+    "createdAt": "2026-02-15T10:30:00.000Z",
+    "status": "active",
+    "updatedAt": "2026-10-28T18:04:54.891Z",
+    "passwordMigratedAt": "2026-11-02T18:21:14.585Z"
+  },
+  {
+    "id": "cust_2",
+    "name": "Siddharth Hegde",
+    "email": "siddharth@example.com",
+    "phone": "+91 94812 67890",
+    "password": "$2b$12$vjPnaARmNpqAH4hIEVsPmeZ4zg6GQSPFDE/tAYdc9SS2MnMI65xmW",
+    "role": "customer",
+    "city": "Shivamogga",
+    "createdAt": "2026-03-01T14:15:00.000Z",
+    "status": "active",
+    "passwordMigratedAt": "2026-11-02T18:21:15.040Z"
+  },
+  {
+    "id": "gov_1793212814771",
+    "name": "sagar",
+    "email": "veerrr0505@gmail.com",
+    "phone": "7795161487",
+    "password": "$2b$12$y0bIMywRfspPWyvDZS.uMOMSe2XqeTH4p6C8M0V76W6TUKjQpKTiy",
+    "role": "admin",
+    "govDesignation": "tourisam department",
+    "city": "Bengaluru",
+    "createdAt": "2026-10-28T18:40:14.771Z",
+    "status": "active",
+    "savedTripsCount": 0,
+    "passwordMigratedAt": "2026-11-02T18:21:15.480Z"
+  },
+  {
+    "id": "gov_1793886390681",
+    "name": "S VEERESH",
+    "email": "sveeresh.in@gmail.com",
+    "phone": "+918867400718",
+    "password": "$2b$12$gXhyEGzh/lXONG0lT1WG4uPXuElBUF5X8aRWzg6BvZLiyj5j44Zv6",
+    "role": "admin",
+    "govDesignation": "ksdtc",
+    "city": "Bengaluru",
+    "createdAt": "2026-11-05T13:46:30.681Z",
+    "status": "active",
+    "savedTripsCount": 0
+  },
+  {
+    "id": "gov_1793897589867",
+    "name": "sagar",
+    "email": "sveerrr0505@gmail.com",
+    "phone": "",
+    "password": "$2b$12$6uKHhS6KjhmyeWqsGPxokOg6RlPO7o44BDWA1ZEd1wiTQFCBEywFK",
+    "role": "admin",
+    "govDesignation": "Dept of Tourism Official",
+    "city": "Bengaluru",
+    "createdAt": "2026-11-05T16:53:09.867Z",
+    "status": "active",
+    "savedTripsCount": 0,
+    "updatedAt": "2026-11-05T17:07:25.772Z"
+  },
+  {
+    "id": "cust_1793939612966",
+    "name": "sada",
+    "email": "sadashiva962006@gmail.com",
+    "phone": "",
+    "role": "customer",
+    "city": "Bengaluru",
+    "createdAt": "2026-11-06T04:33:32.966Z",
+    "status": "active",
+    "isEmailVerified": true,
+    "savedTripsCount": 0,
+    "lastLoginAt": "2026-11-06T04:38:32.832Z"
+  }
+]

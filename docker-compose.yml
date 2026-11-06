@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  pravasa-ai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pravasa_tourism_ai
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - JWT_SECRET=pravasa-karnataka-production-secret-key-2026
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash}
+    volumes:
+      - pravasa_data:/app/server/data
+      - pravasa_uploads:/app/server/uploads
+
+volumes:
+  pravasa_data:
+    driver: local
+  pravasa_uploads:
+    driver: local
+

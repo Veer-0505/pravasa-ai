@@ -1,0 +1,575 @@
+{
+  "district": {
+    "id": "uttara_kannada",
+    "name": "Uttara Kannada",
+    "nameKannada": "ಉತ್ತರ ಕನ್ನಡ",
+    "division": "Belagavi",
+    "headquarters": "Karwar",
+    "lat": 14.8167,
+    "lng": 74.1333,
+    "taluks": [
+      "Karwar",
+      "Ankola",
+      "Bhatkal",
+      "Haliyal",
+      "Honnavar",
+      "Joida",
+      "Kumta",
+      "Mundgod",
+      "Siddapur",
+      "Sirsi",
+      "Yellapur",
+      "Dandeli"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "description": "Where dense Western Ghats rainforests meet the Arabian Sea, Uttara Kannada is home to spiritual Gokarna Om Beach, Murudeshwar Shiva temple, Dandeli river rafting, Yana karst rocks, and Sathodi & Magod falls.",
+    "descriptionKannada": "ನಿತ್ಯಹರಿದ್ವರ್ಣ ಮಳೆಕಾಡು ಮತ್ತು ಅರಬ್ಬಿ ಸಮುದ್ರದ ಸಂಗಮ, ಗೋಕರ್ಣ ಓಂ ಬೀಚ್, ಮುರುಡೇಶ್ವರ ಬೃಹತ್ ಶಿವನ ಪ್ರತಿಮೆ, ದಾಂಡೇಲಿ ರಾಫ್ಟಿಂಗ್, ಯಾಣ ಶಿಖರಗಳು ಮತ್ತು ಸಾತೊಡ್ಡಿ ಜಲಪಾತಗಳ ನಾಡು."
+  },
+  "destinations": [
+    {
+      "id": "gokarna_om_beach_mahabaleshwar",
+      "name": "Gokarna (Om Beach & Mahabaleshwar Temple)",
+      "nameKannada": "ಗೋಕರ್ಣ (ಓಂ ಬೀಚ್ ಮತ್ತು ಮಹಾಬಲೇಶ್ವರ ದೇವಾಲಯ)",
+      "district": "Uttara Kannada",
+      "taluk": "Kumta",
+      "village": "Gokarna",
+      "gramPanchayat": "Kumta Taluk Administration",
+      "category": [
+        "spiritual",
+        "nature",
+        "beach"
+      ],
+      "subcategory": "beach",
+      "description": "A legendary coastal town where spiritual devotion meets pristine Arabian Sea beaches. Features the revered Mahabaleshwar Temple enshrining the sacred Atmalinga given to Ravana by Lord Shiva, paired with the iconic Om Beach naturally shaped like the Hindu symbol ॐ, Kudle Beach, and Half Moon Beach.",
+      "historicalSignificance": "Dating back to Vedic times; celebrated in the Skanda Purana and Kalidasa's Raghuvamsa as Dakshina Kashi.",
+      "culturalImportance": "Sacred coastal pilgrimage center for performing ancestral rites, coupled with internationally loved coastal trekking routes.",
+      "lat": 14.5269,
+      "lng": 74.3183,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.5269,74.3183",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gokarna (Om Beach & Mahabaleshwar Temple)",
+          "source": "Karnataka Tourism & Endowments Department"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "Open 24 hours (Temple: 06:00 – 12:30, 17:00 – 20:00)",
+      "distanceFromNearestTown": "25 km from Kumta, 32 km from Ankola",
+      "nearestBusStation": "Gokarna KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Gokarna Road Railway Station (9 km)",
+      "roadAccessibility": "Paved coastal highway with scenic sea views",
+      "trekkingDifficulty": "Easy to Moderate (beach cliff trails)",
+      "estimatedVisitDuration": "1 – 2 days",
+      "safetyInstructions": "Never swim during high tides or monsoon (June to September). Sea currents can be treacherous off rocky headlands.",
+      "permissionRequirements": "Open public beaches; temple dress code required (traditional wear)",
+      "tourismInformationSource": "Karnataka Tourism & Endowments Department",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous naturally ॐ-shaped beach combined with ancient Atmalinga pilgrimage."
+      },
+      "division": "Belagavi",
+      "region": "Coastal Karnataka",
+      "place_type": "beach",
+      "aliases": [
+        "gokarna(ombeach&mahabaleshwartemple)"
+      ],
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A legendary coastal town where spiritual devotion meets pristine Arabian Sea beaches. Features the revered Mahabaleshwar Temple enshrining t...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.5269,
+        "longitude": 74.3183
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & Endowments Department",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Open 24 hours (Temple: 06:00 – 12:30, 17:00 – 20:00)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Never swim during high tides or monsoon (June to September). Sea currents can be treacherous off rocky headlands."
+      }
+    },
+    {
+      "id": "murudeshwar_temple_statue",
+      "name": "Murudeshwar Temple & 123-ft Shiva Statue",
+      "nameKannada": "ಮುರುಡೇಶ್ವರ ದೇವಾಲಯ ಮತ್ತು ಬೃಹತ್ ಶಿವನ ಪ್ರತಿಮೆ",
+      "district": "Uttara Kannada",
+      "taluk": "Bhatkal",
+      "village": "Murudeshwar",
+      "gramPanchayat": "Bhatkal Taluk Administration",
+      "category": [
+        "spiritual",
+        "nature",
+        "beach"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "Perched dramatically on Kanduka Giri peninsula surrounded by the Arabian Sea on three sides, featuring the world's second-tallest Lord Shiva statue (123 feet), a 20-storied Raja Gopura (249 feet) with high-speed elevator to the top observation deck, and water sports at the adjoining beach.",
+      "historicalSignificance": "Associated with the Atmalinga mythology where Ravana hurled the covering cloth of the Atmalinga at Kanduka hill.",
+      "culturalImportance": "One of coastal Karnataka's premier tourist attractions blending monumental devotional architecture with beach recreation.",
+      "lat": 14.0942,
+      "lng": 74.4847,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.0942,74.4847",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Murudeshwar Temple & 123-ft Shiva Statue",
+          "source": "R.N. Shetty Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 13:00, 15:00 – 20:30 (Lift: ₹20)",
+      "distanceFromNearestTown": "16 km from Bhatkal, 78 km from Gokarna",
+      "nearestBusStation": "Murudeshwar Bus Stand (1 km)",
+      "nearestRailwayStation": "Murudeshwar Railway Station (2 km)",
+      "roadAccessibility": "Paved 4-lane access road connected directly to NH-66",
+      "trekkingDifficulty": "Easy (elevators available in Raja Gopura)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Follow beach safety flags. Swimming prohibited during monsoon.",
+      "permissionRequirements": "Temple entry free; lift ticket to Gopura 18th floor view deck ₹20",
+      "tourismInformationSource": "R.N. Shetty Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic 123-foot Shiva statue overlooking Arabian Sea with high-speed gopura elevator."
+      },
+      "division": "Belagavi",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "murudeshwartemple&123-ftshivastatue"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Perched dramatically on Kanduka Giri peninsula surrounded by the Arabian Sea on three sides, featuring the world's second-tallest Lord Shiva...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.0942,
+        "longitude": 74.4847
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "R.N. Shetty Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 13:00, 15:00 – 20:30 (Lift: ₹20)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Follow beach safety flags. Swimming prohibited during monsoon."
+      }
+    },
+    {
+      "id": "dandeli_wildlife_kali_rafting",
+      "name": "Dandeli Wildlife Reserve & Kali River Rafting",
+      "nameKannada": "ದಾಂಡೇಲಿ ವನ್ಯಜೀವಿ ಧಾಮ ಮತ್ತು ಕಾಳಿ ನದಿ ರಾಫ್ಟಿಂಗ್",
+      "district": "Uttara Kannada",
+      "taluk": "Dandeli",
+      "village": "Dandeli Town",
+      "gramPanchayat": "Dandeli Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A premier eco-adventure hub in the Western Ghats famous for thrilling Grade II to Grade IV white-water rafting on the roaring Kali River, dense moist deciduous forests sheltering black panthers, tigers, elephants, and all four species of South Indian hornbills.",
+      "historicalSignificance": "Part of the Anshi-Dandeli Tiger Reserve (Kali Tiger Reserve), an essential corridor of the UNESCO Western Ghats biodiversity hotspot.",
+      "culturalImportance": "Renowned for hornbill conservation festivals and indigenous Gawli community jungle traditions.",
+      "lat": 15.25,
+      "lng": 74.6167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.25,74.6167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&auto=format&fit=crop&q=80",
+          "caption": "Dandeli Wildlife Reserve & Kali River Rafting",
+          "source": "Karnataka Forest Department & Jungle Lodges and Resorts"
+        }
+      ],
+      "bestSeason": "October to May (Rafting subject to Supa Dam water discharge)",
+      "entryFeeINR": 100,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located at Dandeli, 55 km from Dharwad, 75 km from Hubballi",
+      "nearestBusStation": "Dandeli KSRTC Bus Stand (2 km)",
+      "nearestRailwayStation": "Alnavar Junction (32 km) or Londa (35 km)",
+      "roadAccessibility": "Paved ghat roads through dense teak forests",
+      "trekkingDifficulty": "Moderate (jungle safari, coracle, and river trekking)",
+      "estimatedVisitDuration": "1 – 2 full days",
+      "safetyInstructions": "Always raft with certified instructors wearing life jackets and helmets. Follow forest rules inside the tiger reserve.",
+      "permissionRequirements": "Forest Department permits required for jungle safaris; rafting organized by authorized outfitters",
+      "tourismInformationSource": "Karnataka Forest Department & Jungle Lodges and Resorts",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "South India's premier white-water rafting destination and home of the elusive black panther."
+      },
+      "division": "Belagavi",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "wildlife",
+      "aliases": [
+        "dandeliwildlifereserve&kaliriverrafting"
+      ],
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A premier eco-adventure hub in the Western Ghats famous for thrilling Grade II to Grade IV white-water rafting on the roaring Kali River, de...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.25,
+        "longitude": 74.6167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Jungle Lodges and Resorts",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 100,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to May (Rafting subject to Supa Dam water discharge).",
+        "safetyNotes": "Always raft with certified instructors wearing life jackets and helmets. Follow forest rules inside the tiger reserve."
+      }
+    },
+    {
+      "id": "yana_karst_rock_caves",
+      "name": "Yana Karst Limestone Rocks & Caves",
+      "nameKannada": "ಯಾಣ ಕಾರ್ಸ್ಟ್ ಸುಣ್ಣದ ಕಲ್ಲಿನ ಶಿಖರಗಳು",
+      "district": "Uttara Kannada",
+      "taluk": "Kumta",
+      "village": "Yana",
+      "gramPanchayat": "Kumta Taluk Administration",
+      "category": [
+        "nature",
+        "adventure",
+        "hidden_gem"
+      ],
+      "subcategory": "natural_monument",
+      "description": "Two colossal, prehistoric black crystalline karst limestone monoliths rising 90 meters and 120 meters sheer out of dense tropical evergreen rainforest: Bhairaveshwara Shikhara and Mohini Shikhara, with a cavernous shrine and natural self-manifested linga beneath.",
+      "historicalSignificance": "Unique geological phenomenon formed over hundreds of millions of years in the Dharwar Craton; featured in the folklore of Lord Shiva and demon Bhasmasura.",
+      "culturalImportance": "Sacred Maha Shivaratri pilgrimage destination where holy water trickles naturally from the cavern roof onto the Shiva linga year-round.",
+      "lat": 14.5889,
+      "lng": 74.5619,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.5889,74.5619",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Yana Karst Limestone Rocks & Caves",
+          "source": "Karnataka Forest Department & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March (Forest trail is dry and pleasant)",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 17:30",
+      "distanceFromNearestTown": "28 km from Kumta, 40 km from Sirsi",
+      "nearestBusStation": "Yana Cross Bus Stop (3 km) / Kumta Bus Stand (28 km)",
+      "nearestRailwayStation": "Kumta Railway Station (28 km)",
+      "roadAccessibility": "Paved forest road to base parking, followed by a 1.5 km scenic rainforest trek",
+      "trekkingDifficulty": "Moderate (1.5 km stone trail with steps under thick forest canopy)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Carry drinking water. Leeches present during monsoon months. Wear shoes with firm grip on humid stone trails.",
+      "permissionRequirements": "Forest Department entry checkpost; open to public",
+      "tourismInformationSource": "Karnataka Forest Department & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Surreal 120-meter black karst limestone monoliths hidden inside dense rainforest."
+      },
+      "division": "Belagavi",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "yanakarstlimestonerocks&caves"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Two colossal, prehistoric black crystalline karst limestone monoliths rising 90 meters and 120 meters sheer out of dense tropical evergreen ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.5889,
+        "longitude": 74.5619
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 17:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Forest trail is dry and pleasant).",
+        "safetyNotes": "Carry drinking water. Leeches present during monsoon months. Wear shoes with firm grip on humid stone trails."
+      }
+    },
+    {
+      "id": "mirjan_fort_kumta",
+      "name": "Mirjan Fort ('Pepper Queen' Fort)",
+      "nameKannada": "ಮಿರ್ಜಾನ್ ಕೋಟೆ (ಮೆಣಸಿನ ರಾಣಿಯ ಕೋಟೆ)",
+      "district": "Uttara Kannada",
+      "taluk": "Kumta",
+      "village": "Mirjan",
+      "gramPanchayat": "Kumta Taluk Administration",
+      "category": [
+        "heritage",
+        "nature"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "A magnificent 16th-century laterite stone fortress carpeted in emerald moss during monsoons, featuring double-walled concentric battlements, watchtowers, secret subterranean passages, and an ancient stepwell on the banks of the Aghanashini River.",
+      "historicalSignificance": "Seat of the legendary Queen Chennabhairadevi (the 'Pepper Queen' / Raina da Pimenta to the Portuguese) who ruled Gerusoppa for 54 years and monopolized the global black pepper trade.",
+      "culturalImportance": "A fairytale monument of female leadership in medieval Karnataka maritime trade.",
+      "lat": 14.4925,
+      "lng": 74.4208,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.4925,74.4208",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mirjan Fort ('Pepper Queen' Fort)",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "September to March (Post-monsoon emerald moss covering is breathtaking)",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "11 km from Kumta, 21 km from Gokarna",
+      "nearestBusStation": "Mirjan Bus Stop (0.5 km) on NH-66",
+      "nearestRailwayStation": "Kumta Railway Station (11 km) or Gokarna Road (21 km)",
+      "roadAccessibility": "Located just 1 km off National Highway 66 with visitor parking",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Watch your step along grassy rampart walls without parapets.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; free entry",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Picturesque laterite fortress of Karnataka's legendary Pepper Queen Chennabhairadevi."
+      },
+      "division": "Belagavi",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mirjanfort('pepperqueen'fort)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A magnificent 16th-century laterite stone fortress carpeted in emerald moss during monsoons, featuring double-walled concentric battlements,...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.4925,
+        "longitude": 74.4208
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during September to March (Post-monsoon emerald moss covering is breathtaking).",
+        "safetyNotes": "Watch your step along grassy rampart walls without parapets."
+      }
+    }
+  ],
+  "count": 5
+}

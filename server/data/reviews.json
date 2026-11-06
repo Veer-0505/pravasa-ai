@@ -1,0 +1,73 @@
+[
+  {
+    "id": "rev_hampi_1",
+    "placeId": "hampi",
+    "userName": "Ananya Sharma",
+    "userRole": "Verified Traveller",
+    "rating": 5,
+    "title": "Unforgettable architecture and sunset from Matanga Hill",
+    "content": "Exploring the Vijaya Vittala temple complex and the stone chariot in person exceeded all expectations. Hiring a certified ASI guide at the entrance is highly recommended to appreciate the acoustic pillars and carvings. Carry water and wear comfortable walking shoes.",
+    "visitedMonth": "October",
+    "travelType": "Family",
+    "helpfulCount": 24,
+    "createdAt": "2026-10-15T14:30:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "rev_hampi_2",
+    "placeId": "hampi",
+    "userName": "Girish Rao",
+    "userRole": "Local Explorer",
+    "rating": 5,
+    "title": "Virupaksha temple morning pooja is divine",
+    "content": "Arriving early around 7:00 AM gives you calm and peace before day crowds arrive. Anegundi village across the river is equally historic and serene.",
+    "visitedMonth": "September",
+    "travelType": "Solo",
+    "helpfulCount": 18,
+    "createdAt": "2026-09-22T08:15:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "rev_badami_1",
+    "placeId": "badami",
+    "userName": "Kavitha Murthy",
+    "userRole": "Heritage Enthusiast",
+    "rating": 5,
+    "title": "Chalukyan rock-cut caves are breathtaking",
+    "content": "Cave 3 dedicated to Lord Vishnu and the 18-armed Nataraja in Cave 1 showcase supreme 6th-century craftsmanship. The view of Agastya Lake with Bhutanatha temple on the banks in the golden evening light is unforgettable.",
+    "visitedMonth": "October",
+    "travelType": "Couples",
+    "helpfulCount": 15,
+    "createdAt": "2026-10-08T17:45:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "rev_mysuru_1",
+    "placeId": "mysuru_palace",
+    "userName": "Rohit Nair",
+    "userRole": "Verified Traveller",
+    "rating": 5,
+    "title": "Palace illumination is a must-see spectacle",
+    "content": "The intricate woodwork, stained glass dome in the marriage pavilion, and golden throne are majestic. Make sure to visit on Sunday evening between 7:00 PM and 8:00 PM when the entire palace is illuminated with nearly 100,000 bulbs.",
+    "visitedMonth": "October",
+    "travelType": "Family",
+    "helpfulCount": 31,
+    "createdAt": "2026-10-18T19:20:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "rev_jog_1",
+    "placeId": "jog_falls",
+    "userName": "Deepak Hegde",
+    "userRole": "Nature Photographer",
+    "rating": 5,
+    "title": "Magnificent post-monsoon roar of the four cascades",
+    "content": "Raja, Roarer, Rocket, and Rani plunges were in full glory. Walking down the steps to the base gives a misty shower experience. Visit on weekdays to avoid weekend vehicle traffic.",
+    "visitedMonth": "August",
+    "travelType": "Friends",
+    "helpfulCount": 22,
+    "createdAt": "2026-08-30T11:10:00.000Z",
+    "status": "approved"
+  }
+]
+

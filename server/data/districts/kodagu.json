@@ -1,0 +1,242 @@
+{
+  "district": {
+    "id": "kodagu",
+    "name": "Kodagu",
+    "nameKannada": "ಕೊಡಗು",
+    "division": "Mysuru",
+    "headquarters": "Madikeri",
+    "lat": 12.4244,
+    "lng": 75.7382,
+    "taluks": [
+      "Madikeri",
+      "Somwarpet",
+      "Virajpet",
+      "Kushalnagar",
+      "Ponnampet"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Known as 'Scotland of India', Kodagu is celebrated for misty coffee plantations, Talakaveri (source of River Cauvery), Abbey Falls, Raja's Seat in Madikeri, Dubare Elephant Camp, and Namdroling Golden Temple.",
+    "descriptionKannada": "'ಭಾರತದ ಸ್ಕಾಟ್‌ಲ್ಯಾಂಡ್' ಕೊಡಗು, ಮಂಜಿನ ಕಾಫಿ ತೋಟಗಳು, ಕಾವೇರಿಯ ಉಗಮ ತಲಕಾವೇರಿ, ಅಬ್ಬಿ ಜಲಪಾತ, ಮಡಿಕೇರಿಯ ರಾಜಾಸೀಟ್, ದುಬಾರೆ ಆನೆ ಶಿಬಿರ ಮತ್ತು ಬೈಲಕುಪ್ಪೆಯ ಗೋಲ್ಡನ್ ಟೆಂಪಲ್‌ಗೆ ಖ್ಯಾತ."
+  },
+  "destinations": [
+    {
+      "id": "talakaveri_birthplace_cauvery",
+      "name": "Talakaveri & Bhagamandala (Source of River Cauvery)",
+      "nameKannada": "ತಲಕಾವೇರಿ ಮತ್ತು ಭಾಗಮಂಡಲ (ಕಾವೇರಿ ಉಗಮ ಸ್ಥಾನ)",
+      "district": "Kodagu",
+      "taluk": "Madikeri",
+      "village": "Talakaveri",
+      "gramPanchayat": "Madikeri Taluk Administration",
+      "category": [
+        "spiritual",
+        "nature",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "The holy birthplace of Mother Cauvery (Kaveri Amma) perched 1,276 meters high on the slopes of the Brahmagiri hill. Features the sacred spring pool (Kundike) where the river miraculously surges on Tula Sankramana day in October, paired with the Triveni Sangama in Bhagamandala below and a panoramic viewpoint staircase atop Brahmagiri.",
+      "historicalSignificance": "The lifeline river of Karnataka and Tamil Nadu; puranic legend relates how Sage Agastya's water pot was tipped by Lord Ganesha in crow form.",
+      "culturalImportance": "The holiest spiritual center for the Kodava community and millions of South Indians; sacred teerthoddbhava witnessed by tens of thousands.",
+      "lat": 12.3833,
+      "lng": 75.4833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.3833,75.4833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Talakaveri & Bhagamandala (Source of River Cauvery)",
+          "source": "Kodagu District Administration & Karnataka Endowments"
+        }
+      ],
+      "bestSeason": "October to March (Tula Sankramana in mid-October)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "8 km from Bhagamandala, 45 km from Madikeri",
+      "nearestBusStation": "Bhagamandala Bus Stand (8 km) / Talakaveri Temple Bus Stop (0.1 km)",
+      "nearestRailwayStation": "Kannur Railway Station (110 km) or Mysuru (165 km)",
+      "roadAccessibility": "Paved mountain ghat road winding up through lush coffee and cardamom estates",
+      "trekkingDifficulty": "Easy to Moderate (350 stone steps to Brahmagiri peak viewpoint)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Traditional modest clothing required inside temple precincts. Brahmagiri peak trail is very windy; walk carefully on steps.",
+      "permissionRequirements": "Temple trust managed; open public entry",
+      "tourismInformationSource": "Kodagu District Administration & Karnataka Endowments",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Revered source of the lifeline River Cauvery with breathtaking Brahmagiri hill views."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "talakaveri&bhagamandala(sourceofrivercauvery)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The holy birthplace of Mother Cauvery (Kaveri Amma) perched 1,276 meters high on the slopes of the Brahmagiri hill. Features the sacred spri...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.3833,
+        "longitude": 75.4833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Kodagu District Administration & Karnataka Endowments",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Tula Sankramana in mid-October).",
+        "safetyNotes": "Traditional modest clothing required inside temple precincts. Brahmagiri peak trail is very windy; walk carefully on steps."
+      }
+    },
+    {
+      "id": "namdroling_golden_temple_bylakuppe",
+      "name": "Namdroling Monastery (The Golden Temple), Bylakuppe",
+      "nameKannada": "ನಾಮಡ್ರೋಲಿಂಗ್ ಮಠ (ಚಿನ್ನದ ದೇವಾಲಯ), ಬೈಲಕುಪ್ಪೆ",
+      "district": "Kodagu",
+      "taluk": "Kushalnagar",
+      "village": "Bylakuppe",
+      "gramPanchayat": "Kushalnagar Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage",
+        "culture"
+      ],
+      "subcategory": "monastery",
+      "description": "The largest teaching center of Nyingma lineage Tibetan Buddhism in the world, home to over 5,000 monks and nuns. Features the awe-inspiring Padmasambhava Buddhist Vihara housing three magnificent 40-foot gilded copper statues of Buddha Shakyamuni, Guru Padmasambhava, and Buddha Amitayus, surrounded by ornate murals and prayer wheels.",
+      "historicalSignificance": "Established in 1963 by His Holiness Penor Rinpoche after his departure from Tibet; settled under the generous land grant of Mysore Maharaja Jayachamarajendra Wadiyar.",
+      "culturalImportance": "A vibrant slice of authentic Tibetan culture, philosophy, traditional thangka painting, and peaceful meditation.",
+      "lat": 12.43,
+      "lng": 75.9686,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.43,75.9686",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Namdroling Monastery (The Golden Temple), Bylakuppe",
+          "source": "Namdroling Monastery Administration & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (Tibetan New Year Losar in February/March is festive)",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 18:00 (Prayer sessions at 13:00)",
+      "distanceFromNearestTown": "6 km from Kushalnagar, 35 km from Madikeri, 85 km from Mysuru",
+      "nearestBusStation": "Bylakuppe Cross Bus Stop (1 km) / Kushalnagar Bus Stand (6 km)",
+      "nearestRailwayStation": "Mysuru Junction (85 km)",
+      "roadAccessibility": "Situated just 2 km off National Highway 275 with ample parking",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Maintain silence inside temple prayer halls. Spin prayer wheels in clockwise direction. Remove shoes before entering.",
+      "permissionRequirements": "Open visitor entry; foreign nationals need Protected Area Permit (PAP) only for overnight stays in Tibetan camps",
+      "tourismInformationSource": "Namdroling Monastery Administration & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Largest Tibetan settlement in South India with three magnificent 40-foot gilded Buddhas."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "namdrolingmonastery(thegoldentemple),bylakuppe"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The largest teaching center of Nyingma lineage Tibetan Buddhism in the world, home to over 5,000 monks and nuns. Features the awe-inspiring ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.43,
+        "longitude": 75.9686
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Namdroling Monastery Administration & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 18:00 (Prayer sessions at 13:00)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Tibetan New Year Losar in February/March is festive).",
+        "safetyNotes": "Maintain silence inside temple prayer halls. Spin prayer wheels in clockwise direction. Remove shoes before entering."
+      }
+    }
+  ],
+  "count": 2
+}

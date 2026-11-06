@@ -1,0 +1,1035 @@
+{
+  "district": "Bidar",
+  "destinations": [
+    {
+      "id": "bidar_fort",
+      "name": "Bidar Fort",
+      "nameKannada": "ಬೀದರ್ ಕೋಟೆ",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Bidar City",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "One of the most formidable medieval fortresses in India, featuring 30+ bastions, triple-moat defense systems, Solah Khamba Mosque, Gagan Mahal, Rangin Mahal inlaid with mother-of-pearl tiles, and the historic Takht Mahal.",
+      "historicalSignificance": "Rebuilt in 1428 CE by Sultan Ahmad Shah Wali Bahmani when he shifted the capital from Gulbarga to Bidar. Designed by Persian and Turkish military engineers with ingenious water supply channels (Karez).",
+      "culturalImportance": "Symbol of composite Deccani Indo-Islamic architecture and Persian tile artistry. Revered across the Deccan for its enduring engineering.",
+      "lat": 17.9275,
+      "lng": 77.5256,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.9275,77.5256",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bidar Fort",
+          "source": "Archaeological Survey of India & Karnataka State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "Located within Bidar City",
+      "nearestBusStation": "Bidar Central Bus Stand (2 km)",
+      "nearestRailwayStation": "Bidar Junction (3 km)",
+      "roadAccessibility": "Paved municipal road, accessible by all vehicles",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Take care around deep dry moats and high bastion edges without guardrails. Wear comfortable walking shoes.",
+      "permissionRequirements": "ASI entry ticket required at main gate",
+      "tourismInformationSource": "Archaeological Survey of India & Karnataka State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Premier landmark of Bidar and crown jewel of Bahmani architecture."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "bidarfort"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbad_Darwaza%2C_Bidar_Fort.jpg/960px-Gumbad_Darwaza%2C_Bidar_Fort.jpg",
+      "shortDescription": "One of the most formidable medieval fortresses in India, featuring 30+ bastions, triple-moat defense systems, Solah Khamba Mosque, Gagan Mah...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.9275,
+        "longitude": 77.5256
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Karnataka State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Take care around deep dry moats and high bastion edges without guardrails. Wear comfortable walking shoes."
+      },
+      "imageAttribution": {
+        "source": "Wikimedia Commons (Gumbad Darwaza, Bidar Fort)",
+        "author": "Madhu B M (CC BY-SA 4.0)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbad_Darwaza%2C_Bidar_Fort.jpg/960px-Gumbad_Darwaza%2C_Bidar_Fort.jpg",
+          "caption": "Morning atmosphere at Bidar Fort (Bidar)",
+          "attribution": "Wikimedia Commons (Gumbad Darwaza, Bidar Fort)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbad_Darwaza%2C_Bidar_Fort.jpg/960px-Gumbad_Darwaza%2C_Bidar_Fort.jpg",
+          "caption": "Daytime visitor view of Bidar Fort",
+          "attribution": "Wikimedia Commons (Gumbad Darwaza, Bidar Fort)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbad_Darwaza%2C_Bidar_Fort.jpg/960px-Gumbad_Darwaza%2C_Bidar_Fort.jpg",
+          "caption": "Evening golden hour at Bidar Fort",
+          "attribution": "Wikimedia Commons (Gumbad Darwaza, Bidar Fort)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbad_Darwaza%2C_Bidar_Fort.jpg/960px-Gumbad_Darwaza%2C_Bidar_Fort.jpg",
+          "caption": "Night view of Bidar Fort (closed after sunset)",
+          "attribution": "Wikimedia Commons (Gumbad Darwaza, Bidar Fort)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Bidar Fort Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:44.207Z"
+    },
+    {
+      "id": "mahmud_gawan_madrasa",
+      "name": "Mahmud Gawan Madrasa",
+      "nameKannada": "ಮಹಮೂದ್ ಗವಾನ್ ಮದರಸಾ",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Old Bidar",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "A magnificent 15th-century residential university with surviving three-storeyed minaret adorned with Persian glazed blue tiles, Quranic calligraphy, lecture halls, and quarters that once housed over 3,000 manuscripts.",
+      "historicalSignificance": "Built in 1472 CE by Khwaja Mahmud Gawan, the scholar-prime minister of the Bahmani Sultanate, inspired by Samarkand madrasas.",
+      "culturalImportance": "Pivotal medieval seat of Islamic theology, mathematics, astronomy, and Persian literature.",
+      "lat": 17.9133,
+      "lng": 77.5317,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.9133,77.5317",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mahmud Gawan Madrasa",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "1.5 km from Bidar city center",
+      "nearestBusStation": "Bidar Old City Bus Stop (0.5 km)",
+      "nearestRailwayStation": "Bidar Junction (2.5 km)",
+      "roadAccessibility": "Paved city roads; easily reached by auto-rickshaw or car",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1 hour",
+      "safetyInstructions": "Respect monument integrity; do not touch fragile ceramic tile panels.",
+      "permissionRequirements": "Protected ASI monument, open to public",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "lesser_known",
+        "reason": "Architectural marvel of Samarkand influence, often overshadowed by Bidar Fort."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mahmudgawanmadrasa"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/960px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "A magnificent 15th-century residential university with surviving three-storeyed minaret adorned with Persian glazed blue tiles, Quranic call...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.9133,
+        "longitude": 77.5317
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Respect monument integrity; do not touch fragile ceramic tile panels."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Mahmud Gawan Madrasa)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/960px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Mahmud Gawan Madrasa (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mahmud Gawan Madrasa)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/960px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Mahmud Gawan Madrasa",
+          "attribution": "Wikipedia / Wikimedia Commons (Mahmud Gawan Madrasa)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/960px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Mahmud Gawan Madrasa",
+          "attribution": "Wikipedia / Wikimedia Commons (Mahmud Gawan Madrasa)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Complete_view_of_Mahumad_Gawan.JPG/960px-Complete_view_of_Mahumad_Gawan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Mahmud Gawan Madrasa (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Mahmud Gawan Madrasa)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Mahmud Gawan Madrasa Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:44.682Z"
+    },
+    {
+      "id": "gurudwara_nanak_jhira",
+      "name": "Gurudwara Nanak Jhira Sahib",
+      "nameKannada": "ಗುರುದ್ವಾರ ನಾನಕ್ ಝೀರಾ ಸಾಹಿಬ್",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Nanak Jhira",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "Major Sikh pilgrimage shrine nestled in a green valley, consecrated to Guru Nanak Dev Ji. Houses the sacred Amrit Kund fed by a natural crystal-clear spring that never dries up, along with a massive 24/7 langar hall.",
+      "historicalSignificance": "Commemorates the 1512 CE visit of Guru Nanak during his second Udasi, where he miraculously brought forth fresh spring water from the barren laterite rock to relieve local villagers' famine.",
+      "culturalImportance": "One of the holiest Sikh gurdwaras in Southern India, drawing thousands during Guru Nanak Jayanti and Baisakhi.",
+      "lat": 17.925,
+      "lng": 77.5083,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.925,77.5083",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Gurudwara Nanak Jhira Sahib",
+          "source": "Gurudwara Prabandhak Committee & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (November to February ideal)",
+      "entryFeeINR": 0,
+      "openingHours": "Open 24 hours",
+      "distanceFromNearestTown": "2.5 km from Bidar Bus Stand",
+      "nearestBusStation": "Bidar City Bus Stand (2.5 km)",
+      "nearestRailwayStation": "Bidar Junction (3 km)",
+      "roadAccessibility": "Broad 4-lane city approach road with spacious parking",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Head covering required inside gurudwara premises; remove footwear at designated counter.",
+      "permissionRequirements": "Open to all faiths; respectful dress code requested",
+      "tourismInformationSource": "Gurudwara Prabandhak Committee & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous Sikh shrine in Karnataka with remarkable historical origin."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "gurudwarananakjhirasahib"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gurdwara_Nanak_Jhira_Sahib.jpg/960px-Gurdwara_Nanak_Jhira_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "Major Sikh pilgrimage shrine nestled in a green valley, consecrated to Guru Nanak Dev Ji. Houses the sacred Amrit Kund fed by a natural crys...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.925,
+        "longitude": 77.5083
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Gurudwara Prabandhak Committee & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Open 24 hours",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (November to February ideal).",
+        "safetyNotes": "Head covering required inside gurudwara premises; remove footwear at designated counter."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Guru Nanak Jhira Sahib)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gurdwara_Nanak_Jhira_Sahib.jpg/960px-Gurdwara_Nanak_Jhira_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Gurudwara Nanak Jhira Sahib (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (Guru Nanak Jhira Sahib)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gurdwara_Nanak_Jhira_Sahib.jpg/960px-Gurdwara_Nanak_Jhira_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Gurudwara Nanak Jhira Sahib",
+          "attribution": "Wikipedia / Wikimedia Commons (Guru Nanak Jhira Sahib)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gurdwara_Nanak_Jhira_Sahib.jpg/960px-Gurdwara_Nanak_Jhira_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Gurudwara Nanak Jhira Sahib",
+          "attribution": "Wikipedia / Wikimedia Commons (Guru Nanak Jhira Sahib)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gurdwara_Nanak_Jhira_Sahib.jpg/960px-Gurdwara_Nanak_Jhira_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Gurudwara Nanak Jhira Sahib (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Guru Nanak Jhira Sahib)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Gurudwara Nanak Jhira Sahib Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:45.246Z"
+    },
+    {
+      "id": "bahmani_tombs_ashtur",
+      "name": "Bahmani Tombs, Ashtur",
+      "nameKannada": "ಬಹಮನಿ ಸುಲ್ತಾನರ ಸಮಾಧಿಗಳು, ಅಷ್ಟೂರು",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Ashtur",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "A dramatic cluster of 12 colossal royal mausoleums set against tranquil open countryside, including Ahmad Shah Wali's tomb with rare gold-leaf floral paintings and calligraphy, and Humayun Shah's lightning-split dome.",
+      "historicalSignificance": "Dating between 1436 and 1535 CE, representing the burial complex of the later Bahmani monarchs.",
+      "culturalImportance": "Ahmad Shah Wali Bahmani's tomb is venerated by both Muslims (Urs) and Hindus (Allama Prabhu incarnation) in a rare syncretic annual festival.",
+      "lat": 17.9238,
+      "lng": 77.5619,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.9238,77.5619",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bahmani Tombs, Ashtur",
+          "source": "Archaeological Survey of India & State Archaeology Dept"
+        }
+      ],
+      "bestSeason": "October to March (Sunset visits recommended)",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:30",
+      "distanceFromNearestTown": "4 km east of Bidar city",
+      "nearestBusStation": "Bidar Bus Stand (4.5 km)",
+      "nearestRailwayStation": "Bidar Junction (5 km)",
+      "roadAccessibility": "Paved country road through Ashtur village",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Grounds are expansive; carry sun protection during midday.",
+      "permissionRequirements": "Public monument, open entry",
+      "tourismInformationSource": "Archaeological Survey of India & State Archaeology Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Striking colossal domes with serene rural backdrop, incredible sunset photography."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "bahmanitombs,ashtur"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "A dramatic cluster of 12 colossal royal mausoleums set against tranquil open countryside, including Ahmad Shah Wali's tomb with rare gold-le...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.9238,
+        "longitude": 77.5619
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & State Archaeology Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Sunset visits recommended).",
+        "safetyNotes": "Grounds are expansive; carry sun protection during midday."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Bahmani Kingdom)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Bahmani Tombs, Ashtur (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (Bahmani Kingdom)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Bahmani Tombs, Ashtur",
+          "attribution": "Wikipedia / Wikimedia Commons (Bahmani Kingdom)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Bahmani Tombs, Ashtur",
+          "attribution": "Wikipedia / Wikimedia Commons (Bahmani Kingdom)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Bahmani Tombs, Ashtur (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Bahmani Kingdom)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Bahmani Tombs, Ashtur Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:45.744Z"
+    },
+    {
+      "id": "narasimha_jharni_cave",
+      "name": "Narasimha Jharni Cave Temple",
+      "nameKannada": "ನರಸಿಂಹ ಝರ್ನಿ ಗುಹಾ ದೇವಾಲಯ",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Mangalpet",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "spiritual",
+        "hidden_gem"
+      ],
+      "subcategory": "cave_temple",
+      "description": "An extraordinary subterranean cave shrine where pilgrims wade through 300 meters of natural, continuous spring water reaching chest-height in complete darkness to reach the self-manifested (Swayambhu) deity Narasimha.",
+      "historicalSignificance": "Ancient cave sanctuary mentioned in local puranic lore where Lord Narasimha sanctified the subterranean water after vanquishing demon Jharasura.",
+      "culturalImportance": "Unique religious experience of subterranean water-walking; bats roost in ceiling crags while water flows steadily at warm temperature.",
+      "lat": 17.9356,
+      "lng": 77.5452,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.9356,77.5452",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Narasimha Jharni Cave Temple",
+          "source": "Karnataka Tourism & Endowments Department"
+        }
+      ],
+      "bestSeason": "Year-round (avoid peak summer afternoon heat)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "4 km from Bidar city center",
+      "nearestBusStation": "Bidar Bus Stand (4 km)",
+      "nearestRailwayStation": "Bidar Junction (4.5 km)",
+      "roadAccessibility": "Paved approach with parking area and changing rooms",
+      "trekkingDifficulty": "Moderate (wading through waist/chest-deep water)",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Carry extra set of dry clothes. Water is chest-deep for adults; small children must be carried on shoulders. Electric lighting inside cave.",
+      "permissionRequirements": "Temple trust managed; lockers available for mobile phones and wallets",
+      "tourismInformationSource": "Karnataka Tourism & Endowments Department",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "One of India's most unusual cave pilgrimage experiences with continuous underground spring wading."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "narasimhajharnicavetemple"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Narsimha_Jharna_Bidar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "shortDescription": "An extraordinary subterranean cave shrine where pilgrims wade through 300 meters of natural, continuous spring water reaching chest-height i...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.9356,
+        "longitude": 77.5452
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & Endowments Department",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (avoid peak summer afternoon heat).",
+        "safetyNotes": "Carry extra set of dry clothes. Water is chest-deep for adults; small children must be carried on shoulders. Electric lighting inside cave."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Narasimha Jharni)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Narsimha_Jharna_Bidar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Morning atmosphere at Narasimha Jharni Cave Temple (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (Narasimha Jharni)"
+        },
+        "afternoon": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Narsimha_Jharna_Bidar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Daytime visitor view of Narasimha Jharni Cave Temple",
+          "attribution": "Wikipedia / Wikimedia Commons (Narasimha Jharni)"
+        },
+        "evening": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Narsimha_Jharna_Bidar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Evening golden hour at Narasimha Jharni Cave Temple",
+          "attribution": "Wikipedia / Wikimedia Commons (Narasimha Jharni)"
+        },
+        "night": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Narsimha_Jharna_Bidar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Night view of Narasimha Jharni Cave Temple (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Narasimha Jharni)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Narasimha Jharni Cave Temple Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:46.250Z"
+    },
+    {
+      "id": "basavakalyan_fort_anubhava_mantapa",
+      "name": "Basavakalyan Fort & Anubhava Mantapa",
+      "nameKannada": "ಬಸವಕಲ್ಯಾಣ ಕೋಟೆ ಮತ್ತು ಅನುಭವ ಮಂಟಪ",
+      "district": "Bidar",
+      "taluk": "Basavakalyan",
+      "village": "Basavakalyan Town",
+      "gramPanchayat": "Basavakalyan Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "Historical capital of the Western Chalukyas and Kalachuris, featuring a massive defence fort with 14 bastions, canon batteries, Tripurantaka Lake, and the newly built Grand New Anubhava Mantapa honoring Jagadjyothi Basaveshwara.",
+      "historicalSignificance": "Kalyana was the epicenter of the 12th-century Sharana socio-religious revolution and cradle of Vachana literature led by Basavanna, Allama Prabhu, and Akka Mahadevi.",
+      "culturalImportance": "Spiritual democracy birthplace where people of all castes debated theology and human rights in the 12th century.",
+      "lat": 17.8733,
+      "lng": 76.9536,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.8733,76.9536",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Basavakalyan Fort & Anubhava Mantapa",
+          "source": "Archaeological Survey of India & Basavakalyan Development Board"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 20,
+      "openingHours": "09:00 – 17:30",
+      "distanceFromNearestTown": "80 km from Bidar, located on NH-65",
+      "nearestBusStation": "Basavakalyan KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Humnabad Railway Station (35 km) or Bidar (80 km)",
+      "roadAccessibility": "National Highway 65 (Pune-Hyderabad highway), excellent connectivity",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Keep hydration handy while exploring large fort grounds.",
+      "permissionRequirements": "ASI entry ticket for fort; Anubhava Mantapa free entry",
+      "tourismInformationSource": "Archaeological Survey of India & Basavakalyan Development Board",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Historic nerve center of Kannada Vachana heritage and massive Chalukyan fortress."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "basavakalyanfort&anubhavamantapa"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Basava_Gaint_Statue_108_feet%2C_Basava_Kalyana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "shortDescription": "Historical capital of the Western Chalukyas and Kalachuris, featuring a massive defence fort with 14 bastions, canon batteries, Tripurantaka...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.8733,
+        "longitude": 76.9536
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Basavakalyan Development Board",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 17:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Keep hydration handy while exploring large fort grounds."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (Basavakalyan)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Basava_Gaint_Statue_108_feet%2C_Basava_Kalyana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Morning atmosphere at Basavakalyan Fort & Anubhava Mantapa (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (Basavakalyan)"
+        },
+        "afternoon": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Basava_Gaint_Statue_108_feet%2C_Basava_Kalyana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Daytime visitor view of Basavakalyan Fort & Anubhava Mantapa",
+          "attribution": "Wikipedia / Wikimedia Commons (Basavakalyan)"
+        },
+        "evening": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Basava_Gaint_Statue_108_feet%2C_Basava_Kalyana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Evening golden hour at Basavakalyan Fort & Anubhava Mantapa",
+          "attribution": "Wikipedia / Wikimedia Commons (Basavakalyan)"
+        },
+        "night": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Basava_Gaint_Statue_108_feet%2C_Basava_Kalyana.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "caption": "Night view of Basavakalyan Fort & Anubhava Mantapa (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (Basavakalyan)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Basavakalyan Fort & Anubhava Mantapa Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:46.757Z"
+    },
+    {
+      "id": "bidriware_craft_village",
+      "name": "Bidriware Artisan Colony, Bidar",
+      "nameKannada": "ಬಿದ್ರಿ ಕಲಾ ಕರಕುಶಲ ಗ್ರಾಮ, ಬೀದರ್",
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "village": "Siddiq Shah Talab Road",
+      "gramPanchayat": "Bidar Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "craft_village",
+      "description": "The living workshop of Bidar's 500-year-old GI-tagged metal handicraft, where master craftsmen cast blackened zinc-copper alloy and hand-inlay pure silver wires using soil collected from the 15th-century Bidar Fort.",
+      "historicalSignificance": "Originated under the Bahmani sultans in the 14th century, influenced by Persian metal inlayers.",
+      "culturalImportance": "UNESCO-recognized traditional artisanal heritage; state and national award-winning artisans demonstrate the 8-stage crafting process.",
+      "lat": 17.915,
+      "lng": 77.528,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=17.915,77.528",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bidriware Artisan Colony, Bidar",
+          "source": "Karnataka State Handicrafts Development Corporation & Ministry of Textiles"
+        }
+      ],
+      "bestSeason": "Year-round",
+      "entryFeeINR": 0,
+      "openingHours": "10:00 – 19:00",
+      "distanceFromNearestTown": "1 km from Bidar Bus Stand",
+      "nearestBusStation": "Bidar City Bus Stand (1 km)",
+      "nearestRailwayStation": "Bidar Junction (2 km)",
+      "roadAccessibility": "Paved city roads, accessible on foot or auto",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1 – 1.5 hours",
+      "safetyInstructions": "Support local artisans directly; genuine Bidriware bears GI tag hologram.",
+      "permissionRequirements": "Free visitor entry into artisan workshops and cooperative showrooms",
+      "tourismInformationSource": "Karnataka State Handicrafts Development Corporation & Ministry of Textiles",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Witness live silver inlaying into ancient fort soil; direct artisan interaction."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "bidriwareartisancolony,bidar"
+      ],
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_Karnataka_Divisions_map.png/960px-India_Karnataka_Divisions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "shortDescription": "The living workshop of Bidar's 500-year-old GI-tagged metal handicraft, where master craftsmen cast blackened zinc-copper alloy and hand-inl...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 17.915,
+        "longitude": 77.528
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Handicrafts Development Corporation & Ministry of Textiles",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "10:00 – 19:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round.",
+        "safetyNotes": "Support local artisans directly; genuine Bidriware bears GI tag hologram."
+      },
+      "imageAttribution": {
+        "source": "Wikipedia / Wikimedia Commons (North Karnataka)",
+        "author": "Wikimedia Commons Contributor",
+        "license": "Creative Commons Attribution-ShareAlike (CC BY-SA)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "timeOfDayMedia": {
+        "morning": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_Karnataka_Divisions_map.png/960px-India_Karnataka_Divisions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Morning atmosphere at Bidriware Artisan Colony, Bidar (Bidar)",
+          "attribution": "Wikipedia / Wikimedia Commons (North Karnataka)"
+        },
+        "afternoon": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_Karnataka_Divisions_map.png/960px-India_Karnataka_Divisions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Daytime visitor view of Bidriware Artisan Colony, Bidar",
+          "attribution": "Wikipedia / Wikimedia Commons (North Karnataka)"
+        },
+        "evening": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_Karnataka_Divisions_map.png/960px-India_Karnataka_Divisions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Evening golden hour at Bidriware Artisan Colony, Bidar",
+          "attribution": "Wikipedia / Wikimedia Commons (North Karnataka)"
+        },
+        "night": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/India_Karnataka_Divisions_map.png/960px-India_Karnataka_Divisions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "caption": "Night view of Bidriware Artisan Colony, Bidar (closed after sunset)",
+          "attribution": "Wikipedia / Wikimedia Commons (North Karnataka)",
+          "isOpenAtNight": false,
+          "nightNotes": "Monument closes at sunset (6:00 PM) strictly per ASI/state conservation regulations. No night entry."
+        }
+      },
+      "video": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=kY31QY0057E",
+        "videoId": "kY31QY0057E",
+        "title": "Bidriware Artisan Colony, Bidar Tourist Guide | Karnataka Tourism Official",
+        "thumbnail": "https://img.youtube.com/vi/kY31QY0057E/hqdefault.jpg",
+        "attribution": "Department of Tourism, Government of Karnataka"
+      },
+      "lastMediaUpdate": "2026-11-06T01:40:47.254Z"
+    }
+  ],
+  "count": 7
+}

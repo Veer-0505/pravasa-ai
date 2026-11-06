@@ -1,0 +1,243 @@
+{
+  "district": {
+    "id": "dharwad",
+    "name": "Dharwad",
+    "nameKannada": "ಧಾರವಾಡ",
+    "division": "Belagavi",
+    "headquarters": "Dharwad",
+    "lat": 15.4589,
+    "lng": 75.0078,
+    "taluks": [
+      "Dharwad",
+      "Hubballi Urban",
+      "Hubballi Rural",
+      "Kalghatgi",
+      "Kundgol",
+      "Navalgund",
+      "Alnavar",
+      "Annigeri"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Cultural and educational capital of North Karnataka, Dharwad is celebrated for classical Hindustani music, the GI-tagged Dharwad Pedha, 900-year-old Chandramouleshwara Temple, and Unkal Lake.",
+    "descriptionKannada": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ವಿದ್ಯಾಕಾಶಿ ಧಾರವಾಡ, ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ, ಜಿಐ ಟ್ಯಾಗ್ ಪಡೆದ ಧಾರವಾಡ ಪೇಡಾ, ಚಂದ್ರಮೌಳೇಶ್ವರ ದೇವಾಲಯ ಮತ್ತು ಉಣಕಲ್ ಕೆರೆಗೆ ಪ್ರಸಿದ್ಧ."
+  },
+  "destinations": [
+    {
+      "id": "chandramouleshwara_temple_unkal",
+      "name": "Chandramouleshwara Temple, Unkal",
+      "nameKannada": "ಚಂದ್ರಮೌಳೇಶ್ವರ ದೇವಾಲಯ, ಉಣಕಲ್",
+      "district": "Dharwad",
+      "taluk": "Hubballi Urban",
+      "village": "Unkal",
+      "gramPanchayat": "Hubballi Urban Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A 900-year-old architectural gem from the Western Chalukya dynasty, built with four grand entrances facing the cardinal directions, featuring two Shivalingas, exquisite lathe-turned black granite pillars, and intricate dancers carved in relief near Unkal Lake.",
+      "historicalSignificance": "Constructed in the 11th-12th century under King Vikramaditya VI of the Kalyana Chalukya dynasty.",
+      "culturalImportance": "A national protected monument that serves as an active living shrine for neighborhood festivals.",
+      "lat": 15.3783,
+      "lng": 75.1219,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.3783,75.1219",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Chandramouleshwara Temple, Unkal",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "4 km from Hubballi center, 16 km from Dharwad",
+      "nearestBusStation": "Unkal Cross Bus Stop (0.5 km)",
+      "nearestRailwayStation": "Hubballi Junction (5 km)",
+      "roadAccessibility": "Paved municipal road near Unkal Lake on Old PB Road",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Remove shoes outside the stone mandapa. Photography permitted without flash.",
+      "permissionRequirements": "Protected under Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Masterpiece four-door Chalukya temple tucked away quietly inside urban Hubballi."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "chandramouleshwaratemple,unkal"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 900-year-old architectural gem from the Western Chalukya dynasty, built with four grand entrances facing the cardinal directions, featurin...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.3783,
+        "longitude": 75.1219
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove shoes outside the stone mandapa. Photography permitted without flash."
+      }
+    },
+    {
+      "id": "dharwad_pedha_cultural_trail",
+      "name": "Dharwad Pedha & Cultural Heritage Trail",
+      "nameKannada": "ಧಾರವಾಡ ಪೇಡಾ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ ತಾಣ",
+      "district": "Dharwad",
+      "taluk": "Dharwad",
+      "village": "Line Bazaar / Subhas Road",
+      "gramPanchayat": "Dharwad Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "cultural_centre",
+      "description": "A culinary and musical walk through Dharwad's historic Line Bazaar where Babusingh Thakur's family invented the GI-tagged Dharwad Pedha in the 19th century from caramelized buffalo milk, paired with memories of Hindustani music legends Pandit Bhimsen Joshi and Gangubai Hangal.",
+      "historicalSignificance": "The sweet dates back over 175 years to Ram Ratan Singh Thakur who migrated from Unnao during a plague and created the unique slow-roasted milk confection.",
+      "culturalImportance": "Cultural capital of Karnataka literature (Da.Ra. Bendre) and Hindustani classical music (Kirana Gharana).",
+      "lat": 15.4589,
+      "lng": 75.0078,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.4589,75.0078",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Dharwad Pedha & Cultural Heritage Trail",
+          "source": "Karnataka State Gazetteer & GI Registry India"
+        }
+      ],
+      "bestSeason": "Year-round",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 21:00",
+      "distanceFromNearestTown": "Located at Dharwad city center",
+      "nearestBusStation": "Dharwad Old Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Dharwad Railway Station (1.5 km)",
+      "roadAccessibility": "Central city commercial street, easily walkable",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Buy only from certified Line Bazaar outlets bearing the genuine Thakur pedigree mark.",
+      "permissionRequirements": "Open commercial and heritage precinct",
+      "tourismInformationSource": "Karnataka State Gazetteer & GI Registry India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic culinary heritage of Karnataka celebrated in music, literature, and gastronomy."
+      },
+      "division": "Belagavi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "dharwadpedha&culturalheritagetrail"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A culinary and musical walk through Dharwad's historic Line Bazaar where Babusingh Thakur's family invented the GI-tagged Dharwad Pedha in t...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.4589,
+        "longitude": 75.0078
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Gazetteer & GI Registry India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round.",
+        "safetyNotes": "Buy only from certified Line Bazaar outlets bearing the genuine Thakur pedigree mark."
+      }
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,354 @@
+{
+  "district": {
+    "id": "chikkamagaluru",
+    "name": "Chikkamagaluru",
+    "nameKannada": "ಚಿಕ್ಕಮಗಳೂರು",
+    "division": "Mysuru",
+    "headquarters": "Chikkamagaluru",
+    "lat": 13.3161,
+    "lng": 75.772,
+    "taluks": [
+      "Chikkamagaluru",
+      "Kadur",
+      "Koppa",
+      "Mudigere",
+      "Narasimharajapura",
+      "Sringeri",
+      "Tarikere",
+      "Ajjampura",
+      "Kalasa"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=format&fit=crop&q=80",
+    "description": "The birthplace of Indian coffee, Chikkamagaluru features Karnataka's highest peak Mullayanagiri (1,930m), Kudremukh National Park, sacred Sringeri Sharada Peetha, Baba Budangiri, and cascading Hebbe Falls.",
+    "descriptionKannada": "ಕಾಫಿಯ ತವರು ಚಿಕ್ಕಮಗಳೂರು, ಕರ್ನಾಟಕದ ಅತಿ ಎತ್ತರದ ಶಿಖರ ಮುಳ್ಳಯ್ಯನಗಿರಿ, ಕುದುರೆಮುಖ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ, ಪವಿತ್ರ ಶೃಂಗೇರಿ ಶಾರದಾ ಪೀಠ, ಬಾಬಾಬುಡನ್‌ಗಿರಿ ಮತ್ತು ಹೆಬ್ಬೆ ಜಲಪಾತಕ್ಕೆ ಪ್ರಸಿದ್ಧ."
+  },
+  "destinations": [
+    {
+      "id": "mullayanagiri_highest_peak",
+      "name": "Mullayanagiri Peak (Karnataka's Highest Point)",
+      "nameKannada": "ಮುಳ್ಳಯ್ಯನಗಿರಿ ಶಿಖರ (ಕರ್ನಾಟಕದ ಅತಿ ಎತ್ತರದ ಶಿಖರ)",
+      "district": "Chikkamagaluru",
+      "taluk": "Chikkamagaluru",
+      "village": "Chandra Drona Range",
+      "gramPanchayat": "Chikkamagaluru Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "viewpoint"
+      ],
+      "subcategory": "mountain_peak",
+      "description": "The highest mountain peak in Karnataka, standing majestic at 1,930 meters (6,330 feet) in the Chandra Drona hill range of the Western Ghats. Features the ancient sage Mullappa Swamy cave temple on the wind-swept summit, blankets of mist, and 360-degree panoramic views of coffee estates and rugged shola valleys.",
+      "historicalSignificance": "Named after sage Mullappa Swamy who meditated inside a natural cave atop the summit; celebrated in local lore for thousands of years.",
+      "culturalImportance": "The ultimate trekking conquest in Karnataka, famous for the magical experience of watching swirling cloud formations roll over mountain ridges.",
+      "lat": 13.3919,
+      "lng": 75.7214,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3919,75.7214",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mullayanagiri Peak (Karnataka's Highest Point)",
+          "source": "Karnataka Tourism & District Administration"
+        }
+      ],
+      "bestSeason": "September to March (Winter offers clear blue skies; monsoon provides dramatic mist)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00 (Entry gates close at 17:00)",
+      "distanceFromNearestTown": "22 km from Chikkamagaluru town",
+      "nearestBusStation": "Chikkamagaluru KSRTC Bus Stand (22 km)",
+      "nearestRailwayStation": "Chikkamagaluru Railway Station (24 km) or Kadur (60 km)",
+      "roadAccessibility": "Narrow single-lane mountain ghat road to base parking, followed by ~500 stone stairs to peak",
+      "trekkingDifficulty": "Moderate (500 stone steps with handrails from parking; windy summit)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Road can be congested during weekends; travel early morning. Strong mountain winds at the summit; hold onto handrails. Carry a light windbreaker jacket.",
+      "permissionRequirements": "Open mountain destination; traffic regulated by district police during peak holiday weekends",
+      "tourismInformationSource": "Karnataka Tourism & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Highest peak in Karnataka at 1,930m offering thrilling views above the cloud canopy."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "mullayanagiripeak(karnataka'shighestpoint)"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The highest mountain peak in Karnataka, standing majestic at 1,930 meters (6,330 feet) in the Chandra Drona hill range of the Western Ghats....",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3919,
+        "longitude": 75.7214
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00 (Entry gates close at 17:00)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during September to March (Winter offers clear blue skies; monsoon provides dramatic mist).",
+        "safetyNotes": "Road can be congested during weekends; travel early morning. Strong mountain winds at the summit; hold onto handrails. Carry a light windbreaker jacket."
+      }
+    },
+    {
+      "id": "kudremukh_peak_national_park",
+      "name": "Kudremukh Peak & National Park",
+      "nameKannada": "ಕುದುರೆಮುಖ ಶಿಖರ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ",
+      "district": "Chikkamagaluru",
+      "taluk": "Mudigere",
+      "village": "Mullodi / Samse",
+      "gramPanchayat": "Mudigere Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "mountain_peak",
+      "description": "A pristine 1,894-meter mountain peak whose silhouette resembles the face of a horse ('Kudre-mukha'), situated in the heart of a 600 sq km UNESCO World Heritage rainforest and shola-grassland national park. Shelters endangered lion-tailed macaques, tigers, leopards, and great pied hornbills.",
+      "historicalSignificance": "One of the finest biodiversity conservation success stories in India; open-cast iron ore mining was halted by the Supreme Court of India in 2005 to restore the pristine catchment of Tunga, Bhadra, and Netravathi rivers.",
+      "culturalImportance": "A sacred environmental haven for nature purists, with strict daily trek quotas via the Aranya online permit portal.",
+      "lat": 13.2189,
+      "lng": 75.2589,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.2189,75.2589",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kudremukh Peak & National Park",
+          "source": "Karnataka Forest Department & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to February (Lush green rolling hills and clear weather)",
+      "entryFeeINR": 475,
+      "openingHours": "06:00 – 17:00 (Trek departure strictly before 08:30 AM)",
+      "distanceFromNearestTown": "15 km from Kalasa, 95 km from Chikkamagaluru",
+      "nearestBusStation": "Kalasa Bus Stand (15 km)",
+      "nearestRailwayStation": "Mangaluru Junction (110 km) or Mudigere (60 km)",
+      "roadAccessibility": "Paved road to Balagal/Kalasa, followed by 4WD jeep trail to Mullodi base camp",
+      "trekkingDifficulty": "Challenging (22 km round-trip trek across rolling grasslands)",
+      "estimatedVisitDuration": "Full day trek (8 – 9 hours)",
+      "safetyInstructions": "Mandatory advance booking on Aranya portal. Daily quota restricted to 50 trekkers. Leeches common post-monsoon; carry salt and leech gaiters. Strictly zero plastic allowed.",
+      "permissionRequirements": "Online permit via Karnataka Forest Department (Aranya portal) mandatory",
+      "tourismInformationSource": "Karnataka Forest Department & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic 1,894m horse-faced mountain with sweeping rolling grasslands in UNESCO Western Ghats."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "kudremukhpeak&nationalpark"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A pristine 1,894-meter mountain peak whose silhouette resembles the face of a horse ('Kudre-mukha'), situated in the heart of a 600 sq km UN...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.2189,
+        "longitude": 75.2589
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 17:00 (Trek departure strictly before 08:30 AM)",
+        "entryFeeINR": 475,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (Lush green rolling hills and clear weather).",
+        "safetyNotes": "Mandatory advance booking on Aranya portal. Daily quota restricted to 50 trekkers. Leeches common post-monsoon; carry salt and leech gaiters. Strictly zero plastic allowed."
+      }
+    },
+    {
+      "id": "sringeri_sharada_peetha_vidyashankara",
+      "name": "Sringeri Sharada Peetha & Vidyashankara Temple",
+      "nameKannada": "ಶೃಂಗೇರಿ ಶಾರದಾ ಪೀಠ ಮತ್ತು ವಿದ್ಯಾಶಂಕರ ದೇವಾಲಯ",
+      "district": "Chikkamagaluru",
+      "taluk": "Sringeri",
+      "village": "Sringeri Town",
+      "gramPanchayat": "Sringeri Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "The southern cardinal monastic seat (Dakshinamnaya Sharada Peetha) established in the 8th century CE by Adi Shankaracharya on the sacred banks of the Tunga River. Features the breathtaking 14th-century Vidyashankara Temple, an architectural fusion of Hoysala and Dravidian styles boasting 12 astronomical zodiac pillars (Rashi Stambhas) illuminated by the morning sun in seasonal sequence.",
+      "historicalSignificance": "The first and foremost of the four Advaita Peethas founded by Adi Shankara; patronized by Vijayanagara founders Hakka and Bukka under Saint Vidyaranya.",
+      "culturalImportance": "Venerated worldwide as the supreme seat of Sanatana Dharma philosophy and classical Sanskrit scholarship.",
+      "lat": 13.4183,
+      "lng": 75.255,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.4183,75.255",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Sringeri Sharada Peetha & Vidyashankara Temple",
+          "source": "Sri Sringeri Sharada Peetham & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 14:00, 16:00 – 21:00",
+      "distanceFromNearestTown": "85 km from Chikkamagaluru, 105 km from Mangaluru",
+      "nearestBusStation": "Sringeri KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Udupi Railway Station (85 km) or Shivamogga (95 km)",
+      "roadAccessibility": "Paved scenic ghat road through thick rainforests of Western Ghats",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Feeding the large sacred fish (Tor Khudree) in the Tunga river ghat with puffed rice is a sacred tradition. Remove shoes at entrance.",
+      "permissionRequirements": "Managed by Sri Sringeri Sharada Peetham; open to all",
+      "tourismInformationSource": "Sri Sringeri Sharada Peetham & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "First cardinal Advaita matha founded by Adi Shankara with 12 astronomical zodiac pillars."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "sringerisharadapeetha&vidyashankaratemple"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The southern cardinal monastic seat (Dakshinamnaya Sharada Peetha) established in the 8th century CE by Adi Shankaracharya on the sacred ban...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.4183,
+        "longitude": 75.255
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Sringeri Sharada Peetham & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 14:00, 16:00 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Feeding the large sacred fish (Tor Khudree) in the Tunga river ghat with puffed rice is a sacred tradition. Remove shoes at entrance."
+      }
+    }
+  ],
+  "count": 3
+}

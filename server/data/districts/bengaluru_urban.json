@@ -1,0 +1,673 @@
+{
+  "district": {
+    "id": "bengaluru_urban",
+    "name": "Bengaluru Urban",
+    "nameKannada": "ಬೆಂಗಳೂರು ನಗರ",
+    "division": "Bengaluru",
+    "headquarters": "Bengaluru",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "taluks": [
+      "Bengaluru North",
+      "Bengaluru South",
+      "Bengaluru East",
+      "Anekal",
+      "Yelahanka"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "The dynamic capital city and tech hub of India, featuring Tudor-style Bangalore Palace, 240-acre Lalbagh Botanical Garden, Tipu's Summer Palace, Bannerghatta Biological Safari, and the 890 CE Begur inscription.",
+    "descriptionKannada": "ಭಾರತದ ಸಿಲಿಕಾನ್ ಸಿಟಿ ಮತ್ತು ರಾಜಧಾನಿ, ಬೆಂಗಳೂರು ಅರಮನೆ, ಲಾಲ್‌ಬಾಗ್ ಸಸ್ಯತೋಟ, ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬೇಸಿಗೆ ಅರಮನೆ, ಬನ್ನೇರುಘಟ್ಟ ಜೈವಿಕ ಉದ್ಯಾನ ಮತ್ತು ೮೯೦ರ ಬೇಗೂರು ಶಾಸನವನ್ನು ಒಳಗೊಂಡಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "bangalore_palace_wodeyar",
+      "name": "Bangalore Palace",
+      "nameKannada": "ಬೆಂಗಳೂರು ಅರಮನೆ",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "village": "Vasanth Nagar",
+      "gramPanchayat": "Bengaluru North Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "royal_palace",
+      "description": "A magnificent Tudor-style royal palace inspired by Windsor Castle, built by Maharaja Chamarajendra Wadiyar X in 1887. Features fortified towers, wood carvings, floral motifs, stained glass, and historic royal oil paintings by Raja Ravi Varma.",
+      "historicalSignificance": "Purchased in 1873 from Rev. J. Garrett and reconstructed as the city royal residence of the Wodeyar dynasty.",
+      "culturalImportance": "Premier architectural icon of Bengaluru, hosting royal gatherings, state functions, and world-class musical performances.",
+      "lat": 12.9989,
+      "lng": 77.5922,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9989,77.5922",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bangalore Palace",
+          "source": "Mysuru Royal Family Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 230,
+      "openingHours": "10:00 – 17:30",
+      "distanceFromNearestTown": "Located within central Bengaluru",
+      "nearestBusStation": "Cantonment / Shivaji Nagar Bus Stand (2 km)",
+      "nearestRailwayStation": "Bangalore Cantonment (2 km) or KSR Bengaluru (4 km)",
+      "roadAccessibility": "Central city road, easily accessible by Metro, cab, or bus",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 – 2.5 hours",
+      "safetyInstructions": "Audio guides available in English and Kannada. Photography requires additional token.",
+      "permissionRequirements": "Entry ticket required at palace counter",
+      "tourismInformationSource": "Mysuru Royal Family Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Magnificent 19th-century royal palace of the Wodeyars with Windsor-inspired architecture."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "bangalorepalace"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A magnificent Tudor-style royal palace inspired by Windsor Castle, built by Maharaja Chamarajendra Wadiyar X in 1887. Features fortified tow...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9989,
+        "longitude": 77.5922
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Mysuru Royal Family Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "10:00 – 17:30",
+        "entryFeeINR": 230,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Audio guides available in English and Kannada. Photography requires additional token."
+      }
+    },
+    {
+      "id": "lalbagh_botanical_garden",
+      "name": "Lalbagh Botanical Garden & Glass House",
+      "nameKannada": "ಲಾಲ್‌ಬಾಗ್ ಸಸ್ಯತೋಟ ಮತ್ತು ಗಾಜಿನ ಮನೆ",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "village": "Mavalli / Basavanagudi",
+      "gramPanchayat": "Bengaluru South Taluk Administration",
+      "category": [
+        "nature",
+        "heritage"
+      ],
+      "subcategory": "botanical_garden",
+      "description": "A 240-acre botanical paradise home to India's largest collection of tropical plants, centenarian trees, the historic 1889 Glass House modeled on London's Crystal Palace, and the 3,000-million-year-old Peninsular Gneiss National Geological Monument.",
+      "historicalSignificance": "Commissioned in 1760 by Hyder Ali and expanded by Tipu Sultan who imported exotic plants from Persia, Kabul, and France.",
+      "culturalImportance": "Heartbeat of Bengaluru's 'Garden City' identity; host of the famous Republic Day and Independence Day biannual flower shows.",
+      "lat": 12.9507,
+      "lng": 77.5847,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9507,77.5847",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1588698943360-6435c4794270?w=800&auto=format&fit=crop&q=80",
+          "caption": "Lalbagh Botanical Garden & Glass House",
+          "source": "Department of Horticulture, Government of Karnataka"
+        }
+      ],
+      "bestSeason": "Year-round (Flower shows in January and August)",
+      "entryFeeINR": 30,
+      "openingHours": "06:00 – 19:00",
+      "distanceFromNearestTown": "Central Bengaluru (near South Gate Metro)",
+      "nearestBusStation": "Lalbagh Main Gate Bus Stop (0.1 km)",
+      "nearestRailwayStation": "KSR Bengaluru City (4 km)",
+      "roadAccessibility": "Directly connected via Namma Metro Green Line (Lalbagh Station)",
+      "trekkingDifficulty": "Easy (flat walking paths throughout garden)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Do not pluck flowers or disturb nesting birds. Electric buggies available for seniors.",
+      "permissionRequirements": "Department of Horticulture entry ticket",
+      "tourismInformationSource": "Department of Horticulture, Government of Karnataka",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Historic 240-acre botanical treasure house and 3-billion-year-old geological rock monument."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "lalbaghbotanicalgarden&glasshouse"
+      ],
+      "image": "https://images.unsplash.com/photo-1588698943360-6435c4794270?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 240-acre botanical paradise home to India's largest collection of tropical plants, centenarian trees, the historic 1889 Glass House modele...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9507,
+        "longitude": 77.5847
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Department of Horticulture, Government of Karnataka",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 19:00",
+        "entryFeeINR": 30,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Flower shows in January and August).",
+        "safetyNotes": "Do not pluck flowers or disturb nesting birds. Electric buggies available for seniors."
+      }
+    },
+    {
+      "id": "begur_nageshwara_temple",
+      "name": "Begur Nageshwara Temple Complex (Earliest 'Bengaluru' Inscription)",
+      "nameKannada": "ಬೇಗೂರು ನಾಗೇಶ್ವರ ದೇವಾಲಯ (ಮೊದಲ 'ಬೆಂಗಳೂರು' ಶಾಸನ)",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "village": "Begur",
+      "gramPanchayat": "Bengaluru South Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "A magnificent 9th-century Western Ganga and Chola five-shrine (Panchalingeshwara) temple complex. Houses the historic Begur Hero Stone inscription of 890 CE, containing the earliest epigraphical record of the name 'Bengaluru' (Bengaluru Yuddha).",
+      "historicalSignificance": "Epigraphical birthplace of the city's name; records the martyrdom of commander Nagattara's son Buttannashetty in the battle of Bengaluru in 890 CE.",
+      "culturalImportance": "Supreme historical landmark establishing Bengaluru's antiquity extending over 1,130 years before Kempe Gowda.",
+      "lat": 12.8797,
+      "lng": 77.6322,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.8797,77.6322",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Begur Nageshwara Temple Complex (Earliest 'Bengaluru' Inscription)",
+          "source": "Archaeological Survey of India & Epigraphia Carnatica"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:30 – 12:30, 16:30 – 19:30",
+      "distanceFromNearestTown": "14 km south of Majestic, 3 km from Hosur Road",
+      "nearestBusStation": "Begur Bus Stand (0.2 km)",
+      "nearestRailwayStation": "Carmelaram Railway Station (9 km) or KSR Bengaluru (16 km)",
+      "roadAccessibility": "Paved city road connecting Hosur Road / Electronic City to Begur",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Remove footwear before entering the temple compound. Respect the ancient hero stone inscriptions.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Epigraphia Carnatica",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Birthplace of the name 'Bengaluru' on an 890 CE stone inscription, unknown to most city residents."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "begurnageshwaratemplecomplex(earliest'bengaluru'inscription)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A magnificent 9th-century Western Ganga and Chola five-shrine (Panchalingeshwara) temple complex. Houses the historic Begur Hero Stone inscr...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.8797,
+        "longitude": 77.6322
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Epigraphia Carnatica",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:30 – 12:30, 16:30 – 19:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before entering the temple compound. Respect the ancient hero stone inscriptions."
+      }
+    },
+    {
+      "id": "tipu_summer_palace_bangalore",
+      "name": "Tipu Sultan's Summer Palace & Bangalore Fort",
+      "nameKannada": "ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಬೇಸಿಗೆ ಅರಮನೆ ಮತ್ತು ಬೆಂಗಳೂರು ಕೋಟೆ",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru South",
+      "village": "KR Market / Chamrajpet",
+      "gramPanchayat": "Bengaluru South Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "An exquisite two-storey Indo-Islamic summer palace constructed entirely in pure teakwood, completed in 1791 by Tipu Sultan. Features elaborately fluted teak pillars, floral corbels, and an ASI museum, paired with the surviving 1537 Kempe Gowda stone Delhi Gate and bastions of Bangalore Fort.",
+      "historicalSignificance": "Tipu Sultan used it as his summer residence and called it 'Rashk-e-Jannat' (Envy of Heaven); Lord Cornwallis breached Bangalore Fort here during the 1791 Third Anglo-Mysore War.",
+      "culturalImportance": "A treasured architectural testament to pre-colonial wooden engineering and Kempe Gowda's municipal origins in central Bengaluru.",
+      "lat": 12.9592,
+      "lng": 77.5739,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9592,77.5739",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Tipu Sultan's Summer Palace & Bangalore Fort",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 20,
+      "openingHours": "08:30 – 17:30",
+      "distanceFromNearestTown": "Located at KR Market, central Bengaluru",
+      "nearestBusStation": "KR Market / Victoria Hospital Bus Stop (0.2 km)",
+      "nearestRailwayStation": "KSR Bengaluru City (3 km)",
+      "roadAccessibility": "Central city road; Metro Green Line (KR Market station 300m)",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Remove footwear inside palace museum rooms. Photography permitted without flash.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Intact 1791 teakwood palace and 1537 Bangalore Fort stone gates in the bustling heart of old Pete."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "tipusultan'ssummerpalace&bangalorefort"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "An exquisite two-storey Indo-Islamic summer palace constructed entirely in pure teakwood, completed in 1791 by Tipu Sultan. Features elabora...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9592,
+        "longitude": 77.5739
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 17:30",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Remove footwear inside palace museum rooms. Photography permitted without flash."
+      }
+    },
+    {
+      "id": "nrityagram_dance_village_hesaraghatta",
+      "name": "Nrityagram Classical Dance Village & Hesaraghatta Lake",
+      "nameKannada": "ನೃತ್ಯಗ್ರಾಮ ಶಾಸ್ತ್ರೀಯ ನೃತ್ಯ ಗ್ರಾಮ ಮತ್ತು ಹೆಸರಘಟ್ಟ ಕೆರೆ",
+      "district": "Bengaluru Urban",
+      "taluk": "Bengaluru North",
+      "village": "Hesaraghatta",
+      "gramPanchayat": "Bengaluru North Taluk Administration",
+      "category": [
+        "culture",
+        "nature",
+        "hidden_gem"
+      ],
+      "subcategory": "cultural_centre",
+      "description": "India's first modern classical dance gurukul, founded in 1990 by Odissi prima ballerina Protima Gauri. Designed by celebrated eco-architect Gerard da Cunha with mud, thatch, and natural granite, nestled beside ancient banyan trees and Hesaraghatta lake grasslands.",
+      "historicalSignificance": "A modern cultural milestone reviving the ancient Guru-Shishya parampara; home to internationally acclaimed touring Odissi dancers.",
+      "culturalImportance": "Unique retreat blending traditional arts, yoga, mud architecture, organic farming, and avian wetlands.",
+      "lat": 13.1614,
+      "lng": 77.4683,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.1614,77.4683",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Nrityagram Classical Dance Village & Hesaraghatta Lake",
+          "source": "Nrityagram Dance Trust & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (Spring dance festival Vasantahabba)",
+      "entryFeeINR": 100,
+      "openingHours": "10:00 – 14:00 (Open Friday to Sunday for visitors)",
+      "distanceFromNearestTown": "30 km north-west of central Bengaluru",
+      "nearestBusStation": "Hesaraghatta Bus Stand (5 km)",
+      "nearestRailwayStation": "Yesvantpur Junction (25 km)",
+      "roadAccessibility": "Paved rural road via Jalahalli and Hesaraghatta",
+      "trekkingDifficulty": "Easy (village walking)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "Maintain silence near dance practice halls. Advance email/booking recommended.",
+      "permissionRequirements": "Nrityagram Trust managed; visitor entry fee applies",
+      "tourismInformationSource": "Nrityagram Dance Trust & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Global epicenter of Indian classical Odissi dance nestled in peaceful lake countryside."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "nrityagramclassicaldancevillage&hesaraghattalake"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "India's first modern classical dance gurukul, founded in 1990 by Odissi prima ballerina Protima Gauri. Designed by celebrated eco-architect ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.1614,
+        "longitude": 77.4683
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Nrityagram Dance Trust & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "10:00 – 14:00 (Open Friday to Sunday for visitors)",
+        "entryFeeINR": 100,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Spring dance festival Vasantahabba).",
+        "safetyNotes": "Maintain silence near dance practice halls. Advance email/booking recommended."
+      }
+    },
+    {
+      "id": "bannerghatta_biological_park",
+      "name": "Bannerghatta Biological Park & Butterfly Dome",
+      "nameKannada": "ಬನ್ನೇರುಘಟ್ಟ ಜೈವಿಕ ಉದ್ಯಾನವನ ಮತ್ತು ಚಿಟ್ಟೆ ಪಾರ್ಕ್",
+      "district": "Bengaluru Urban",
+      "taluk": "Anekal",
+      "village": "Bannerghatta",
+      "gramPanchayat": "Anekal Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A 260-sq-km ecological sanctuary just south of Bengaluru, housing India's first butterfly conservatory with a 10,000-sq-ft polycarbonate dome, grand tiger, lion, bear, and herbivore safaris, and an elephant sanctuary in natural scrub forests.",
+      "historicalSignificance": "Established in 1971; recognized as a crucial elephant migratory corridor linking the Eastern and Western Ghats.",
+      "culturalImportance": "Premier wildlife education destination in Karnataka, pioneering large-carnivore rescue and rehabilitation.",
+      "lat": 12.8,
+      "lng": 77.5778,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.8,77.5778",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bannerghatta Biological Park & Butterfly Dome",
+          "source": "Zoo Authority of Karnataka & Forest Dept"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 350,
+      "openingHours": "09:30 – 17:00 (Closed on Tuesdays)",
+      "distanceFromNearestTown": "22 km south of central Bengaluru",
+      "nearestBusStation": "Bannerghatta Circle Bus Stand (0.2 km)",
+      "nearestRailwayStation": "KSR Bengaluru City (24 km)",
+      "roadAccessibility": "Direct BMTC air-conditioned buses and 4-lane Bannerghatta Road",
+      "trekkingDifficulty": "Easy (safari bus and paved zoo walks)",
+      "estimatedVisitDuration": "4 – 5 hours",
+      "safetyInstructions": "Stay inside safari vehicles. Never feed zoo animals. Buggies available for seniors.",
+      "permissionRequirements": "Zoo Authority of Karnataka online/counter tickets",
+      "tourismInformationSource": "Zoo Authority of Karnataka & Forest Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "India's first enclosed butterfly park dome and thrilling close-encounter tiger safari."
+      },
+      "division": "Bengaluru",
+      "region": "South Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "bannerghattabiologicalpark&butterflydome"
+      ],
+      "image": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A 260-sq-km ecological sanctuary just south of Bengaluru, housing India's first butterfly conservatory with a 10,000-sq-ft polycarbonate dom...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.8,
+        "longitude": 77.5778
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Zoo Authority of Karnataka & Forest Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:30 – 17:00 (Closed on Tuesdays)",
+        "entryFeeINR": 350,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Stay inside safari vehicles. Never feed zoo animals. Buggies available for seniors."
+      }
+    }
+  ],
+  "count": 6
+}

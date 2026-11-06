@@ -1,0 +1,243 @@
+{
+  "district": {
+    "id": "dakshina_kannada",
+    "name": "Dakshina Kannada",
+    "nameKannada": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+    "division": "Mysuru",
+    "headquarters": "Mangaluru",
+    "lat": 12.87,
+    "lng": 74.88,
+    "taluks": [
+      "Mangaluru",
+      "Bantwal",
+      "Belthangady",
+      "Puttur",
+      "Sullia",
+      "Moodbidri",
+      "Kadaba"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Coastal and pilgrimage heartland, Dakshina Kannada features port city Mangaluru, sacred Dharmasthala, Kukke Subramanya beneath Kumara Parvatha, Moodbidri's Thousand Pillar Basadi, and Panambur Beach.",
+    "descriptionKannada": "ಕರಾವಳಿಯ ಧಾರ್ಮಿಕ ಕೇಂದ್ರ ದಕ್ಷಿಣ ಕನ್ನಡ, ಬಂದರು ನಗರಿ ಮಂಗಳೂರು, ಧರ್ಮಸ್ಥಳ ಮಂಜುನಾಥ, ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ, ಮೂಡುಬಿದಿರೆಯ ಸಾವಿರ ಕಂಬದ ಬಸದಿ ಮತ್ತು ಪಣಂಬೂರು ಬೀಚ್‌ಗೆ ಹೆಸರುವಾಸಿ."
+  },
+  "destinations": [
+    {
+      "id": "thousand_pillar_basadi_moodbidri",
+      "name": "Thousand Pillar Basadi (Saavira Kambada Basadi), Moodbidri",
+      "nameKannada": "ಸಾವಿರ ಕಂಬದ ಬಸದಿ (ತ್ರಿಭುವನ ತಿಲಕ ಚೂಡಾಮಣಿ), ಮೂಡುಬಿದಿರೆ",
+      "district": "Dakshina Kannada",
+      "taluk": "Moodbidri",
+      "village": "Moodbidri Town",
+      "gramPanchayat": "Moodbidri Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "Revered as the 'Jain Kashi of the South', this monumental 1430 CE granite basadi (Tribhuvana Tilaka Chudamani) dedicated to Tirthankara Chandranatha features 1,000 intricately sculpted granite pillars where NO two pillars are carved alike, spanning three soaring storeys with wood-carved ceilings and a 50-foot monolithic Manastambha pillar.",
+      "historicalSignificance": "Built in 1430 CE by local chieftain Devaraya Wodeyar with public patronage; preserves ancient palm-leaf Dhavala manuscripts from the 9th century.",
+      "culturalImportance": "The supreme architectural pinnacle of Jain structural stone architecture in coastal Karnataka.",
+      "lat": 13.0694,
+      "lng": 74.9967,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.0694,74.9967",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Thousand Pillar Basadi (Saavira Kambada Basadi), Moodbidri",
+          "source": "Archaeological Survey of India & Jain Mutt Moodbidri"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 19:00",
+      "distanceFromNearestTown": "35 km from Mangaluru, 55 km from Udupi",
+      "nearestBusStation": "Moodbidri Bus Stand (1 km)",
+      "nearestRailwayStation": "Mangaluru Junction (36 km) or Mulki (25 km)",
+      "roadAccessibility": "Paved National Highway 169 connects Mangaluru and Moodbidri",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Remove footwear at entrance. Photography permitted in courtyard; restricted in sanctum.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; active worship",
+      "tourismInformationSource": "Archaeological Survey of India & Jain Mutt Moodbidri",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic 1,000-pillar granite basadi where no two pillars share the same carving."
+      },
+      "division": "Mysuru",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "thousandpillarbasadi(saavirakambadabasadi),moodbidri"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Revered as the 'Jain Kashi of the South', this monumental 1430 CE granite basadi (Tribhuvana Tilaka Chudamani) dedicated to Tirthankara Chan...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.0694,
+        "longitude": 74.9967
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Jain Mutt Moodbidri",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 19:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear at entrance. Photography permitted in courtyard; restricted in sanctum."
+      }
+    },
+    {
+      "id": "kukke_subramanya_temple",
+      "name": "Kukke Subramanya Temple & Kumara Parvatha",
+      "nameKannada": "ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಾಲಯ ಮತ್ತು ಕುಮಾರ ಪರ್ವತ",
+      "district": "Dakshina Kannada",
+      "taluk": "Kadaba",
+      "village": "Subramanya",
+      "gramPanchayat": "Kadaba Taluk Administration",
+      "category": [
+        "spiritual",
+        "adventure",
+        "nature"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "Nestled dramatically at the forested base of the 1,712-meter Kumara Parvatha (Pushpagiri) peak on the banks of Kumaradhara River. Celebrated as the supreme shrine of Lord Subramanya, protector of the divine serpent Vasuki, and starting point of the legendary Kumara Parvatha trek.",
+      "historicalSignificance": "Mentioned in the Skanda Purana; Adi Shankaracharya visited and composed the Subramanya Bhujangaprayata Stotram here.",
+      "culturalImportance": "Foremost Sarpa Samskara and Ashlesha Bali pilgrimage destination in India, serving free meals (Mahaprasada) to thousands daily.",
+      "lat": 12.6789,
+      "lng": 75.6156,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.6789,75.6156",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kukke Subramanya Temple & Kumara Parvatha",
+          "source": "Sri Kukke Subramanya Temple Trust & Karnataka Forest Dept"
+        }
+      ],
+      "bestSeason": "October to March (Kumara Parvatha trek optimal November to February)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 13:30, 15:30 – 21:00",
+      "distanceFromNearestTown": "105 km from Mangaluru, 55 km from Dharmasthala",
+      "nearestBusStation": "Subramanya KSRTC Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Subrahmanya Road Railway Station (Netravathi line, 12 km)",
+      "roadAccessibility": "Paved ghat road through dense Western Ghats reserve forests",
+      "trekkingDifficulty": "Challenging for Kumara Parvatha trek (28 km round-trip); None for temple",
+      "estimatedVisitDuration": "Temple: 2 – 3 hours / Kumara Parvatha trek: 2 days",
+      "safetyInstructions": "Men must remove shirts before entering temple sanctum. Kumara Parvatha trek requires prior Aranya Forest permit.",
+      "permissionRequirements": "Temple entry free; Forest Department permit required for mountain trek",
+      "tourismInformationSource": "Sri Kukke Subramanya Temple Trust & Karnataka Forest Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Premier serpent pilgrimage nestled beneath the formidable Kumara Parvatha peak."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / Coastal Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "kukkesubramanyatemple&kumaraparvatha"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Nestled dramatically at the forested base of the 1,712-meter Kumara Parvatha (Pushpagiri) peak on the banks of Kumaradhara River. Celebrated...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.6789,
+        "longitude": 75.6156
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Kukke Subramanya Temple Trust & Karnataka Forest Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 13:30, 15:30 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Kumara Parvatha trek optimal November to February).",
+        "safetyNotes": "Men must remove shirts before entering temple sanctum. Kumara Parvatha trek requires prior Aranya Forest permit."
+      }
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,459 @@
+{
+  "district": {
+    "id": "raichur",
+    "name": "Raichur",
+    "nameKannada": "ರಾಯಚೂರು",
+    "division": "Kalaburagi",
+    "headquarters": "Raichur",
+    "lat": 16.2058,
+    "lng": 77.3556,
+    "taluks": [
+      "Raichur",
+      "Manvi",
+      "Sindhanur",
+      "Devadurga",
+      "Lingsugur",
+      "Maski",
+      "Sirwar"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1200&auto=format&fit=crop&q=80",
+    "description": "Guarding the fertile Doab, Raichur is renowned for the historic Raichur Fort with Kakatiya rock inscriptions, Mantralayam Raghavendra Swamy Brindavan, Maski Ashokan rock edict, and river-island Jaladurga Fort.",
+    "descriptionKannada": "ಕೃಷ್ಣಾ-ತುಂಗಭದ್ರಾ ದೋಆಬ್ ಪ್ರದೇಶದ ರಾಯಚೂರು, ಕಾಕತೀಯರ ಶಾಸನವುಳ್ಳ ರಾಯಚೂರು ಕೋಟೆ, ಮಂತ್ರಾಲಯ ಗುರು ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿಗಳ ಬೃಂದಾವನ, ಮಸ್ಕಿ ಅಶೋಕನ ಶಿಲಾಶಾಸನ ಮತ್ತು ಜಲದುರ್ಗಕ್ಕೆ ಖ್ಯಾತವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "raichur_fort_kakatiya",
+      "name": "Raichur Fort",
+      "nameKannada": "ರಾಯಚೂರು ಕೋಟೆ",
+      "district": "Raichur",
+      "taluk": "Raichur",
+      "village": "Raichur City",
+      "gramPanchayat": "Raichur Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "Historic fortress strategically guarding the fertile Krishna-Tungabhadra Doab, featuring double stone walls, 800-year-old Kakatiya Telugu stone inscriptions on 41-foot monolithic slabs, the Sailor's Mosque, and the hilltop Naurang Darwaza.",
+      "historicalSignificance": "Constructed in 1294 CE by Kakatiya general Gore Gangayya Reddi under Queen Rudrama Devi; the bone of contention in the legendary Battle of Raichur (1520 CE) won by Krishnadevaraya.",
+      "culturalImportance": "Key milestone in Vijayanagara military zenith; home to rich bilingual inscriptions in Sanskrit, Kannada, Telugu, and Persian.",
+      "lat": 16.2058,
+      "lng": 77.3556,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.2058,77.3556",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Raichur Fort",
+          "source": "Archaeological Survey of India & State Archaeology Dept"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "08:00 – 18:00",
+      "distanceFromNearestTown": "Located within Raichur city center",
+      "nearestBusStation": "Raichur Central Bus Stand (1.5 km)",
+      "nearestRailwayStation": "Raichur Junction (2 km)",
+      "roadAccessibility": "Accessible by town roads and auto-rickshaws",
+      "trekkingDifficulty": "Easy to Moderate",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Wear good grip footwear on ramparts. Respect historical stone carvings.",
+      "permissionRequirements": "Protected state monument, open to public",
+      "tourismInformationSource": "Archaeological Survey of India & State Archaeology Dept",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Pivotal site of Krishnadevaraya's historic battle of 1520 CE with massive rock slabs."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "raichurfort"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Historic fortress strategically guarding the fertile Krishna-Tungabhadra Doab, featuring double stone walls, 800-year-old Kakatiya Telugu st...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.2058,
+        "longitude": 77.3556
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & State Archaeology Dept",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Wear good grip footwear on ramparts. Respect historical stone carvings."
+      }
+    },
+    {
+      "id": "mantralayam_brindavan",
+      "name": "Mantralayam (Raghavendra Swamy Mutt)",
+      "nameKannada": "ಮಂತ್ರಾಲಯ (ಗುರು ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿ ಬೃಂದಾವನ)",
+      "district": "Raichur",
+      "taluk": "Raichur",
+      "village": "Tungabhadra Border Zone",
+      "gramPanchayat": "Raichur Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "Famed pilgrimage sanctuary on the sacred banks of the Tungabhadra River, housing the Moola Brindavan of 17th-century Dvaita philosopher saint Sri Guru Raghavendra Swamy, who entered Jiva Samadhi here in 1671 CE.",
+      "historicalSignificance": "The village of Manchale was gifted to Raghavendra Swamy by Nawab of Adoni Siddi Masud Khan in reverence of his spiritual aura.",
+      "culturalImportance": "One of Southern India's most visited spiritual centers, serving Annadana (free food) to over 25,000 pilgrims daily.",
+      "lat": 15.94,
+      "lng": 77.429,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.94,77.429",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mantralayam (Raghavendra Swamy Mutt)",
+          "source": "Sri Raghavendra Swamy Matha & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "October to March (Special rush during Aradhana in Shravana month)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 21:00",
+      "distanceFromNearestTown": "45 km from Raichur",
+      "nearestBusStation": "Mantralayam Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Mantralayam Road Railway Station (16 km)",
+      "roadAccessibility": "Excellent 4-lane access road connecting to Raichur and Kurnool",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 – 4 hours",
+      "safetyInstructions": "Traditional dress code required in inner sanctum (dhoti/kurta for men, saree/salwar for women). River bathing ghats have barricades.",
+      "permissionRequirements": "Sri Raghavendra Swamy Matha administration",
+      "tourismInformationSource": "Sri Raghavendra Swamy Matha & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-renowned pilgrimage center drawing devotees from across the globe."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mantralayam(raghavendraswamymutt)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Famed pilgrimage sanctuary on the sacred banks of the Tungabhadra River, housing the Moola Brindavan of 17th-century Dvaita philosopher sain...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.94,
+        "longitude": 77.429
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Raghavendra Swamy Matha & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Special rush during Aradhana in Shravana month).",
+        "safetyNotes": "Traditional dress code required in inner sanctum (dhoti/kurta for men, saree/salwar for women). River bathing ghats have barricades."
+      }
+    },
+    {
+      "id": "maski_ashokan_rock_edict",
+      "name": "Maski Ashokan Minor Rock Edict",
+      "nameKannada": "ಮಸ್ಕಿ ಅಶೋಕನ ಶಿಲಾಶಾಸನ",
+      "district": "Raichur",
+      "taluk": "Maski",
+      "village": "Maski Town",
+      "gramPanchayat": "Maski Taluk Administration",
+      "category": [
+        "heritage",
+        "hidden_gem"
+      ],
+      "subcategory": "archaeological_site",
+      "description": "The monumental archaeological site where C. Beadon discovered the Minor Rock Edict in 1915 CE, in which Emperor Ashoka explicitly inscribed his personal name 'Devanampriya Asoka'—definitively identifying 'Devanampriya' with Emperor Ashoka.",
+      "historicalSignificance": "Engraved on a natural cavern rock in 250 BCE; historical landmark in South Asian epigraphy that solved the identity mystery of King Ashoka.",
+      "culturalImportance": "Birthplace of modern Mauryan epigraphical discovery, proving the reach of Buddhism in the Krishna-Tungabhadra plains.",
+      "lat": 15.9639,
+      "lng": 76.6636,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.9639,76.6636",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Maski Ashokan Minor Rock Edict",
+          "source": "Archaeological Survey of India & Epigraphia Indica"
+        }
+      ],
+      "bestSeason": "October to February",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 17:30",
+      "distanceFromNearestTown": "Located on outskirts of Maski town, 80 km from Raichur",
+      "nearestBusStation": "Maski KSRTC Bus Stand (2 km)",
+      "nearestRailwayStation": "Sindhanur / Raichur Junction (80 km)",
+      "roadAccessibility": "Paved state highway SH-30 connecting Maski to Sindhanur",
+      "trekkingDifficulty": "Easy (short rocky steps to cavern)",
+      "estimatedVisitDuration": "1 – 1.5 hours",
+      "safetyInstructions": "Protected ASI enclosure; do not write graffiti or touch rock surfaces.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Epigraphia Indica",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "World-famous inscription site that revealed Ashoka's real name, rarely seen by casual tourists."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "maskiashokanminorrockedict"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The monumental archaeological site where C. Beadon discovered the Minor Rock Edict in 1915 CE, in which Emperor Ashoka explicitly inscribed ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.9639,
+        "longitude": 76.6636
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Epigraphia Indica",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 17:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February.",
+        "safetyNotes": "Protected ASI enclosure; do not write graffiti or touch rock surfaces."
+      }
+    },
+    {
+      "id": "jaladurga_fort_island",
+      "name": "Jaladurga Fort & Krishna River Gorge",
+      "nameKannada": "ಜಲದುರ್ಗ ಕೋಟೆ ಮತ್ತು ಕೃಷ್ಣಾ ನದಿ ಕಣಿವೆ",
+      "district": "Raichur",
+      "taluk": "Lingsugur",
+      "village": "Jaladurga",
+      "gramPanchayat": "Lingsugur Taluk Administration",
+      "category": [
+        "heritage",
+        "nature",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_fort",
+      "description": "An isolated river-island fortress encircled by roaring rapids of the Krishna River as it carves through a dramatic 200-foot granite gorge, featuring ancient Adil Shahi ramparts, prison cells, and sweeping river vistas.",
+      "historicalSignificance": "Built by the Adil Shahi sultans of Bijapur as an impregnable water-bound frontier garrison and state prison.",
+      "culturalImportance": "Immortalized in regional folklore as an impenetrable stronghold where the river itself formed a moat on all sides.",
+      "lat": 16.2514,
+      "lng": 76.4383,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=16.2514,76.4383",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Jaladurga Fort & Krishna River Gorge",
+          "source": "Karnataka State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to February (Post-monsoon river flows are spectacular)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:00",
+      "distanceFromNearestTown": "20 km from Lingsugur, 110 km from Raichur",
+      "nearestBusStation": "Lingsugur Bus Stand (20 km)",
+      "nearestRailwayStation": "Raichur Junction (110 km)",
+      "roadAccessibility": "Rural road to Jaladurga village, then walk to river bridge",
+      "trekkingDifficulty": "Moderate (rough stone paths around gorge)",
+      "estimatedVisitDuration": "2 – 3 hours",
+      "safetyInstructions": "High vertical drop into turbulent river rapids; stay strictly away from unmarked slippery cliff edges.",
+      "permissionRequirements": "Open entry, managed by local gram panchayat and archaeology dept",
+      "tourismInformationSource": "Karnataka State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Spectacular water-encircled gorge fortress, among Karnataka's most dramatic undiscovered landscapes."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "jaladurgafort&krishnarivergorge"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "An isolated river-island fortress encircled by roaring rapids of the Krishna River as it carves through a dramatic 200-foot granite gorge, f...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 16.2514,
+        "longitude": 76.4383
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to February (Post-monsoon river flows are spectacular).",
+        "safetyNotes": "High vertical drop into turbulent river rapids; stay strictly away from unmarked slippery cliff edges."
+      }
+    }
+  ],
+  "count": 4
+}

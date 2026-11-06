@@ -1,0 +1,353 @@
+{
+  "district": {
+    "id": "udupi",
+    "name": "Udupi",
+    "nameKannada": "ಉಡುಪಿ",
+    "division": "Mysuru",
+    "headquarters": "Udupi",
+    "lat": 13.3409,
+    "lng": 74.7421,
+    "taluks": [
+      "Udupi",
+      "Kundapura",
+      "Karkala",
+      "Byndoor",
+      "Brahmavara",
+      "Kaup",
+      "Hebri"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&auto=format&fit=crop&q=80",
+    "description": "Spiritual temple coast and culinary capital, Udupi is famed for the 13th-century Sri Krishna Matha, volcanic columnar basalt of St. Mary's Island, Kaup lighthouse beach, Karkala Bahubali, and floating Varanga lake basadi.",
+    "descriptionKannada": "ಕೃಷ್ಣನ ನಗರಿ ಮತ್ತು ಕರಾವಳಿ ಸೌಂದರ್ಯದ ಉಡುಪಿ, ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಸೇಂಟ್ ಮೇರಿಸ್ ದ್ವೀಪದ ಷಡ್ಭುಜಾಕೃತಿಯ ಶಿಲಾ ಸ್ತಂಭಗಳು, ಕಾಪು ಲೈಟ್‌ಹೌಸ್, ಕಾರ್ಕಳ ಬಾಹುಬಲಿ ಮತ್ತು ವರಂಗ ಕೆರೆ ಬಸದಿಗೆ ಪ್ರಸಿದ್ಧ."
+  },
+  "destinations": [
+    {
+      "id": "udupi_sri_krishna_matha",
+      "name": "Udupi Sri Krishna Temple & Kanakana Kindi",
+      "nameKannada": "ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಮತ್ತು ಕನಕನ ಕಿಂಡಿ",
+      "district": "Udupi",
+      "taluk": "Udupi",
+      "village": "Car Street, Udupi",
+      "gramPanchayat": "Udupi Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage",
+        "culture"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "The immortal 13th-century spiritual sanctuary founded by Sri Madhvacharya, the exponent of Dvaita philosophy. Renowned for the Balakrishna deity worshipped solely through the nine-holed silver-plated window (Navagriha Kindi) and Kanakana Kindi, where Lord Krishna miraculously turned around to give darshan to saint-composer Kanakadasa.",
+      "historicalSignificance": "Founded in the 13th century; governed by the Ashta Mathas (Eight Monasteries) on a unique biennial rotational transfer of worship (Paryaya).",
+      "culturalImportance": "Birthplace of world-famous Udupi vegetarian culinary traditions, classical Yakshagana dance performances, and daily grand Annadana.",
+      "lat": 13.3406,
+      "lng": 74.7517,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3406,74.7517",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Udupi Sri Krishna Temple & Kanakana Kindi",
+          "source": "Sri Krishna Matha Administration & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "Year-round (Paryaya festival celebrated in January on even years)",
+      "entryFeeINR": 0,
+      "openingHours": "05:00 – 21:30",
+      "distanceFromNearestTown": "Located at Udupi city center",
+      "nearestBusStation": "Udupi City Bus Stand (1 km) / Service Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Udupi Railway Station (3.5 km)",
+      "roadAccessibility": "Central city location, easily reachable by auto, cab, or bus",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Traditional modest clothing required; men must remove upper garments to enter inner sanctum.",
+      "permissionRequirements": "Ashta Matha administration; open to all devotees",
+      "tourismInformationSource": "Sri Krishna Matha Administration & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World-famous Dvaita spiritual capital and origin of Udupi vegetarian culinary culture."
+      },
+      "division": "Mysuru",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "udupisrikrishnatemple&kanakanakindi"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The immortal 13th-century spiritual sanctuary founded by Sri Madhvacharya, the exponent of Dvaita philosophy. Renowned for the Balakrishna d...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3406,
+        "longitude": 74.7517
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Sri Krishna Matha Administration & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "05:00 – 21:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Paryaya festival celebrated in January on even years).",
+        "safetyNotes": "Traditional modest clothing required; men must remove upper garments to enter inner sanctum."
+      }
+    },
+    {
+      "id": "st_marys_island_malpe",
+      "name": "St. Mary's Island (Hexagonal Columnar Basaltic Lava)",
+      "nameKannada": "ಸೇಂಟ್ ಮೇರಿಸ್ ದ್ವೀಪ (ಷಡ್ಭುಜಾಕೃತಿಯ ಶಿಲಾ ಸ್ತಂಭಗಳು)",
+      "district": "Udupi",
+      "taluk": "Udupi",
+      "village": "Malpe Coast",
+      "gramPanchayat": "Udupi Taluk Administration",
+      "category": [
+        "nature",
+        "beach",
+        "hidden_gem"
+      ],
+      "subcategory": "natural_monument",
+      "description": "A group of four uninhabited rocky islands 6 km off Malpe Beach, declared a National Geological Monument. Famous for its astonishing, geometrically precise hexagonal columnar basaltic lava pillars formed 88 million years ago during the volcanic rifting of Madagascar from India, fringed by crystal-clear turquoise waters and white seashell sands.",
+      "historicalSignificance": "Historical tradition records Vasco da Gama landed on these islands in 1498 CE on his maiden voyage from Portugal and placed a cross in honor of Mother Mary.",
+      "culturalImportance": "A premier geo-tourism site and one of only a few places on Earth with such well-defined columnar volcanic formations right on a tropical beach.",
+      "lat": 13.3778,
+      "lng": 74.6736,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3778,74.6736",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+          "caption": "St. Mary's Island (Hexagonal Columnar Basaltic Lava)",
+          "source": "Geological Survey of India & Malpe Beach Development Committee"
+        }
+      ],
+      "bestSeason": "October to May (Ferry service suspended during monsoon from June to September)",
+      "entryFeeINR": 300,
+      "openingHours": "09:00 – 17:30 (Ferry boats operate from Malpe Sea Walk / Beach)",
+      "distanceFromNearestTown": "6 km ferry ride from Malpe, 12 km from Udupi",
+      "nearestBusStation": "Malpe Beach Bus Stop (1 km)",
+      "nearestRailwayStation": "Udupi Railway Station (12 km)",
+      "roadAccessibility": "Drive to Malpe Beach, then board authorized tourist ferry boats",
+      "trekkingDifficulty": "Easy (island exploration on foot)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Swimming is strictly prohibited off the island due to strong underwater rip currents and sharp basalt edges. Strictly zero-plastic island.",
+      "permissionRequirements": "Ferry boat ticket from Malpe port counters includes island conservation fee",
+      "tourismInformationSource": "Geological Survey of India & Malpe Beach Development Committee",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "National Geological Monument with 88-million-year-old hexagonal volcanic pillars in turquoise sea."
+      },
+      "division": "Mysuru",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "st.mary'sisland(hexagonalcolumnarbasalticlava)"
+      ],
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A group of four uninhabited rocky islands 6 km off Malpe Beach, declared a National Geological Monument. Famous for its astonishing, geometr...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3778,
+        "longitude": 74.6736
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Geological Survey of India & Malpe Beach Development Committee",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 17:30 (Ferry boats operate from Malpe Sea Walk / Beach)",
+        "entryFeeINR": 300,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to May (Ferry service suspended during monsoon from June to September).",
+        "safetyNotes": "Swimming is strictly prohibited off the island due to strong underwater rip currents and sharp basalt edges. Strictly zero-plastic island."
+      }
+    },
+    {
+      "id": "varanga_kere_basadi",
+      "name": "Varanga Kere Basadi (Lake Jain Temple)",
+      "nameKannada": "ವರಂಗ ಕೆರೆ ಬಸದಿ (ಸರೋವರ ಜೈನ ದೇವಾಲಯ)",
+      "district": "Udupi",
+      "taluk": "Hebri",
+      "village": "Varanga",
+      "gramPanchayat": "Hebri Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual",
+        "hidden_gem"
+      ],
+      "subcategory": "stepwell_kalyani",
+      "description": "An idyllic 12th-century Jain basadi (Kere Basadi / Chaturmukha Basadi) resting serenely in the exact center of a tranquil 14-acre natural lake surrounded by pink water lilies. Accessible only by a wooden rowboat poled by a temple boatman, enshrining four Tirthankaras facing the cardinal directions.",
+      "historicalSignificance": "Built by the Alupa dynasty queen in the 12th century; renowned for ancient Kannada stone inscriptions and peaceful water solitude.",
+      "culturalImportance": "One of coastal Karnataka's most serene and photogenic hidden spiritual gems, free from commercial bustle.",
+      "lat": 13.3167,
+      "lng": 75.0167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.3167,75.0167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Varanga Kere Basadi (Lake Jain Temple)",
+          "source": "Karnataka Tourism & Jain Heritage Centres"
+        }
+      ],
+      "bestSeason": "October to March (Water lilies bloom in abundance)",
+      "entryFeeINR": 20,
+      "openingHours": "08:30 – 18:00 (Rowboat operates continuously)",
+      "distanceFromNearestTown": "25 km from Karkala, 38 km from Udupi",
+      "nearestBusStation": "Varanga Cross Bus Stop (0.5 km) / Hebri Bus Stand (10 km)",
+      "nearestRailwayStation": "Udupi Railway Station (38 km)",
+      "roadAccessibility": "Paved state road connecting Udupi, Karkala, and Agumbe",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Life vests provided on the short rowboat crossing. Do not pluck water lilies from the lake.",
+      "permissionRequirements": "Local Jain Mutt management; small boat fee (₹20)",
+      "tourismInformationSource": "Karnataka Tourism & Jain Heritage Centres",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Unique 12th-century Jain basadi floating in the center of a lotus lake, reached by wooden boat."
+      },
+      "division": "Mysuru",
+      "region": "Coastal Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "varangakerebasadi(lakejaintemple)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "An idyllic 12th-century Jain basadi (Kere Basadi / Chaturmukha Basadi) resting serenely in the exact center of a tranquil 14-acre natural la...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.3167,
+        "longitude": 75.0167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & Jain Heritage Centres",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 18:00 (Rowboat operates continuously)",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Water lilies bloom in abundance).",
+        "safetyNotes": "Life vests provided on the short rowboat crossing. Do not pluck water lilies from the lake."
+      }
+    }
+  ],
+  "count": 3
+}

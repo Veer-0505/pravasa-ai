@@ -1,0 +1,461 @@
+{
+  "district": {
+    "id": "hassan",
+    "name": "Hassan",
+    "nameKannada": "ಹಾಸನ",
+    "division": "Mysuru",
+    "headquarters": "Hassan",
+    "lat": 13.0033,
+    "lng": 76.1004,
+    "taluks": [
+      "Hassan",
+      "Alur",
+      "Arkalgud",
+      "Arsikere",
+      "Belur",
+      "Channarayapatna",
+      "Holenarasipura",
+      "Sakleshpur"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Architectural wonderland of Karnataka, Hassan is home to the UNESCO World Heritage Hoysala temples of Belur and Halebidu, the colossal 57-foot Bahubali monolith at Shravanabelagola, and floating Shettihalli Church.",
+    "descriptionKannada": "ವಾಸ್ತುಶಿಲ್ಪದ ಕೌತುಕ ಹಾಸನ, ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ಬೇಲೂರು-ಹಳೇಬೀಡು ಹೊಯ್ಸಳ ದೇವಾಲಯಗಳು, ಶ್ರವಣಬೆಳಗೊಳದ ೫೭ ಅಡಿ ಗೊಮ್ಮಟೇಶ್ವರ ಮತ್ತು ಮುಳುಗಡೆ ಶೆಟ್ಟಿಹಳ್ಳಿ ಚರ್ಚ್‌ಗೆ ಹೆಸರುವಾಸಿ."
+  },
+  "destinations": [
+    {
+      "id": "belur_chennakeshava_temple",
+      "name": "Belur Chennakeshava Temple (UNESCO)",
+      "nameKannada": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ (ಯುನೆಸ್ಕೋ)",
+      "district": "Hassan",
+      "taluk": "Belur",
+      "village": "Belur Town",
+      "gramPanchayat": "Belur Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "The crowning jewel of Hoysala architecture and a UNESCO World Heritage Site (2023). Commissioned in 1117 CE to celebrate victory over the Cholas, this star-shaped soapstone wonder features 42 legendary Madanika (bracket dancer) figures carved with microscopic jewelry, lace-like stone screens, and a 42-foot gravity-defying stone pillar (Deepa Sthambha) standing unsupported by its own weight.",
+      "historicalSignificance": "Commissioned by King Vishnuvardhana and took 103 years across three generations to complete; signed by master sculptors Dasoja, Chavana, and Mallitamma.",
+      "culturalImportance": "Global pinnacle of Indian structural soapstone artistry, celebrating classical music, dance postures, and epic narratives.",
+      "lat": 13.1622,
+      "lng": 75.8597,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.1622,75.8597",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Belur Chennakeshava Temple (UNESCO)",
+          "source": "Archaeological Survey of India & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to March (Winter weather is delightful)",
+      "entryFeeINR": 25,
+      "openingHours": "07:30 – 19:30",
+      "distanceFromNearestTown": "38 km from Hassan, 16 km from Halebidu, 220 km from Bengaluru",
+      "nearestBusStation": "Belur KSRTC Bus Stand (1 km)",
+      "nearestRailwayStation": "Hassan Junction (38 km)",
+      "roadAccessibility": "Directly accessible on National Highway 73 with large parking plazas",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2.5 – 3 hours",
+      "safetyInstructions": "Hire certified ASI guides to appreciate intricate Madanika carvings (e.g., the lady with the mirror, the huntress). Remove shoes at entrance.",
+      "permissionRequirements": "Protected under Archaeological Survey of India (UNESCO World Heritage Site)",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "UNESCO World Heritage Site with the world's most breathtaking 42 bracket dancer sculptures."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "belurchennakeshavatemple(unesco)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The crowning jewel of Hoysala architecture and a UNESCO World Heritage Site (2023). Commissioned in 1117 CE to celebrate victory over the Ch...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.1622,
+        "longitude": 75.8597
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:30 – 19:30",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Winter weather is delightful).",
+        "safetyNotes": "Hire certified ASI guides to appreciate intricate Madanika carvings (e.g., the lady with the mirror, the huntress). Remove shoes at entrance."
+      }
+    },
+    {
+      "id": "halebidu_hoysaleshwara_temple",
+      "name": "Halebidu Hoysaleshwara Temple (UNESCO)",
+      "nameKannada": "ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ (ಯುನೆಸ್ಕೋ)",
+      "district": "Hassan",
+      "taluk": "Belur",
+      "village": "Halebidu",
+      "gramPanchayat": "Belur Taluk Administration",
+      "category": [
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "Ancient Hoysala capital (Dwarasamudra) and UNESCO World Heritage Site (2023). This twin Shiva temple (Hoysaleshwara and Shantaleshwara) features over 1,248 feet of continuous outer friezes depicting 2,000 charging elephants, lions, mythological makaras, dancers, and scenes from Ramayana, Mahabharata, and Bhagavata without a single repeating panel.",
+      "historicalSignificance": "Begun in 1121 CE by King Vishnuvardhana and master architect Kedaraja; besieged and sacked by the Delhi Sultanate in 1311 and 1327 CE.",
+      "culturalImportance": "Widely acclaimed by architectural historians as one of the highest artistic achievements of human stone carving.",
+      "lat": 13.2164,
+      "lng": 75.9944,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.2164,75.9944",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Halebidu Hoysaleshwara Temple (UNESCO)",
+          "source": "Archaeological Survey of India & UNESCO World Heritage Centre"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 25,
+      "openingHours": "06:30 – 18:30",
+      "distanceFromNearestTown": "30 km from Hassan, 16 km from Belur",
+      "nearestBusStation": "Halebidu Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Hassan Junction (30 km)",
+      "roadAccessibility": "Excellent paved road connecting Hassan, Belur, and Halebidu",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "2.5 hours",
+      "safetyInstructions": "Carry sun hat; vast stone courtyard can get sunny. Do not touch fragile carved friezes.",
+      "permissionRequirements": "ASI entry ticket required (UNESCO World Heritage Site)",
+      "tourismInformationSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "UNESCO World Heritage masterpiece with 1,248 feet of non-repeating soapstone reliefs."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "halebiduhoysaleshwaratemple(unesco)"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Ancient Hoysala capital (Dwarasamudra) and UNESCO World Heritage Site (2023). This twin Shiva temple (Hoysaleshwara and Shantaleshwara) feat...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.2164,
+        "longitude": 75.9944
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & UNESCO World Heritage Centre",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:30 – 18:30",
+        "entryFeeINR": 25,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Carry sun hat; vast stone courtyard can get sunny. Do not touch fragile carved friezes."
+      }
+    },
+    {
+      "id": "shravanabelagola_bahubali",
+      "name": "Shravanabelagola & 57-ft Bahubali Gommateshwara",
+      "nameKannada": "ಶ್ರವಣಬೆಳಗೊಳ ಮತ್ತು ೫೭ ಅಡಿ ಬಾಹುಬಲಿ ಗೊಮ್ಮಟೇಶ್ವರ",
+      "district": "Hassan",
+      "taluk": "Channarayapatna",
+      "village": "Shravanabelagola",
+      "gramPanchayat": "Channarayapatna Taluk Administration",
+      "category": [
+        "spiritual",
+        "heritage",
+        "monument"
+      ],
+      "subcategory": "pilgrimage_site",
+      "description": "The paramount center of Digambara Jain pilgrimage worldwide, crowned atop the monolithic Vindhyagiri hill by the colossal 57-foot (17.5-meter) statue of Lord Bahubali (Gommateshwara), carved from a single block of grey granite in 981 CE. Celebrated globally for the sacred Mahamastakabhisheka head-anointing festival conducted once every 12 years.",
+      "historicalSignificance": "Consecrated on March 13, 981 CE by Ganga dynasty general Chavundaraya. Chandragiri hill opposite holds the samadhi of Emperor Chandragupta Maurya and sage Bhadrabahu (3rd century BCE).",
+      "culturalImportance": "A triumph of peace, non-violence (Ahimsa), and detachment; one of the Seven Wonders of India.",
+      "lat": 12.8569,
+      "lng": 76.4842,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.8569,76.4842",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Shravanabelagola & 57-ft Bahubali Gommateshwara",
+          "source": "Archaeological Survey of India & Jain Mutt Shravanabelagola"
+        }
+      ],
+      "bestSeason": "October to March (Climb early morning to avoid hot rock)",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30 (Climb opens at 06:00)",
+      "distanceFromNearestTown": "12 km from Channarayapatna, 50 km from Hassan, 140 km from Bengaluru",
+      "nearestBusStation": "Shravanabelagola Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Shravanabelagola Railway Station (2 km)",
+      "roadAccessibility": "Paved 4-lane highway connection from Bengaluru-Mangaluru NH-75",
+      "trekkingDifficulty": "Moderate (approx. 650 rock-cut steps to summit)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Climbing is done barefoot (socks permitted to protect from warm granite). Dolis (palanquins) available for seniors and persons with disabilities.",
+      "permissionRequirements": "Protected by Archaeological Survey of India; free entry",
+      "tourismInformationSource": "Archaeological Survey of India & Jain Mutt Shravanabelagola",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "World's largest free-standing monolithic stone statue, carved in 981 CE."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "shravanabelagola&57-ftbahubaligommateshwara"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The paramount center of Digambara Jain pilgrimage worldwide, crowned atop the monolithic Vindhyagiri hill by the colossal 57-foot (17.5-mete...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.8569,
+        "longitude": 76.4842
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Jain Mutt Shravanabelagola",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30 (Climb opens at 06:00)",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Climb early morning to avoid hot rock).",
+        "safetyNotes": "Climbing is done barefoot (socks permitted to protect from warm granite). Dolis (palanquins) available for seniors and persons with disabilities."
+      }
+    },
+    {
+      "id": "shettihalli_submerged_church",
+      "name": "Shettihalli Rosary Church ('The Floating Church')",
+      "nameKannada": "ಶೆಟ್ಟಿಹಳ್ಳಿ ಮುಳುಗಡೆ ಚರ್ಚ್ ('ತೇಲುವ ಚರ್ಚ್')",
+      "district": "Hassan",
+      "taluk": "Hassan",
+      "village": "Shettihalli",
+      "gramPanchayat": "Hassan Taluk Administration",
+      "category": [
+        "heritage",
+        "nature",
+        "hidden_gem"
+      ],
+      "subcategory": "ancient_monument",
+      "description": "A hauntingly beautiful 1860s French Gothic church constructed with mortar and jaggery by French missionaries on the banks of the Hemavathi River. Following the construction of the Gorur Dam in 1960, the church becomes completely submerged during monsoon months and resurfaces dramatically as water levels recede in winter and summer.",
+      "historicalSignificance": "Built around 1860 CE by French Catholic priest Father Abbe Dubois for wealthy British coffee planters and local converts.",
+      "culturalImportance": "A surreal gothic ruin attracting filmmakers, photographers, and heritage explorers drawn to its atmospheric submerged arches.",
+      "lat": 12.9167,
+      "lng": 76.0417,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.9167,76.0417",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+          "caption": "Shettihalli Rosary Church ('The Floating Church')",
+          "source": "Karnataka Tourism & District Administration"
+        }
+      ],
+      "bestSeason": "July to October (for submerged floating view by coracle) / November to May (for walking inside the dry ruins)",
+      "entryFeeINR": 0,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "22 km from Hassan city center",
+      "nearestBusStation": "Shettihalli Cross Bus Stop (1 km) / Hassan Bus Stand (22 km)",
+      "nearestRailwayStation": "Hassan Junction (22 km)",
+      "roadAccessibility": "Paved rural road from Hassan to Shettihalli village with dirt approach to water edge",
+      "trekkingDifficulty": "Easy (walking on sandy reservoir banks)",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "During monsoons, coracle boat rides are available; ensure life jackets are worn. Do not swim in muddy reservoir waters.",
+      "permissionRequirements": "Open ruined site; public access",
+      "tourismInformationSource": "Karnataka Tourism & District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Famous 'Floating Church' that submerges in water every monsoon and emerges in winter."
+      },
+      "division": "Mysuru",
+      "region": "Malenadu / South Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "shettihallirosarychurch('thefloatingchurch')"
+      ],
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A hauntingly beautiful 1860s French Gothic church constructed with mortar and jaggery by French missionaries on the banks of the Hemavathi R...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 12.9167,
+        "longitude": 76.0417
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during July to October (for submerged floating view by coracle) / November to May (for walking inside the dry ruins).",
+        "safetyNotes": "During monsoons, coracle boat rides are available; ensure life jackets are worn. Do not swim in muddy reservoir waters."
+      }
+    }
+  ],
+  "count": 4
+}

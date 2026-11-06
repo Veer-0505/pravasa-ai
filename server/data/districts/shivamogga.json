@@ -1,0 +1,568 @@
+{
+  "district": {
+    "id": "shivamogga",
+    "name": "Shivamogga",
+    "nameKannada": "ಶಿವಮೊಗ್ಗ",
+    "division": "Bengaluru",
+    "headquarters": "Shivamogga",
+    "lat": 13.9299,
+    "lng": 75.5681,
+    "taluks": [
+      "Shivamogga",
+      "Bhadravathi",
+      "Hosanagara",
+      "Sagara",
+      "Shikaripura",
+      "Soraba",
+      "Thirthahalli"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200&auto=format&fit=crop&q=80",
+    "description": "The gateway to Malenadu, Shivamogga is blessed with the majestic 830-foot Jog Falls, Agumbe rainforests ('Cherrapunji of the South'), Keladi & Ikkeri Nayaka architecture, Kodachadri peak, and Sakrebyle elephant camp.",
+    "descriptionKannada": "ಮಲೆನಾಡಿನ ಹೆಬ್ಬಾಗಿಲು ಶಿವಮೊಗ್ಗ, ವಿಶ್ವಪ್ರಸಿದ್ಧ ಜೋಗ ಜಲಪಾತ, ಆಗುಂಬೆ ನಿತ್ಯಹರಿದ್ವರ್ಣ ಮಳೆಕಾಡು, ಕೆಳದಿ-ಇಕ್ಕೇರಿ ವಾಸ್ತುಶಿಲ್ಪ, ಕೊಡಚಾದ್ರಿ ಶಿಖರ ಮತ್ತು ಸಕ್ರೆಬೈಲು ಆನೆ ಬಿಡಾರಗಳನ್ನು ಹೊಂದಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "jog_falls_sharavathi",
+      "name": "Jog Falls (Gerusoppa Falls)",
+      "nameKannada": "ಜೋಗ ಜಲಪಾತ (ಗೇರುಸೊಪ್ಪ ಜಲಪಾತ)",
+      "district": "Shivamogga",
+      "taluk": "Sagara",
+      "village": "Jog Falls",
+      "gramPanchayat": "Sagara Taluk Administration",
+      "category": [
+        "nature",
+        "waterfall"
+      ],
+      "subcategory": "waterfall",
+      "description": "India's second highest untiered plunge waterfall, where the Sharavathi River plunges an astounding 830 feet (253 meters) into a deep chasm in four distinct thunderous cascades: Raja (grandest leap), Roarer (violent rock torrent), Rocket (jetting stream), and Rani (graceful spray).",
+      "historicalSignificance": "Immortalized in world geography; powered the historic Mahatma Gandhi Hydro-Electric Project commissioned in 1948.",
+      "culturalImportance": "A crown jewel of Indian natural wonders, celebrated in classical Kannada poetry and global travel memoirs.",
+      "lat": 14.2289,
+      "lng": 74.8125,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.2289,74.8125",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+          "caption": "Jog Falls (Gerusoppa Falls)",
+          "source": "Jog Management Authority & Karnataka Tourism"
+        }
+      ],
+      "bestSeason": "July to November (Peak monsoon flow between August and October)",
+      "entryFeeINR": 50,
+      "openingHours": "06:00 – 19:30 (Laser light show in the evening)",
+      "distanceFromNearestTown": "30 km from Sagara, 100 km from Shivamogga",
+      "nearestBusStation": "Jog Falls KSRTC Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Talguppa Railway Station (14 km) or Sagara (30 km)",
+      "roadAccessibility": "Excellent national highway (NH-69) connectivity with viewing decks and visitor center",
+      "trekkingDifficulty": "Easy (viewing gallery) to Moderate (1,400 steps to the bottom of the gorge)",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Do not attempt to descend the steps to the gorge during heavy rains or when gates are closed. Stay behind safety railings at all viewing platforms.",
+      "permissionRequirements": "Jog Management Authority entry ticket",
+      "tourismInformationSource": "Jog Management Authority & Karnataka Tourism",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Legendary 830-foot four-cascade plunge waterfall, an undisputed wonder of Karnataka."
+      },
+      "division": "Bengaluru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "waterfall",
+      "aliases": [
+        "jogfalls(gerusoppafalls)"
+      ],
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "India's second highest untiered plunge waterfall, where the Sharavathi River plunges an astounding 830 feet (253 meters) into a deep chasm i...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.2289,
+        "longitude": 74.8125
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Jog Management Authority & Karnataka Tourism",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 19:30 (Laser light show in the evening)",
+        "entryFeeINR": 50,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during July to November (Peak monsoon flow between August and October).",
+        "safetyNotes": "Do not attempt to descend the steps to the gorge during heavy rains or when gates are closed. Stay behind safety railings at all viewing platforms."
+      }
+    },
+    {
+      "id": "agumbe_rainforest_cherrapunji",
+      "name": "Agumbe Rainforest & Sunset Viewpoint",
+      "nameKannada": "ಆಗುಂಬೆ ಮಳೆಕಾಡು ಮತ್ತು ಸೂರ್ಯಾಸ್ತ ತಾಣ",
+      "district": "Shivamogga",
+      "taluk": "Thirthahalli",
+      "village": "Agumbe",
+      "gramPanchayat": "Thirthahalli Taluk Administration",
+      "category": [
+        "nature",
+        "viewpoint",
+        "adventure"
+      ],
+      "subcategory": "hill_station",
+      "description": "Revered as the 'Cherrapunji of South India' due to receiving over 7,600 mm of annual rainfall, this dense tropical evergreen rainforest sanctuary is the world's capital of King Cobra research (Agumbe Rainforest Research Station), famous for the Sunset Point overlooking the Arabian Sea, Barkana Falls, and Onake Abbi Falls.",
+      "historicalSignificance": "The real-world filming location for the timeless television adaptation of R.K. Narayan's 'Malgudi Days' (Doddamane house in the village).",
+      "culturalImportance": "Global biodiversity hotspot of the Western Ghats; haven for herpetologists, ecologists, and monsoon wanderers.",
+      "lat": 13.5028,
+      "lng": 75.0936,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.5028,75.0936",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Agumbe Rainforest & Sunset Viewpoint",
+          "source": "Karnataka Forest Department & ARRS"
+        }
+      ],
+      "bestSeason": "October to March (for clear sunsets) / July to September (for true monsoon rainforest lovers)",
+      "entryFeeINR": 0,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "32 km from Thirthahalli, 90 km from Shivamogga, 55 km from Udupi",
+      "nearestBusStation": "Agumbe Bus Stand (1 km)",
+      "nearestRailwayStation": "Udupi Railway Station (55 km) or Shivamogga (90 km)",
+      "roadAccessibility": "Winding scenic ghat road (Agumbe Ghat / Someshwara Ghat with 14 hairpin curves)",
+      "trekkingDifficulty": "Moderate (rainforest jungle trails to waterfalls)",
+      "estimatedVisitDuration": "Full day (or overnight stay in heritage home)",
+      "safetyInstructions": "Leech socks essential during monsoon. Drive carefully on narrow hairpin turns. Respect wild reptile life.",
+      "permissionRequirements": "Forest Department permits required for inner waterfall treks like Barkana and Onake Abbi",
+      "tourismInformationSource": "Karnataka Forest Department & ARRS",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "King Cobra research capital, 'Malgudi Days' village, and breathtaking ghat sunsets."
+      },
+      "division": "Bengaluru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "agumberainforest&sunsetviewpoint"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Revered as the 'Cherrapunji of South India' due to receiving over 7,600 mm of annual rainfall, this dense tropical evergreen rainforest sanc...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.5028,
+        "longitude": 75.0936
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & ARRS",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (for clear sunsets) / July to September (for true monsoon rainforest lovers).",
+        "safetyNotes": "Leech socks essential during monsoon. Drive carefully on narrow hairpin turns. Respect wild reptile life."
+      }
+    },
+    {
+      "id": "keladi_ikkeri_aghoreshwara",
+      "name": "Ikkeri Aghoreshwara Temple & Keladi Museum",
+      "nameKannada": "ಇಕ್ಕೇರಿ ಅಘೋರೇಶ್ವರ ದೇವಾಲಯ ಮತ್ತು ಕೆಳದಿ",
+      "district": "Shivamogga",
+      "taluk": "Sagara",
+      "village": "Ikkeri & Keladi",
+      "gramPanchayat": "Sagara Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "The royal capitals of the legendary Keladi Nayakas. Ikkeri features the 16th-century Aghoreshwara Temple built of deep grey granite blending Hoysala, Vijayanagara, and Dravidian styles with an enormous stone Nandi and double-headed eagle (Gandabherunda) relief. Nearby Keladi houses the Rameshwara temple and heritage museum.",
+      "historicalSignificance": "Seat of legendary rulers Shivappa Nayaka and Queen Chennamma of Keladi, who granted asylum to Shivaji's son Rajaram and repulsed Mughal Emperor Aurangzeb's armies.",
+      "culturalImportance": "A proud emblem of Karnataka resistance and architectural syncretism in the Malenadu hills.",
+      "lat": 14.1286,
+      "lng": 75.0167,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=14.1286,75.0167",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Ikkeri Aghoreshwara Temple & Keladi Museum",
+          "source": "Archaeological Survey of India & Keladi Museum Trust"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "6 km from Sagara, 75 km from Shivamogga",
+      "nearestBusStation": "Ikkeri Cross Bus Stop (0.5 km) / Sagara Bus Stand (6 km)",
+      "nearestRailwayStation": "Sagara Jambagaru Railway Station (6 km)",
+      "roadAccessibility": "Paved rural roads through betel nut and pepper plantations",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "2 hours",
+      "safetyInstructions": "Remove footwear before entering the temple compound. Photography permitted in outer courtyard.",
+      "permissionRequirements": "Protected by Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India & Keladi Museum Trust",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Magnificent granite temple of the Keladi Nayakas who defeated the Mughal armies."
+      },
+      "division": "Bengaluru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "ikkeriaghoreshwaratemple&keladimuseum"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "The royal capitals of the legendary Keladi Nayakas. Ikkeri features the 16th-century Aghoreshwara Temple built of deep grey granite blending...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 14.1286,
+        "longitude": 75.0167
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & Keladi Museum Trust",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Remove footwear before entering the temple compound. Photography permitted in outer courtyard."
+      }
+    },
+    {
+      "id": "sakrebyle_elephant_camp",
+      "name": "Sakrebyle Elephant Rehabilitation Camp",
+      "nameKannada": "ಸಕ್ರೆಬೈಲು ಆನೆ ಪುನರ್ವಸತಿ ಶಿಬಿರ",
+      "district": "Shivamogga",
+      "taluk": "Shivamogga",
+      "village": "Sakrebyle",
+      "gramPanchayat": "Shivamogga Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A major elephant training and rehabilitation sanctuary managed by the Karnataka Forest Department on the scenic banks of the Tunga River. Visitors can watch wild and rescued elephants bathe in the river, interact closely with elephant calves, and observe Mahouts prepare their ragi-ball breakfast.",
+      "historicalSignificance": "Established to humanely rehabilitate captive, injured, and orphaned elephants from the Malenadu forest belt.",
+      "culturalImportance": "Beloved family destination offering gentle, respectful interactions with Karnataka's gentle giants.",
+      "lat": 13.8833,
+      "lng": 75.4833,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.8833,75.4833",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+          "caption": "Sakrebyle Elephant Rehabilitation Camp",
+          "source": "Karnataka Forest Department & Wildlife Division"
+        }
+      ],
+      "bestSeason": "Year-round (Elephant bathing optimal 08:30 to 11:00 AM)",
+      "entryFeeINR": 50,
+      "openingHours": "08:30 – 11:30 AM (Morning interaction session only)",
+      "distanceFromNearestTown": "14 km from Shivamogga on Thirthahalli road (NH-169)",
+      "nearestBusStation": "Sakrebyle Bus Stop on highway (0.2 km)",
+      "nearestRailwayStation": "Shivamogga Town Railway Station (14 km)",
+      "roadAccessibility": "Paved National Highway 169 with parking plaza",
+      "trekkingDifficulty": "Easy (riverside walking)",
+      "estimatedVisitDuration": "2 – 2.5 hours",
+      "safetyInstructions": "Follow Mahout instructions strictly. Do not approach elephants from behind or attempt to touch without Mahout supervision.",
+      "permissionRequirements": "Forest Department entry and elephant interaction ticket",
+      "tourismInformationSource": "Karnataka Forest Department & Wildlife Division",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Watch gentle giant elephants bathe in the Tunga River and interact with calves."
+      },
+      "division": "Bengaluru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "wildlife",
+      "aliases": [
+        "sakrebyleelephantrehabilitationcamp"
+      ],
+      "image": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A major elephant training and rehabilitation sanctuary managed by the Karnataka Forest Department on the scenic banks of the Tunga River. Vi...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.8833,
+        "longitude": 75.4833
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Wildlife Division",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "08:30 – 11:30 AM (Morning interaction session only)",
+        "entryFeeINR": 50,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (Elephant bathing optimal 08:30 to 11:00 AM).",
+        "safetyNotes": "Follow Mahout instructions strictly. Do not approach elephants from behind or attempt to touch without Mahout supervision."
+      }
+    },
+    {
+      "id": "kodachadri_peak_mookambika",
+      "name": "Kodachadri Mountain Peak & Hidlumane Falls",
+      "nameKannada": "ಕೊಡಚಾದ್ರಿ ಶಿಖರ ಮತ್ತು ಹಿಡ್ಲುಮನೆ ಜಲಪಾತ",
+      "district": "Shivamogga",
+      "taluk": "Hosanagara",
+      "village": "Sampekatte / Nittur",
+      "gramPanchayat": "Hosanagara Taluk Administration",
+      "category": [
+        "adventure",
+        "nature",
+        "spiritual"
+      ],
+      "subcategory": "mountain_peak",
+      "description": "A sacred 1,343-meter mountain peak declared a Natural Heritage Site by the Government of Karnataka. Adi Shankaracharya meditated here at the Sarvajna Peetha stone shrine; features an ancient rust-free Iron Pillar (Trishula) dating to 4th century CE, mist-clad shola grasslands, and the 7-tiered Hidlumane Falls.",
+      "historicalSignificance": "The spiritual origin of Goddess Mookambika before her shrine was established down in Kollur; ancient Iron Pillar shows advanced metallurgical skills.",
+      "culturalImportance": "One of the most sacred mountain pilgrimages in South India, praised for the sunset over the distant Arabian Sea horizon.",
+      "lat": 13.8583,
+      "lng": 74.8722,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=13.8583,74.8722",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kodachadri Mountain Peak & Hidlumane Falls",
+          "source": "Karnataka Forest Department & State Gazetteer"
+        }
+      ],
+      "bestSeason": "October to March (Winter offers clear sunset views over the ocean)",
+      "entryFeeINR": 20,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "20 km from Kollur, 115 km from Shivamogga",
+      "nearestBusStation": "Nittur / Nagodi Village Bus Stop (6 km)",
+      "nearestRailwayStation": "Byndoor Mookambika Road (45 km) or Shivamogga (115 km)",
+      "roadAccessibility": "Paved road to Nittur, followed by rugged 4WD off-road jeep trail or 12 km mountain foot trek",
+      "trekkingDifficulty": "Moderate to Challenging (via Hidlumane falls trail)",
+      "estimatedVisitDuration": "Full day (6 – 8 hours)",
+      "safetyInstructions": "Local 4WD jeeps operate from Nagodi/Kollur over extremely rough boulder terrain. Leeches common post-monsoon; carry salt. Stay on marked trails.",
+      "permissionRequirements": "Forest Department checkpost at base; online Aranya permit for overnight treks",
+      "tourismInformationSource": "Karnataka Forest Department & State Gazetteer",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Sacred mountain summit where Adi Shankaracharya meditated, with ancient 4th-century iron pillar."
+      },
+      "division": "Bengaluru",
+      "region": "Malenadu / Western Ghats",
+      "place_type": "heritage",
+      "aliases": [
+        "kodachadrimountainpeak&hidlumanefalls"
+      ],
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A sacred 1,343-meter mountain peak declared a Natural Heritage Site by the Government of Karnataka. Adi Shankaracharya meditated here at the...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 2,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 13.8583,
+        "longitude": 74.8722
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & State Gazetteer",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 20,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Winter offers clear sunset views over the ocean).",
+        "safetyNotes": "Local 4WD jeeps operate from Nagodi/Kollur over extremely rough boulder terrain. Leeches common post-monsoon; carry salt. Stay on marked trails."
+      }
+    }
+  ],
+  "count": 5
+}

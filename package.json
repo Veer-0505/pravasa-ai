@@ -1,0 +1,13 @@
+{
+  "name": "pravasa-ai",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ..\\client && npm install",
+    "dev": "concurrently \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "Bidar",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Bhalki",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Aurad",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Basavakalyan",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Humnabad",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kamalnagar",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Chitguppa",
+    "districtId": "bidar",
+    "districtName": "Bidar",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kalaburagi",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Afzalpur",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Aland",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Chincholi",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Chittapur",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Jevargi",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Sedam",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kamalapur",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Yadrami",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Shahabad",
+    "districtId": "kalaburagi",
+    "districtName": "Kalaburagi",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Yadgir",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Shorapur",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Shahapur",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Gurmitkal",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Vadagera",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Hunasagi",
+    "districtId": "yadgir",
+    "districtName": "Yadgir",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Raichur",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Manvi",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Sindhanur",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Devadurga",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Lingsugur",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Maski",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Sirwar",
+    "districtId": "raichur",
+    "districtName": "Raichur",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Koppal",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Gangavathi",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kushtagi",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Yelburga",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kuknoor",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kanakagiri",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Karatagi",
+    "districtId": "koppal",
+    "districtName": "Koppal",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Ballari",
+    "districtId": "ballari",
+    "districtName": "Ballari",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Sandur",
+    "districtId": "ballari",
+    "districtName": "Ballari",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Siruguppa",
+    "districtId": "ballari",
+    "districtName": "Ballari",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kurugodu",
+    "districtId": "ballari",
+    "districtName": "Ballari",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kampli",
+    "districtId": "ballari",
+    "districtName": "Ballari",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Hospet",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Hagaribommanahalli",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Harapanahalli",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Hoovina Hadagali",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kudligi",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Kotturu",
+    "districtId": "vijayanagara",
+    "districtName": "Vijayanagara",
+    "division": "Kalaburagi"
+  },
+  {
+    "name": "Belagavi",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Bailhongal",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Chikkodi",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Gokak",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hukkeri",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Khanapur",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Ramdurg",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Raybag",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Saundatti",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Athani",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kittur",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Mudalagi",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kagawad",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Yaragatti",
+    "districtId": "belagavi",
+    "districtName": "Belagavi",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Bagalkot",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Badami",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Bilgi",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hungund",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Jamkhandi",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Mudhol",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Ilkal",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Rabkavi Banhatti",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Guledgudda",
+    "districtId": "bagalkot",
+    "districtName": "Bagalkot",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Vijayapura",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Basavana Bagewadi",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Indi",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Muddebihal",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Sindagi",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Babaleshwar",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Chadchan",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Nidagundi",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Tikota",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Devar Hippargi",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kolhar",
+    "districtId": "vijayapura",
+    "districtName": "Vijayapura",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Dharwad",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hubballi Urban",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hubballi Rural",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kalghatgi",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kundgol",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Navalgund",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Alnavar",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Annigeri",
+    "districtId": "dharwad",
+    "districtName": "Dharwad",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Gadag",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Ron",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Shirahatti",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Mundargi",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Nargund",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Gajendragad",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Lakshmeshwar",
+    "districtId": "gadag",
+    "districtName": "Gadag",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Haveri",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Byadgi",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hangal",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Hirekerur",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Ranebennur",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Savanur",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Shiggaon",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Rattihalli",
+    "districtId": "haveri",
+    "districtName": "Haveri",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Karwar",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Ankola",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Bhatkal",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Haliyal",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Honnavar",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Joida",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Kumta",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Mundgod",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Siddapur",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Sirsi",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Yellapur",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Dandeli",
+    "districtId": "uttara_kannada",
+    "districtName": "Uttara Kannada",
+    "division": "Belagavi"
+  },
+  {
+    "name": "Bengaluru North",
+    "districtId": "bengaluru_urban",
+    "districtName": "Bengaluru Urban",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Bengaluru South",
+    "districtId": "bengaluru_urban",
+    "districtName": "Bengaluru Urban",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Bengaluru East",
+    "districtId": "bengaluru_urban",
+    "districtName": "Bengaluru Urban",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Anekal",
+    "districtId": "bengaluru_urban",
+    "districtName": "Bengaluru Urban",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Yelahanka",
+    "districtId": "bengaluru_urban",
+    "districtName": "Bengaluru Urban",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Devanahalli",
+    "districtId": "bengaluru_rural",
+    "districtName": "Bengaluru Rural",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Doddaballapura",
+    "districtId": "bengaluru_rural",
+    "districtName": "Bengaluru Rural",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Hosakote",
+    "districtId": "bengaluru_rural",
+    "districtName": "Bengaluru Rural",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Nelamangala",
+    "districtId": "bengaluru_rural",
+    "districtName": "Bengaluru Rural",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Ramanagara",
+    "districtId": "ramanagara",
+    "districtName": "Ramanagara",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Channapatna",
+    "districtId": "ramanagara",
+    "districtName": "Ramanagara",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Kanakapura",
+    "districtId": "ramanagara",
+    "districtName": "Ramanagara",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Magadi",
+    "districtId": "ramanagara",
+    "districtName": "Ramanagara",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Harohalli",
+    "districtId": "ramanagara",
+    "districtName": "Ramanagara",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Chikkaballapur",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Bagepalli",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Chintamani",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Gauribidanur",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Gudibanda",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Sidlaghatta",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Chelur",
+    "districtId": "chikkaballapur",
+    "districtName": "Chikkaballapur",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Kolar",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Bangarapet",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Malur",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Mulbagal",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Srinivaspur",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "KGF",
+    "districtId": "kolar",
+    "districtName": "Kolar",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Tumakuru",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Chiknayakanhalli",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Gubbi",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Koratagere",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Kunigal",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Madhugiri",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Pavagada",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Sira",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Tiptur",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Turuvekere",
+    "districtId": "tumakuru",
+    "districtName": "Tumakuru",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Chitradurga",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Challakere",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Hiriyur",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Holalkere",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Hosadurga",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Molakalmuru",
+    "districtId": "chitradurga",
+    "districtName": "Chitradurga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Davanagere",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Harihara",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Honnali",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Channagiri",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Jagalur",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Nyamathi",
+    "districtId": "davanagere",
+    "districtName": "Davanagere",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Shivamogga",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Bhadravathi",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Hosanagara",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Sagara",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Shikaripura",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Soraba",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Thirthahalli",
+    "districtId": "shivamogga",
+    "districtName": "Shivamogga",
+    "division": "Bengaluru"
+  },
+  {
+    "name": "Mysuru",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Hunsur",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Krishnarajanagara",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Nanjangud",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Heggadadevankote",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Piriyapatna",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Tirumakudalu Narasipura",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Saragur",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Saligrama",
+    "districtId": "mysuru",
+    "districtName": "Mysuru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Mandya",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Maddur",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Malavalli",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Pandavapura",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Nagamangala",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Krishnarajapet",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Srirangapatna",
+    "districtId": "mandya",
+    "districtName": "Mandya",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Hassan",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Alur",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Arkalgud",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Arsikere",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Belur",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Channarayapatna",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Holenarasipura",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Sakleshpur",
+    "districtId": "hassan",
+    "districtName": "Hassan",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Chikkamagaluru",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kadur",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Koppa",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Mudigere",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Narasimharajapura",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Sringeri",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Tarikere",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Ajjampura",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kalasa",
+    "districtId": "chikkamagaluru",
+    "districtName": "Chikkamagaluru",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Madikeri",
+    "districtId": "kodagu",
+    "districtName": "Kodagu",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Somwarpet",
+    "districtId": "kodagu",
+    "districtName": "Kodagu",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Virajpet",
+    "districtId": "kodagu",
+    "districtName": "Kodagu",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kushalnagar",
+    "districtId": "kodagu",
+    "districtName": "Kodagu",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Ponnampet",
+    "districtId": "kodagu",
+    "districtName": "Kodagu",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Mangaluru",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Bantwal",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Belthangady",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Puttur",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Sullia",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Moodbidri",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kadaba",
+    "districtId": "dakshina_kannada",
+    "districtName": "Dakshina Kannada",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Udupi",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kundapura",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Karkala",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Byndoor",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Brahmavara",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kaup",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Hebri",
+    "districtId": "udupi",
+    "districtName": "Udupi",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Chamarajanagar",
+    "districtId": "chamarajanagar",
+    "districtName": "Chamarajanagar",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Gundlupet",
+    "districtId": "chamarajanagar",
+    "districtName": "Chamarajanagar",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Kollegal",
+    "districtId": "chamarajanagar",
+    "districtName": "Chamarajanagar",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Yelandur",
+    "districtId": "chamarajanagar",
+    "districtName": "Chamarajanagar",
+    "division": "Mysuru"
+  },
+  {
+    "name": "Hanur",
+    "districtId": "chamarajanagar",
+    "districtName": "Chamarajanagar",
+    "division": "Mysuru"
+  }
+]

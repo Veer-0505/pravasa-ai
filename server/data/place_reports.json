@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rep_1793201880000",
+    "placeId": "hampi",
+    "placeName": "Hampi",
+    "category": "timing",
+    "reportedIssue": "ASI Virupaksha Temple inner sanctum closes at 1:00 PM for afternoon break before reopening at 4:00 PM.",
+    "suggestedCorrection": "Update temple darshan schedule with 1:00 PM - 4:00 PM afternoon break.",
+    "reporterEmail": "traveller@karnataka.gov.in",
+    "status": "resolved",
+    "createdAt": "2026-10-30T10:00:00.000Z",
+    "resolvedAt": "2026-10-31T14:30:00.000Z",
+    "adminNotes": "Verified against official ASI Bellary circle notification."
+  }
+]
+

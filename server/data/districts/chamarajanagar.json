@@ -1,0 +1,241 @@
+{
+  "district": {
+    "id": "chamarajanagar",
+    "name": "Chamarajanagar",
+    "nameKannada": "ಚಾಮರಾಜನಗರ",
+    "division": "Mysuru",
+    "headquarters": "Chamarajanagar",
+    "lat": 11.9261,
+    "lng": 76.9437,
+    "taluks": [
+      "Chamarajanagar",
+      "Gundlupet",
+      "Kollegal",
+      "Yelandur",
+      "Hanur"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=1200&auto=format&fit=crop&q=80",
+    "description": "Southern gateway of vast wildlife sanctuaries, Chamarajanagar is home to Bandipur Tiger Reserve, sacred Biligiri Rangana Hills (BR Hills), Male Mahadeshwara Hills (MM Hills), and scenic sunflower plains.",
+    "descriptionKannada": "ವನ್ಯಜೀವಿ ಧಾಮಗಳ ತವರು ಚಾಮರಾಜನಗರ, ಬಂಡೀಪುರ ಹುಲಿ ಸಂರಕ್ಷಿತ ಪ್ರದೇಶ, ಬಿಳಿಗಿರಿ ರಂಗನ ಬೆಟ್ಟ, ಮಲೆ ಮಹದೇಶ್ವರ ಬೆಟ್ಟ ಮತ್ತು ಗುಂಡ್ಲುಪೇಟೆಯ ಸೂರ್ಯಕಾಂತಿ ಹೊಲಗಳಿಗೆ ಖ್ಯಾತವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "bandipur_tiger_reserve",
+      "name": "Bandipur National Park & Tiger Reserve",
+      "nameKannada": "ಬಂಡೀಪುರ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ ಮತ್ತು ಹುಲಿ ಸಂರಕ್ಷಿತ ಪ್ರದೇಶ",
+      "district": "Chamarajanagar",
+      "taluk": "Gundlupet",
+      "village": "Bandipur",
+      "gramPanchayat": "Gundlupet Taluk Administration",
+      "category": [
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "One of India's premier and most successful tiger reserves, spanning 874 sq km in the Nilgiri Biosphere Reserve at the confluence of Western and Eastern Ghats. Shelters India's second highest wild tiger population along with large herds of Asian elephants, leopards, dholes (wild dogs), gaurs, and over 200 bird species.",
+      "historicalSignificance": "Originally established in 1931 by the Maharaja of Mysore as Venugopala Wildlife Park; declared one of the first 9 Project Tiger reserves in India in 1973.",
+      "culturalImportance": "A crown jewel of Indian wildlife conservation, famous for open jeep and canter safaris through scenic teak and rosewood forests.",
+      "lat": 11.6664,
+      "lng": 76.6297,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.6664,76.6297",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+          "caption": "Bandipur National Park & Tiger Reserve",
+          "source": "Karnataka Forest Department & Project Tiger India"
+        }
+      ],
+      "bestSeason": "October to May (Wildlife sightings optimal during dry season February to May)",
+      "entryFeeINR": 350,
+      "openingHours": "Safari Timings: Morning 06:15 – 09:00, Evening 15:30 – 18:00",
+      "distanceFromNearestTown": "22 km from Gundlupet, 80 km from Mysuru, 220 km from Bengaluru",
+      "nearestBusStation": "Bandipur Reception Counter on NH-766",
+      "nearestRailwayStation": "Mysuru Junction (80 km)",
+      "roadAccessibility": "Situated right along National Highway 766 (Mysuru-Ooty highway; night traffic banned 21:00 to 06:00)",
+      "trekkingDifficulty": "Easy (safari vehicle based)",
+      "estimatedVisitDuration": "Half day or overnight at Jungle Lodges",
+      "safetyInstructions": "STRICT NIGHT TRAFFIC BAN on NH-766 through the forest between 21:00 and 06:00. Never step out of safari vehicles. Do not feed or tease wild animals.",
+      "permissionRequirements": "Online safari booking via official Karnataka Forest Department portal or Jungle Lodges and Resorts",
+      "tourismInformationSource": "Karnataka Forest Department & Project Tiger India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Premier Project Tiger reserve in the Nilgiri Biosphere with high tiger and elephant densities."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "bandipurnationalpark&tigerreserve"
+      ],
+      "image": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "One of India's premier and most successful tiger reserves, spanning 874 sq km in the Nilgiri Biosphere Reserve at the confluence of Western ...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 3,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 11.6664,
+        "longitude": 76.6297
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Project Tiger India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Safari Timings: Morning 06:15 – 09:00, Evening 15:30 – 18:00",
+        "entryFeeINR": 350,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to May (Wildlife sightings optimal during dry season February to May).",
+        "safetyNotes": "STRICT NIGHT TRAFFIC BAN on NH-766 through the forest between 21:00 and 06:00. Never step out of safari vehicles. Do not feed or tease wild animals."
+      }
+    },
+    {
+      "id": "br_hills_biligiri_ranganatha",
+      "name": "Biligiri Ranganatha Swamy Temple (BR Hills)",
+      "nameKannada": "ಬಿಳಿಗಿರಿ ರಂಗನಾಥ ಸ್ವಾಮಿ ಬೆಟ್ಟ (ಬಿ ಆರ್ ಹಿಲ್ಸ್)",
+      "district": "Chamarajanagar",
+      "taluk": "Yelandur",
+      "village": "BR Hills",
+      "gramPanchayat": "Yelandur Taluk Administration",
+      "category": [
+        "spiritual",
+        "nature",
+        "wildlife"
+      ],
+      "subcategory": "wildlife_sanctuary",
+      "description": "A unique ecological bridge connecting the Western and Eastern Ghats, rising 1,500 meters in a wildlife sanctuary teeming with tigers, elephants, and leopards. The white cliff summit ('Biligiri') is crowned by the sacred Biligiri Ranganatha Swamy Temple, worshipped by both mainstream pilgrims and the indigenous Soliga tribal community.",
+      "historicalSignificance": "Sacred homeland of the Soliga indigenous forest dwellers; houses the sacred 2,000-year-old giant Champak tree (Dodda Sampige) deep in the forest.",
+      "culturalImportance": "Unique harmony of tribal forest culture and Vedic temple traditions; offers misty jungle views and eco-tourism.",
+      "lat": 11.9967,
+      "lng": 77.14,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=11.9967,77.14",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+          "caption": "Biligiri Ranganatha Swamy Temple (BR Hills)",
+          "source": "Karnataka Forest Department & Temple Trust"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "07:00 – 13:00, 16:00 – 19:00",
+      "distanceFromNearestTown": "28 km from Yelandur, 45 km from Chamarajanagar, 85 km from Mysuru",
+      "nearestBusStation": "BR Hills Bus Stand (0.5 km)",
+      "nearestRailwayStation": "Chamarajanagar Railway Station (45 km) or Mysuru (85 km)",
+      "roadAccessibility": "Paved ghat road winding through tiger reserve; forest checkpost regulates traffic",
+      "trekkingDifficulty": "Easy",
+      "estimatedVisitDuration": "3 – 4 hours",
+      "safetyInstructions": "Drive slowly; wild elephants and gaurs frequently cross the ghat road. Forest road closed to traffic after 18:00.",
+      "permissionRequirements": "Open temple entry; Jungle Lodges (K Gudi) organizes jeep safaris",
+      "tourismInformationSource": "Karnataka Forest Department & Temple Trust",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Unique ecological bridge where Western Ghats meet Eastern Ghats with sacred tribal traditions."
+      },
+      "division": "Mysuru",
+      "region": "South Karnataka",
+      "place_type": "wildlife",
+      "aliases": [
+        "biligiriranganathaswamytemple(brhills)"
+      ],
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A unique ecological bridge connecting the Western and Eastern Ghats, rising 1,500 meters in a wildlife sanctuary teeming with tigers, elepha...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 11.9967,
+        "longitude": 77.14
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Forest Department & Temple Trust",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "07:00 – 13:00, 16:00 – 19:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Drive slowly; wild elephants and gaurs frequently cross the ghat road. Forest road closed to traffic after 18:00."
+      }
+    }
+  ],
+  "count": 2
+}

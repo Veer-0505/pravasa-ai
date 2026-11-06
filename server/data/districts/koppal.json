@@ -1,0 +1,459 @@
+{
+  "district": {
+    "id": "koppal",
+    "name": "Koppal",
+    "nameKannada": "ಕೊಪ್ಪಳ",
+    "division": "Kalaburagi",
+    "headquarters": "Koppal",
+    "lat": 15.3486,
+    "lng": 76.155,
+    "taluks": [
+      "Koppal",
+      "Gangavathi",
+      "Kushtagi",
+      "Yelburga",
+      "Kuknoor",
+      "Kanakagiri",
+      "Karatagi"
+    ],
+    "bannerImage": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=1200&auto=format&fit=crop&q=80",
+    "description": "Known as the historical Jain center and Kishkindha terrain, Koppal features the architectural wonder Mahadeva Temple at Itagi ('Devalaya Chakravarti'), Anjanadri Hill, Anegundi, and GI-tagged Kinnal wooden toys.",
+    "descriptionKannada": "ಐತಿಹಾಸಿಕ ಜೈನ ತಾಣ ಮತ್ತು ಕಿಷ್ಕಿಂಧೆಯ ನೆಲೆಯಾದ ಕೊಪ್ಪಳ, 'ದೇವಾಲಯ ಚಕ್ರವರ್ತಿ' ಇಟಗಿ ಮಹಾದೇವ ದೇವಾಲಯ, ಅಂಜನಾದ್ರಿ ಬೆಟ್ಟ, ಆನೆಗುಂದಿ ಮತ್ತು ಕಿನ್ನಾಳ ಮರದ ಬೊಂಬೆಗಳ ಕಲೆಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ."
+  },
+  "destinations": [
+    {
+      "id": "itagi_mahadeva_temple",
+      "name": "Mahadeva Temple, Itagi",
+      "nameKannada": "ಮಹಾದೇವ ದೇವಾಲಯ, ಇಟಗಿ",
+      "district": "Koppal",
+      "taluk": "Yelburga",
+      "village": "Itagi",
+      "gramPanchayat": "Yelburga Taluk Administration",
+      "category": [
+        "heritage",
+        "spiritual"
+      ],
+      "subcategory": "ancient_temple",
+      "description": "Celebrated in ancient stone inscriptions as 'Devalaya Chakravarti' (Emperor among Temples), this 1112 CE Western Chalukya masterpiece features an ornate pillared open hall with 64 intricately lathe-turned pillars, friezes, and vimana tower.",
+      "historicalSignificance": "Commissioned in 1112 CE by Mahadeva, a high-ranking Dandanayaka (military general) under Western Chalukya King Vikramaditya VI.",
+      "culturalImportance": "Represents the pinnacle of Kalyana Chalukya architectural refinement, bridging Badami Chalukyan style with later Hoysala carving traditions.",
+      "lat": 15.4683,
+      "lng": 75.9903,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.4683,75.9903",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Mahadeva Temple, Itagi",
+          "source": "Archaeological Survey of India"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "06:00 – 18:30",
+      "distanceFromNearestTown": "22 km from Koppal, 7 km from Kuknoor",
+      "nearestBusStation": "Kuknoor Bus Stand (7 km) or Koppal (22 km)",
+      "nearestRailwayStation": "Bhanapur Railway Station (9 km) or Koppal (22 km)",
+      "roadAccessibility": "Paved state highway connects Koppal, Kuknoor, and Itagi",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 – 2 hours",
+      "safetyInstructions": "Take off footwear before entering the stone mandapa. Photography permitted.",
+      "permissionRequirements": "Protected national monument under Archaeological Survey of India",
+      "tourismInformationSource": "Archaeological Survey of India",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Officially inscribed as 'Emperor of Temples', yet receives a fraction of Hampi's footfall."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "mahadevatemple,itagi"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Celebrated in ancient stone inscriptions as 'Devalaya Chakravarti' (Emperor among Temples), this 1112 CE Western Chalukya masterpiece featur...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.4683,
+        "longitude": 75.9903
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "06:00 – 18:30",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Take off footwear before entering the stone mandapa. Photography permitted."
+      }
+    },
+    {
+      "id": "anjanadri_hill_kishkindha",
+      "name": "Anjanadri Hill (Hanuman Birthplace)",
+      "nameKannada": "ಅಂಜನಾದ್ರಿ ಬೆಟ್ಟ (ಹನುಮ ಜನ್ಮಸ್ಥಳ)",
+      "district": "Koppal",
+      "taluk": "Gangavathi",
+      "village": "Anegundi / Hanumanahalli",
+      "gramPanchayat": "Gangavathi Taluk Administration",
+      "category": [
+        "spiritual",
+        "adventure",
+        "nature"
+      ],
+      "subcategory": "sacred_hill",
+      "description": "Sacred hill identified in Valmiki Ramayana as Kishkindha, the mythological birthplace of Lord Hanuman. 575 stone steps lead to a whitewashed summit temple with 360-degree views of paddy fields, Tungabhadra River, and Hampi's boulder landscapes.",
+      "historicalSignificance": "Mentioned in ancient Puranas and Ramayana; sanctified by continuous worship for over two millennia.",
+      "culturalImportance": "Revered as one of India's preeminent Hanuman pilgrimage destinations, with continuous 24-hour Akhanda Ramayana chanting on the summit.",
+      "lat": 15.3533,
+      "lng": 76.4719,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.3533,76.4719",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Anjanadri Hill (Hanuman Birthplace)",
+          "source": "Karnataka Tourism & Kishkindha Development Authority"
+        }
+      ],
+      "bestSeason": "October to March (Sunrise and sunset climbs are legendary)",
+      "entryFeeINR": 0,
+      "openingHours": "05:00 – 21:00",
+      "distanceFromNearestTown": "5 km from Anegundi, 20 km from Gangavathi",
+      "nearestBusStation": "Anegundi Bus Stop (5 km)",
+      "nearestRailwayStation": "Hospet Junction (22 km) or Munirabad (18 km)",
+      "roadAccessibility": "Paved scenic road along Tungabhadra river from Hospet/Gangavathi",
+      "trekkingDifficulty": "Moderate (575 well-paved stone stairs with railings)",
+      "estimatedVisitDuration": "2.5 – 3 hours",
+      "safetyInstructions": "Monkeys are abundant along the steps; keep food, bags, and sunglasses safely inside backpacks. Early morning climb avoids midday heat.",
+      "permissionRequirements": "Managed by Endowments Department; open to all",
+      "tourismInformationSource": "Karnataka Tourism & Kishkindha Development Authority",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "popular",
+        "reason": "Iconic Kishkindha pilgrimage summit with breathtaking sunset panoramic views over Hampi."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "anjanadrihill(hanumanbirthplace)"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Sacred hill identified in Valmiki Ramayana as Kishkindha, the mythological birthplace of Lord Hanuman. 575 stone steps lead to a whitewashed...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 3,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.3533,
+        "longitude": 76.4719
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Karnataka Tourism & Kishkindha Development Authority",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "05:00 – 21:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March (Sunrise and sunset climbs are legendary).",
+        "safetyNotes": "Monkeys are abundant along the steps; keep food, bags, and sunglasses safely inside backpacks. Early morning climb avoids midday heat."
+      }
+    },
+    {
+      "id": "anegundi_heritage_village",
+      "name": "Anegundi Heritage Village & Onake Kindi",
+      "nameKannada": "ಆನೆಗುಂದಿ ಪರಂಪರೆ ಗ್ರಾಮ ಮತ್ತು ಒಣಕೆ ಕಿಂಡಿ",
+      "district": "Koppal",
+      "taluk": "Gangavathi",
+      "village": "Anegundi",
+      "gramPanchayat": "Gangavathi Taluk Administration",
+      "category": [
+        "heritage",
+        "culture"
+      ],
+      "subcategory": "historical_village",
+      "description": "Older than Hampi itself, this ancient capital of the Vijayanagara Empire features prehistoric rock art at Onake Kindi, the Chintamani Temple complex where Rama met Sugriva, the 64-pillared Krishnadevaraya Samadhi, and banana-fiber craft workshops.",
+      "historicalSignificance": "Dating back to the Megalithic era and early 14th century when brothers Hakka and Bukka served here before founding Vijayanagara across the river.",
+      "culturalImportance": "Living epic center of Ramayana Kishkindha lore and vibrant eco-sustainable craft community.",
+      "lat": 15.3539,
+      "lng": 76.4967,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.3539,76.4967",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+          "caption": "Anegundi Heritage Village & Onake Kindi",
+          "source": "Archaeological Survey of India & The Kishkinda Trust"
+        }
+      ],
+      "bestSeason": "October to March",
+      "entryFeeINR": 0,
+      "openingHours": "Sunrise to Sunset",
+      "distanceFromNearestTown": "22 km from Hospet via bridge or coracle",
+      "nearestBusStation": "Anegundi Local Bus Stand (0.2 km)",
+      "nearestRailwayStation": "Hospet Junction (22 km)",
+      "roadAccessibility": "Road connected via Bukka Bhupala bridge from Gangavathi/Hospet",
+      "trekkingDifficulty": "Easy to Moderate (village walking and trail to rock art)",
+      "estimatedVisitDuration": "Half day (3 – 4 hours)",
+      "safetyInstructions": "Coracle rides across Tungabhadra are weather-dependent; wear life vests provided.",
+      "permissionRequirements": "The Kishkinda Trust & Archeology Department",
+      "tourismInformationSource": "Archaeological Survey of India & The Kishkinda Trust",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "emerging",
+        "reason": "Prehistoric rock paintings and living village heritage right across the river from Hampi."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "anegundiheritagevillage&onakekindi"
+      ],
+      "image": "https://images.unsplash.com/photo-1600100397608-f010f443b350?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "Older than Hampi itself, this ancient capital of the Vijayanagara Empire features prehistoric rock art at Onake Kindi, the Chintamani Temple...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 2,
+      "offbeat": false,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.3539,
+        "longitude": 76.4967
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Archaeological Survey of India & The Kishkinda Trust",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "Sunrise to Sunset",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during October to March.",
+        "safetyNotes": "Coracle rides across Tungabhadra are weather-dependent; wear life vests provided."
+      }
+    },
+    {
+      "id": "kinnal_wooden_craft_village",
+      "name": "Kinnal Wooden Toy Craft Village",
+      "nameKannada": "ಕಿನ್ನಾಳ ಮರದ ಬೊಂಬೆ ಕರಕುಶಲ ಗ್ರಾಮ",
+      "district": "Koppal",
+      "taluk": "Koppal",
+      "village": "Kinnal",
+      "gramPanchayat": "Koppal Taluk Administration",
+      "category": [
+        "culture",
+        "hidden_gem"
+      ],
+      "subcategory": "craft_village",
+      "description": "A traditional craft settlement where Chitragar families practice a 400-year-old GI-tagged craft, creating lightweight wooden deities, animal figurines, and toys using Polki wood, tamarind-seed paste, and natural lacquer colors.",
+      "historicalSignificance": "Artisans' ancestors were patronized by Vijayanagara emperors and the Nawabs of Koppal to carve the grand wooden chariots and palanquins.",
+      "culturalImportance": "One of Karnataka's proudest traditional folk art legacies, preserving intricate multi-step wooden sculpture techniques.",
+      "lat": 15.4217,
+      "lng": 76.1367,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=15.4217,76.1367",
+      "photos": [
+        {
+          "url": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+          "caption": "Kinnal Wooden Toy Craft Village",
+          "source": "Ministry of Textiles & Koppal District Administration"
+        }
+      ],
+      "bestSeason": "Year-round (October to March ideal)",
+      "entryFeeINR": 0,
+      "openingHours": "09:00 – 19:00",
+      "distanceFromNearestTown": "15 km from Koppal",
+      "nearestBusStation": "Koppal Bus Stand (15 km)",
+      "nearestRailwayStation": "Koppal Railway Station (16 km)",
+      "roadAccessibility": "Paved rural road from Koppal to Kinnal",
+      "trekkingDifficulty": "None",
+      "estimatedVisitDuration": "1.5 hours",
+      "safetyInstructions": "Artisans welcome polite visitors in their home workshops; ask before photographing.",
+      "permissionRequirements": "Open village, direct artisan interaction",
+      "tourismInformationSource": "Ministry of Textiles & Koppal District Administration",
+      "verificationStatus": "verified",
+      "hiddenGemClassification": {
+        "status": "hidden_gem",
+        "reason": "Witness ancient GI-tagged toy-making directly in artisan home workshops."
+      },
+      "division": "Kalaburagi",
+      "region": "North Karnataka",
+      "place_type": "heritage",
+      "aliases": [
+        "kinnalwoodentoycraftvillage"
+      ],
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&auto=format&fit=crop&q=80",
+      "shortDescription": "A traditional craft settlement where Chitragar families practice a 400-year-old GI-tagged craft, creating lightweight wooden deities, animal...",
+      "avgVisitHours": 2,
+      "bestMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "costLevel": 1,
+      "crowdLevel": 1,
+      "offbeat": true,
+      "seniorFriendly": true,
+      "familyFriendly": true,
+      "nearbyFood": [
+        "South Indian thali",
+        "Filter coffee",
+        "Local snacks"
+      ],
+      "facilities": [
+        "Drinking water",
+        "Restrooms nearby",
+        "Parking"
+      ],
+      "accessibility": "Accessible terrain with walking paths",
+      "location": {
+        "latitude": 15.4217,
+        "longitude": 76.1367
+      },
+      "location_verified": true,
+      "verification_status": "verified",
+      "verified": true,
+      "verifiedDate": "2026-11-05",
+      "dataSource": "Ministry of Textiles & Koppal District Administration",
+      "source_url": "https://karnatakatourism.org",
+      "isPublished": true,
+      "lastUpdatedBy": "Pravasa AI Tourism Research Division",
+      "approxStayPerNightINR": {
+        "low": 800,
+        "medium": 2000,
+        "premium": 4500
+      },
+      "visit_info": {
+        "openingHours": "09:00 – 19:00",
+        "entryFeeINR": 0,
+        "bestMonths": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "seasonNotes": "Best visited during Year-round (October to March ideal).",
+        "safetyNotes": "Artisans welcome polite visitors in their home workshops; ask before photographing."
+      }
+    }
+  ],
+  "count": 4
+}
