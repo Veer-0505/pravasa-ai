@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: pravasa-ai-backend
+    env: node
+    plan: free
+    rootDir: server
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.0-flash
+      - key: JWT_SECRET
+        generateValue: true
+      - key: SUPABASE_URL
+        value: https://mdolylwrywladyepnqii.supabase.co
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: SUPABASE_ANON_KEY
+        value: sb_publishable_f7WmWk0iCGI5K6hdxKhV2Q_ymBFC1tC

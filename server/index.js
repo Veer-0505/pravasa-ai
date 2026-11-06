@@ -25,8 +25,23 @@ const app = express();
 // Rate limiting & security
 app.use('/api', generalRateLimiter);
 
-// CORS - allow local dev origin
-app.use(cors({ origin: ['http://localhost:5173', 'http://localhost:3000'], credentials: true }));
+// CORS - allow production domains and local dev origin
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:3000',
+  process.env.CLIENT_URL
+].filter(Boolean);
+
+app.use(cors({
+  origin: (origin, callback) => {
+    // allow server-to-server or tools without origin, or matching allowed origins, or any vercel.app preview
+    if (!origin || allowedOrigins.includes(origin) || origin.endsWith('.vercel.app')) {
+      return callback(null, true);
+    }
+    return callback(null, true); // Permissive for production deployment
+  },
+  credentials: true
+}));
 app.use(express.json({ limit: '10mb' }));
 
 // Static uploads directory for durable media storage
